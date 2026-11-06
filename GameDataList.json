@@ -137383,7 +137383,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "AllSage_IsAfter_Step02_Exp"
         },
         {
           "Hash": 4048741464,
@@ -137445,7 +137446,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "Defeat_Ganon_IsAfter_Step02_Exp"
         },
         {
           "Hash": 279240611,
@@ -137460,7 +137462,8 @@
               2,
               "Step03"
             ]
-          ]
+          ],
+          "HashText": "Defeat_Ganon_IsAfter_Step03_Exp"
         },
         {
           "Hash": 1333642354,
@@ -137475,7 +137478,8 @@
               2,
               "Step04"
             ]
-          ]
+          ],
+          "HashText": "Defeat_Ganon_IsAfter_Step04_Exp"
         },
         {
           "Hash": 2424280431,
@@ -137538,7 +137542,8 @@
               2,
               "Step08"
             ]
-          ]
+          ],
+          "HashText": "Defeat_Ganon_IsAfter_Step08_Exp"
         },
         {
           "Hash": 2978159816,
@@ -137553,7 +137558,8 @@
               2,
               "Step09"
             ]
-          ]
+          ],
+          "HashText": "Defeat_Ganon_IsAfter_Step09_Exp"
         },
         {
           "Hash": 382420419,
@@ -137777,16 +137783,17 @@
           "Values": [
             [
               10,
-              1449914316
+              "UndefeatedEnemyAfterGameClear_Dm_Enemy_DungeonBoss_Volvagia"
             ],
             [
               10,
-              3229817646
+              "HaveDefeatedEnemy_Dm_Enemy_DungeonBoss_Volvagia"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Dm_Enemy_DungeonBoss_Volvagia"
         },
         {
           "Hash": 2687733148,
@@ -137814,16 +137821,17 @@
           "Values": [
             [
               10,
-              1188808793
+              "UndefeatedEnemyAfterGameClear_Enemy_Amos_AlwaysRespawn"
             ],
             [
               10,
-              204557374
+              "HaveDefeatedEnemy_Enemy_Amos_AlwaysRespawn"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Amos_AlwaysRespawn"
         },
         {
           "Hash": 3755631838,
@@ -137908,16 +137916,17 @@
           "Values": [
             [
               10,
-              2770348931
+              "UndefeatedEnemyAfterGameClear_Enemy_Beamos_For_High_Place"
             ],
             [
               10,
-              3350042337
+              "HaveDefeatedEnemy_Enemy_Beamos_For_High_Place"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Beamos_For_High_Place"
         },
         {
           "Hash": 1777061413,
@@ -138059,7 +138068,7 @@
           "Values": [
             [
               10,
-              3497366830
+              "UndefeatedEnemyAfterGameClear_Enemy_DeadHand"
             ],
             [
               10,
@@ -138068,7 +138077,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DeadHand"
         },
         {
           "Hash": 83823813,
@@ -138096,16 +138106,17 @@
           "Values": [
             [
               10,
-              2691383709
+              "UndefeatedEnemyAfterGameClear_Enemy_Dekubaba_Withered"
             ],
             [
               10,
-              637071113
+              "HaveDefeatedEnemy_Enemy_Dekubaba_Withered"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Dekubaba_Withered"
         },
         {
           "Hash": 3201695578,
@@ -138114,7 +138125,7 @@
           "Values": [
             [
               10,
-              1560172682
+              "UndefeatedEnemyAfterGameClear_Enemy_Dinolfos"
             ],
             [
               10,
@@ -138123,7 +138134,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Dinolfos"
         },
         {
           "Hash": 3715783844,
@@ -138151,7 +138163,7 @@
           "Values": [
             [
               10,
-              173311362
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Barinade"
             ],
             [
               10,
@@ -138160,7 +138172,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Barinade"
         },
         {
           "Hash": 1771501872,
@@ -138169,7 +138182,7 @@
           "Values": [
             [
               10,
-              1695894586
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_BongoBongo"
             ],
             [
               10,
@@ -138178,7 +138191,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_BongoBongo"
         },
         {
           "Hash": 4277518565,
@@ -138187,7 +138201,7 @@
           "Values": [
             [
               10,
-              712496200
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo"
             ],
             [
               10,
@@ -138196,7 +138210,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Dodongo"
         },
         {
           "Hash": 2223392758,
@@ -138205,16 +138220,17 @@
           "Values": [
             [
               10,
-              1815837842
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo"
             ],
             [
               10,
-              963765595
+              "HaveDefeatedEnemy_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo"
         },
         {
           "Hash": 3779731332,
@@ -138223,7 +138239,7 @@
           "Values": [
             [
               10,
-              2323774623
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon"
             ],
             [
               10,
@@ -138232,7 +138248,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Ganon"
         },
         {
           "Hash": 3401468252,
@@ -138241,7 +138258,7 @@
           "Values": [
             [
               10,
-              1574186416
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganondorf"
             ],
             [
               10,
@@ -138250,7 +138267,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Ganondorf"
         },
         {
           "Hash": 1154466474,
@@ -138259,16 +138277,17 @@
           "Values": [
             [
               10,
-              2112453833
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon_SecondHalfBattle"
             ],
             [
               10,
-              3510570763
+              "HaveDefeatedEnemy_Enemy_DungeonBoss_Ganon_SecondHalfBattle"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Ganon_SecondHalfBattle"
         },
         {
           "Hash": 4263008980,
@@ -138277,7 +138296,7 @@
           "Values": [
             [
               10,
-              519846175
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma"
             ],
             [
               10,
@@ -138286,7 +138305,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Gohma"
         },
         {
           "Hash": 2229456747,
@@ -138295,16 +138315,17 @@
           "Values": [
             [
               10,
-              387727487
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma_Egg"
             ],
             [
               10,
-              1968668663
+              "HaveDefeatedEnemy_Enemy_DungeonBoss_Gohma_Egg"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Gohma_Egg"
         },
         {
           "Hash": 2714050207,
@@ -138313,16 +138334,17 @@
           "Values": [
             [
               10,
-              2710755518
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Kotake"
             ],
             [
               10,
-              430889359
+              "HaveDefeatedEnemy_Enemy_DungeonBoss_Kotake"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Kotake"
         },
         {
           "Hash": 674285924,
@@ -138331,16 +138353,17 @@
           "Values": [
             [
               10,
-              4189713294
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Koume"
             ],
             [
               10,
-              457074184
+              "HaveDefeatedEnemy_Enemy_DungeonBoss_Koume"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Koume"
         },
         {
           "Hash": 2871633051,
@@ -138349,7 +138372,7 @@
           "Values": [
             [
               10,
-              2546821417
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Morpha"
             ],
             [
               10,
@@ -138358,7 +138381,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Morpha"
         },
         {
           "Hash": 2586868331,
@@ -138367,7 +138391,7 @@
           "Values": [
             [
               10,
-              1932385229
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_PhantomGanon"
             ],
             [
               10,
@@ -138376,7 +138400,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_PhantomGanon"
         },
         {
           "Hash": 356408537,
@@ -138385,7 +138410,7 @@
           "Values": [
             [
               10,
-              221713218
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Twinrova"
             ],
             [
               10,
@@ -138394,7 +138419,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Twinrova"
         },
         {
           "Hash": 2004201318,
@@ -138403,7 +138429,7 @@
           "Values": [
             [
               10,
-              2544024534
+              "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Volvagia"
             ],
             [
               10,
@@ -138412,7 +138438,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_DungeonBoss_Volvagia"
         },
         {
           "Hash": 4284663506,
@@ -138440,16 +138467,17 @@
           "Values": [
             [
               10,
-              1263801773
+              "UndefeatedEnemyAfterGameClear_Enemy_Floormaster_Truth"
             ],
             [
               10,
-              3362515264
+              "HaveDefeatedEnemy_Enemy_Floormaster_Truth"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Floormaster_Truth"
         },
         {
           "Hash": 1089551455,
@@ -138477,16 +138505,17 @@
           "Values": [
             [
               10,
-              768752675
+              "UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_IceCavern"
             ],
             [
               10,
-              565328815
+              "HaveDefeatedEnemy_Enemy_FlyingPot_IceCavern"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_FlyingPot_IceCavern"
         },
         {
           "Hash": 3083735444,
@@ -138495,16 +138524,17 @@
           "Values": [
             [
               10,
-              1244174356
+              "UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_ShadowTemple"
             ],
             [
               10,
-              2341696124
+              "HaveDefeatedEnemy_Enemy_FlyingPot_ShadowTemple"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_FlyingPot_ShadowTemple"
         },
         {
           "Hash": 4007428239,
@@ -138513,16 +138543,17 @@
           "Values": [
             [
               10,
-              2553317186
+              "UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_SpiritTemple"
             ],
             [
               10,
-              2882677663
+              "HaveDefeatedEnemy_Enemy_FlyingPot_SpiritTemple"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_FlyingPot_SpiritTemple"
         },
         {
           "Hash": 3876737449,
@@ -138550,16 +138581,17 @@
           "Values": [
             [
               10,
-              1429328190
+              "UndefeatedEnemyAfterGameClear_Enemy_Freezard_Fixed"
             ],
             [
               10,
-              962793247
+              "HaveDefeatedEnemy_Enemy_Freezard_Fixed"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Freezard_Fixed"
         },
         {
           "Hash": 4252452133,
@@ -138587,16 +138619,17 @@
           "Values": [
             [
               10,
-              3267277662
+              "UndefeatedEnemyAfterGameClear_Enemy_Gohma_Egg"
             ],
             [
               10,
-              586991543
+              "HaveDefeatedEnemy_Enemy_Gohma_Egg"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Gohma_Egg"
         },
         {
           "Hash": 2849074577,
@@ -138643,16 +138676,17 @@
           "Values": [
             [
               10,
-              1985500090
+              "UndefeatedEnemyAfterGameClear_Enemy_Guay_Boss"
             ],
             [
               10,
-              3281633850
+              "HaveDefeatedEnemy_Enemy_Guay_Boss"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Guay_Boss"
         },
         {
           "Hash": 3831730495,
@@ -138661,16 +138695,17 @@
           "Values": [
             [
               10,
-              3603110079
+              "UndefeatedEnemyAfterGameClear_Enemy_Guay_Fixed"
             ],
             [
               10,
-              1024403969
+              "HaveDefeatedEnemy_Enemy_Guay_Fixed"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Guay_Fixed"
         },
         {
           "Hash": 893693422,
@@ -138679,16 +138714,17 @@
           "Values": [
             [
               10,
-              544424655
+              "UndefeatedEnemyAfterGameClear_Enemy_Guay_Flock"
             ],
             [
               10,
-              3315376245
+              "HaveDefeatedEnemy_Enemy_Guay_Flock"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Guay_Flock"
         },
         {
           "Hash": 404658776,
@@ -138697,7 +138733,7 @@
           "Values": [
             [
               10,
-              2390937445
+              "UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Black"
             ],
             [
               10,
@@ -138706,7 +138742,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_IronKnuckle_Black"
         },
         {
           "Hash": 2272242234,
@@ -138715,7 +138752,7 @@
           "Values": [
             [
               10,
-              1423472146
+              "UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Silver"
             ],
             [
               10,
@@ -138724,7 +138761,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_IronKnuckle_Silver"
         },
         {
           "Hash": 2091230133,
@@ -138733,7 +138771,7 @@
           "Values": [
             [
               10,
-              3555408234
+              "UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_White"
             ],
             [
               10,
@@ -138742,7 +138780,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_IronKnuckle_White"
         },
         {
           "Hash": 2539816175,
@@ -138808,16 +138847,17 @@
           "Values": [
             [
               10,
-              4292222180
+              "UndefeatedEnemyAfterGameClear_Enemy_Keese_Truth"
             ],
             [
               10,
-              30262304
+              "HaveDefeatedEnemy_Enemy_Keese_Truth"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Keese_Truth"
         },
         {
           "Hash": 35262706,
@@ -138864,16 +138904,17 @@
           "Values": [
             [
               10,
-              174516161
+              "UndefeatedEnemyAfterGameClear_Enemy_Leever_Fixed"
             ],
             [
               10,
-              3091346417
+              "HaveDefeatedEnemy_Enemy_Leever_Fixed"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Leever_Fixed"
         },
         {
           "Hash": 3118183104,
@@ -138901,16 +138942,17 @@
           "Values": [
             [
               10,
-              591634870
+              "UndefeatedEnemyAfterGameClear_Enemy_Lizalfos"
             ],
             [
               10,
-              1919260374
+              "HaveDefeatedEnemy_Enemy_Lizalfos"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Lizalfos"
         },
         {
           "Hash": 2884230552,
@@ -138919,7 +138961,7 @@
           "Values": [
             [
               10,
-              3803774424
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_BigOcto"
             ],
             [
               10,
@@ -138928,7 +138970,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_BigOcto"
         },
         {
           "Hash": 1645027666,
@@ -138937,7 +138980,7 @@
           "Values": [
             [
               10,
-              294059802
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_DarkLink"
             ],
             [
               10,
@@ -138946,7 +138989,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_DarkLink"
         },
         {
           "Hash": 3869438901,
@@ -138955,7 +138999,7 @@
           "Values": [
             [
               10,
-              3184286911
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_FlareDancer"
             ],
             [
               10,
@@ -138964,7 +139008,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_FlareDancer"
         },
         {
           "Hash": 3849014059,
@@ -138973,7 +139018,7 @@
           "Values": [
             [
               10,
-              4106142356
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief"
             ],
             [
               10,
@@ -138982,7 +139027,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_GerudoThief"
         },
         {
           "Hash": 2960959510,
@@ -138991,16 +139037,17 @@
           "Values": [
             [
               10,
-              782975927
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_02"
             ],
             [
               10,
-              2041189356
+              "HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_02"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_GerudoThief_02"
         },
         {
           "Hash": 1381125372,
@@ -139009,16 +139056,17 @@
           "Values": [
             [
               10,
-              62573489
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_03"
             ],
             [
               10,
-              2614751955
+              "HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_03"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_GerudoThief_03"
         },
         {
           "Hash": 3256386021,
@@ -139027,16 +139075,17 @@
           "Values": [
             [
               10,
-              1208384373
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_04"
             ],
             [
               10,
-              938193389
+              "HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_04"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_GerudoThief_04"
         },
         {
           "Hash": 3191065433,
@@ -139045,7 +139094,7 @@
           "Values": [
             [
               10,
-              4137958073
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_IronKnuckle_Nabooru"
             ],
             [
               10,
@@ -139054,7 +139103,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_IronKnuckle_Nabooru"
         },
         {
           "Hash": 1613007141,
@@ -139063,7 +139113,7 @@
           "Values": [
             [
               10,
-              34437030
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Lizalfos"
             ],
             [
               10,
@@ -139072,7 +139122,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_Lizalfos"
         },
         {
           "Hash": 811387117,
@@ -139081,7 +139132,7 @@
           "Values": [
             [
               10,
-              1976659725
+              "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Poe_Meg"
             ],
             [
               10,
@@ -139090,7 +139141,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_MiddleBoss_Poe_Meg"
         },
         {
           "Hash": 3487187961,
@@ -139175,16 +139227,17 @@
           "Values": [
             [
               10,
-              5418185
+              "UndefeatedEnemyAfterGameClear_Enemy_Peahat_AircraftCarrier"
             ],
             [
               10,
-              628383714
+              "HaveDefeatedEnemy_Enemy_Peahat_AircraftCarrier"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Peahat_AircraftCarrier"
         },
         {
           "Hash": 2005705435,
@@ -139212,16 +139265,17 @@
           "Values": [
             [
               10,
-              2127274515
+              "UndefeatedEnemyAfterGameClear_Enemy_Peahat_Larva_Independent"
             ],
             [
               10,
-              1203121650
+              "HaveDefeatedEnemy_Enemy_Peahat_Larva_Independent"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Peahat_Larva_Independent"
         },
         {
           "Hash": 2765052813,
@@ -139268,16 +139322,17 @@
           "Values": [
             [
               10,
-              2755582128
+              "UndefeatedEnemyAfterGameClear_Enemy_Poe_Base"
             ],
             [
               10,
-              3336924116
+              "HaveDefeatedEnemy_Enemy_Poe_Base"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Poe_Base"
         },
         {
           "Hash": 3122839433,
@@ -139400,16 +139455,17 @@
           "Values": [
             [
               10,
-              1185401078
+              "UndefeatedEnemyAfterGameClear_Enemy_Poe_SistersBase"
             ],
             [
               10,
-              4152626545
+              "HaveDefeatedEnemy_Enemy_Poe_SistersBase"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Poe_SistersBase"
         },
         {
           "Hash": 661418741,
@@ -139437,16 +139493,17 @@
           "Values": [
             [
               10,
-              3611782909
+              "UndefeatedEnemyAfterGameClear_Enemy_ReDead_AlwaysRespawn"
             ],
             [
               10,
-              2249584656
+              "HaveDefeatedEnemy_Enemy_ReDead_AlwaysRespawn"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_ReDead_AlwaysRespawn"
         },
         {
           "Hash": 2945252908,
@@ -139455,16 +139512,17 @@
           "Values": [
             [
               10,
-              2768488378
+              "UndefeatedEnemyAfterGameClear_Enemy_ReDead_ClimaxOnly"
             ],
             [
               10,
-              2164504732
+              "HaveDefeatedEnemy_Enemy_ReDead_ClimaxOnly"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_ReDead_ClimaxOnly"
         },
         {
           "Hash": 2710460836,
@@ -139492,16 +139550,17 @@
           "Values": [
             [
               10,
-              2160759219
+              "UndefeatedEnemyAfterGameClear_Enemy_Scrub_Business_Seed"
             ],
             [
               10,
-              4164934409
+              "HaveDefeatedEnemy_Enemy_Scrub_Business_Seed"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Scrub_Business_Seed"
         },
         {
           "Hash": 1419325878,
@@ -139529,16 +139588,17 @@
           "Values": [
             [
               10,
-              2804453332
+              "UndefeatedEnemyAfterGameClear_Enemy_Scrub_Deku_Brothers"
             ],
             [
               10,
-              3929209180
+              "HaveDefeatedEnemy_Enemy_Scrub_Deku_Brothers"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Scrub_Deku_Brothers"
         },
         {
           "Hash": 575747616,
@@ -139585,16 +139645,17 @@
           "Values": [
             [
               10,
-              133201484
+              "UndefeatedEnemyAfterGameClear_Enemy_Shabom_AlwaysRespawn"
             ],
             [
               10,
-              1810427246
+              "HaveDefeatedEnemy_Enemy_Shabom_AlwaysRespawn"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Shabom_AlwaysRespawn"
         },
         {
           "Hash": 3543008421,
@@ -139603,16 +139664,17 @@
           "Values": [
             [
               10,
-              2837677864
+              "UndefeatedEnemyAfterGameClear_Enemy_Shabom_BigOctoChild"
             ],
             [
               10,
-              2142917959
+              "HaveDefeatedEnemy_Enemy_Shabom_BigOctoChild"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Shabom_BigOctoChild"
         },
         {
           "Hash": 3373812865,
@@ -139697,16 +139759,17 @@
           "Values": [
             [
               10,
-              3190444550
+              "UndefeatedEnemyAfterGameClear_Enemy_Skulltula_Truth"
             ],
             [
               10,
-              3546865041
+              "HaveDefeatedEnemy_Enemy_Skulltula_Truth"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Skulltula_Truth"
         },
         {
           "Hash": 3250234396,
@@ -139772,16 +139835,17 @@
           "Values": [
             [
               10,
-              841762777
+              "UndefeatedEnemyAfterGameClear_Enemy_Stalchild_Big"
             ],
             [
               10,
-              101472964
+              "HaveDefeatedEnemy_Enemy_Stalchild_Big"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Stalchild_Big"
         },
         {
           "Hash": 2462878134,
@@ -139790,16 +139854,17 @@
           "Values": [
             [
               10,
-              2211670549
+              "UndefeatedEnemyAfterGameClear_Enemy_Stalfos"
             ],
             [
               10,
-              2192933563
+              "HaveDefeatedEnemy_Enemy_Stalfos"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Stalfos"
         },
         {
           "Hash": 2283516777,
@@ -139808,16 +139873,17 @@
           "Values": [
             [
               10,
-              1273799567
+              "UndefeatedEnemyAfterGameClear_Enemy_Stalfos_AlwaysRespawn"
             ],
             [
               10,
-              1201589738
+              "HaveDefeatedEnemy_Enemy_Stalfos_AlwaysRespawn"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Stalfos_AlwaysRespawn"
         },
         {
           "Hash": 2484806176,
@@ -139826,16 +139892,17 @@
           "Values": [
             [
               10,
-              3745278696
+              "UndefeatedEnemyAfterGameClear_Enemy_Stalfos_ForChild"
             ],
             [
               10,
-              678626226
+              "HaveDefeatedEnemy_Enemy_Stalfos_ForChild"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Stalfos_ForChild"
         },
         {
           "Hash": 2457352542,
@@ -139844,7 +139911,7 @@
           "Values": [
             [
               10,
-              1934779387
+              "UndefeatedEnemyAfterGameClear_Enemy_Stalfos_Weak"
             ],
             [
               10,
@@ -139853,7 +139920,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Stalfos_Weak"
         },
         {
           "Hash": 4007852295,
@@ -139881,16 +139949,17 @@
           "Values": [
             [
               10,
-              4092106313
+              "UndefeatedEnemyAfterGameClear_Enemy_Stinger_UnderWater"
             ],
             [
               10,
-              1788367826
+              "HaveDefeatedEnemy_Enemy_Stinger_UnderWater"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Stinger_UnderWater"
         },
         {
           "Hash": 1066478751,
@@ -139956,16 +140025,17 @@
           "Values": [
             [
               10,
-              2442369014
+              "UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Blue"
             ],
             [
               10,
-              3615364507
+              "HaveDefeatedEnemy_Enemy_Tentacle_Blue"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Tentacle_Blue"
         },
         {
           "Hash": 14922470,
@@ -139974,16 +140044,17 @@
           "Values": [
             [
               10,
-              3644154870
+              "UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Green"
             ],
             [
               10,
-              3806504536
+              "HaveDefeatedEnemy_Enemy_Tentacle_Green"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Tentacle_Green"
         },
         {
           "Hash": 3642793191,
@@ -139992,16 +140063,17 @@
           "Values": [
             [
               10,
-              1925482835
+              "UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Red"
             ],
             [
               10,
-              3412026868
+              "HaveDefeatedEnemy_Enemy_Tentacle_Red"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Tentacle_Red"
         },
         {
           "Hash": 1792736870,
@@ -140086,7 +140158,7 @@
           "Values": [
             [
               10,
-              604449916
+              "UndefeatedEnemyAfterGameClear_Enemy_Wolfos"
             ],
             [
               10,
@@ -140095,7 +140167,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Wolfos"
         },
         {
           "Hash": 923307350,
@@ -140104,7 +140177,7 @@
           "Values": [
             [
               10,
-              3058523904
+              "UndefeatedEnemyAfterGameClear_Enemy_Wolfos_White"
             ],
             [
               10,
@@ -140113,7 +140186,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Enemy_Wolfos_White"
         },
         {
           "Hash": 90392498,
@@ -140122,16 +140196,17 @@
           "Values": [
             [
               10,
-              3053280134
+              "UndefeatedEnemyAfterGameClear_Npc_Hylia_MSP_Default"
             ],
             [
               10,
-              1528217461
+              "HaveDefeatedEnemy_Npc_Hylia_MSP_Default"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_Hylia_MSP_Default"
         },
         {
           "Hash": 2532955254,
@@ -140140,7 +140215,7 @@
           "Values": [
             [
               10,
-              307639379
+              "UndefeatedEnemyAfterGameClear_Npc_SkullChild_001"
             ],
             [
               10,
@@ -140149,7 +140224,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_SkullChild_001"
         },
         {
           "Hash": 2327437678,
@@ -140158,7 +140234,7 @@
           "Values": [
             [
               10,
-              592303934
+              "UndefeatedEnemyAfterGameClear_Npc_SkullChild_002"
             ],
             [
               10,
@@ -140167,7 +140243,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_SkullChild_002"
         },
         {
           "Hash": 2005614322,
@@ -140176,7 +140253,7 @@
           "Values": [
             [
               10,
-              387628327
+              "UndefeatedEnemyAfterGameClear_Npc_SkullChild_003"
             ],
             [
               10,
@@ -140185,7 +140262,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_SkullChild_003"
         },
         {
           "Hash": 1440067774,
@@ -140194,7 +140272,7 @@
           "Values": [
             [
               10,
-              2268142037
+              "UndefeatedEnemyAfterGameClear_Npc_SkullChild_004"
             ],
             [
               10,
@@ -140203,7 +140281,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_SkullChild_004"
         },
         {
           "Hash": 520199018,
@@ -140212,7 +140291,7 @@
           "Values": [
             [
               10,
-              1390439140
+              "UndefeatedEnemyAfterGameClear_Npc_SkullChild_005"
             ],
             [
               10,
@@ -140221,7 +140300,8 @@
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_SkullChild_005"
         },
         {
           "Hash": 561982032,
@@ -140230,16 +140310,17 @@
           "Values": [
             [
               10,
-              1777071277
+              "UndefeatedEnemyAfterGameClear_Npc_SkullDad"
             ],
             [
               10,
-              1956265927
+              "HaveDefeatedEnemy_Npc_SkullDad"
             ],
             [
               4
             ]
-          ]
+          ],
+          "HashText": "DreamWorldPlate_Npc_SkullDad"
         },
         {
           "Hash": 2485455833,
@@ -140354,7 +140435,8 @@
               2,
               "Step06"
             ]
-          ]
+          ],
+          "HashText": "EscapeFromCrumblingGanonCastle_IsAfter_Step06_Exp"
         },
         {
           "Hash": 4204330486,
@@ -140697,7 +140779,7 @@
             ],
             [
               10,
-              4278503006
+              "SubEvent_GetSwordBigGoron_IsAfter_Step07_Exp"
             ],
             [
               5
@@ -140868,7 +140950,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Get_Epona_IsAfter_Ready_Exp"
         },
         {
           "Hash": 3342256129,
@@ -141150,7 +141233,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfFire_IsAfter_Ready_Exp"
         },
         {
           "Hash": 120908093,
@@ -141354,7 +141438,8 @@
               2,
               "Step01"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step01_Exp"
         },
         {
           "Hash": 2306181886,
@@ -141369,7 +141454,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step02_Exp"
         },
         {
           "Hash": 2988388680,
@@ -141416,7 +141502,8 @@
               2,
               "Step04"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step04_Exp"
         },
         {
           "Hash": 3081380145,
@@ -141447,7 +141534,8 @@
               2,
               "Step05"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step05_Exp"
         },
         {
           "Hash": 1400447757,
@@ -141494,7 +141582,8 @@
               2,
               "Step08"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step08_Exp"
         },
         {
           "Hash": 3636063795,
@@ -141541,7 +141630,8 @@
               2,
               "Step11"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step11_Exp"
         },
         {
           "Hash": 39611093,
@@ -141556,7 +141646,8 @@
               2,
               "Step12"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfWater_IsAfter_Step12_Exp"
         },
         {
           "Hash": 3770981286,
@@ -141754,7 +141845,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Goto_HyruleCastle_IsAfter_Ready_Exp"
         },
         {
           "Hash": 2244538020,
@@ -141769,7 +141861,8 @@
               2,
               "Step01"
             ]
-          ]
+          ],
+          "HashText": "Goto_HyruleCastle_IsAfter_Step01_Exp"
         },
         {
           "Hash": 2943208993,
@@ -141800,7 +141893,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "Goto_HyruleCastle_IsAfter_Step02_Exp"
         },
         {
           "Hash": 2958023207,
@@ -141815,7 +141909,8 @@
               2,
               "Step03_01"
             ]
-          ]
+          ],
+          "HashText": "Goto_HyruleCastle_IsAfter_Step03_01_Exp"
         },
         {
           "Hash": 3354381690,
@@ -141846,7 +141941,8 @@
               2,
               "Step03"
             ]
-          ]
+          ],
+          "HashText": "Goto_HyruleCastle_IsAfter_Step03_Exp"
         },
         {
           "Hash": 2055127076,
@@ -142127,7 +142223,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step07_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Gerudo"
         },
         {
           "Hash": 3851978318,
@@ -142138,7 +142235,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step07_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Goron"
         },
         {
           "Hash": 2091865544,
@@ -142161,7 +142259,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step01_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Skull"
         },
         {
           "Hash": 1520147723,
@@ -142194,7 +142293,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step07_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Zora"
         },
         {
           "Hash": 53771208,
@@ -143138,7 +143238,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Dm_Enemy_DungeonBoss_Volvagia"
         },
         {
           "Hash": 1605157769,
@@ -143169,7 +143270,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Amos_AlwaysRespawn"
         },
         {
           "Hash": 1148537882,
@@ -143248,7 +143350,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Beamos_For_High_Place"
         },
         {
           "Hash": 914738764,
@@ -143407,7 +143510,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Dekubaba_Withered"
         },
         {
           "Hash": 1539310574,
@@ -143502,7 +143606,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo"
         },
         {
           "Hash": 3897267726,
@@ -143549,7 +143654,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_DungeonBoss_Ganon_SecondHalfBattle"
         },
         {
           "Hash": 3362176426,
@@ -143580,7 +143686,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_DungeonBoss_Gohma_Egg"
         },
         {
           "Hash": 430889359,
@@ -143595,7 +143702,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_DungeonBoss_Kotake"
         },
         {
           "Hash": 457074184,
@@ -143610,7 +143718,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_DungeonBoss_Koume"
         },
         {
           "Hash": 1284959056,
@@ -143705,7 +143814,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Floormaster_Truth"
         },
         {
           "Hash": 588241808,
@@ -143736,7 +143846,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_FlyingPot_IceCavern"
         },
         {
           "Hash": 2341696124,
@@ -143751,7 +143862,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_FlyingPot_ShadowTemple"
         },
         {
           "Hash": 2882677663,
@@ -143766,7 +143878,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_FlyingPot_SpiritTemple"
         },
         {
           "Hash": 3810527319,
@@ -143797,7 +143910,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Freezard_Fixed"
         },
         {
           "Hash": 1360751343,
@@ -143828,7 +143942,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Gohma_Egg"
         },
         {
           "Hash": 1455299894,
@@ -143875,7 +143990,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Guay_Boss"
         },
         {
           "Hash": 1024403969,
@@ -143890,7 +144006,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Guay_Fixed"
         },
         {
           "Hash": 3315376245,
@@ -143905,7 +144022,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Guay_Flock"
         },
         {
           "Hash": 2664725423,
@@ -144016,7 +144134,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Keese_Truth"
         },
         {
           "Hash": 2218222059,
@@ -144063,7 +144182,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Leever_Fixed"
         },
         {
           "Hash": 1330260463,
@@ -144094,7 +144214,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Lizalfos"
         },
         {
           "Hash": 2492046747,
@@ -144173,7 +144294,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_02"
         },
         {
           "Hash": 2614751955,
@@ -144188,7 +144310,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_03"
         },
         {
           "Hash": 938193389,
@@ -144203,7 +144326,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_04"
         },
         {
           "Hash": 1915315052,
@@ -144330,7 +144454,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Peahat_AircraftCarrier"
         },
         {
           "Hash": 3854507448,
@@ -144361,7 +144486,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Peahat_Larva_Independent"
         },
         {
           "Hash": 867744934,
@@ -144408,7 +144534,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Poe_Base"
         },
         {
           "Hash": 2320071540,
@@ -144519,7 +144646,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Poe_SistersBase"
         },
         {
           "Hash": 3609591704,
@@ -144550,7 +144678,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_ReDead_AlwaysRespawn"
         },
         {
           "Hash": 2164504732,
@@ -144565,7 +144694,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_ReDead_ClimaxOnly"
         },
         {
           "Hash": 1248164383,
@@ -144596,7 +144726,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Scrub_Business_Seed"
         },
         {
           "Hash": 1558028589,
@@ -144627,7 +144758,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Scrub_Deku_Brothers"
         },
         {
           "Hash": 3230474145,
@@ -144674,7 +144806,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Shabom_AlwaysRespawn"
         },
         {
           "Hash": 2142917959,
@@ -144689,7 +144822,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Shabom_BigOctoChild"
         },
         {
           "Hash": 3658282886,
@@ -144768,7 +144902,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Skulltula_Truth"
         },
         {
           "Hash": 2619222945,
@@ -144831,7 +144966,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Stalchild_Big"
         },
         {
           "Hash": 2192933563,
@@ -144846,7 +144982,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Stalfos"
         },
         {
           "Hash": 1201589738,
@@ -144861,7 +144998,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Stalfos_AlwaysRespawn"
         },
         {
           "Hash": 678626226,
@@ -144876,7 +145014,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Stalfos_ForChild"
         },
         {
           "Hash": 1794252647,
@@ -144889,7 +145028,7 @@
             ],
             [
               10,
-              2192933563
+              "HaveDefeatedEnemy_Enemy_Stalfos"
             ],
             [
               3
@@ -144942,7 +145081,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Stinger_UnderWater"
         },
         {
           "Hash": 4205281912,
@@ -145005,7 +145145,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Tentacle_Blue"
         },
         {
           "Hash": 3806504536,
@@ -145020,7 +145161,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Tentacle_Green"
         },
         {
           "Hash": 3412026868,
@@ -145035,7 +145177,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Enemy_Tentacle_Red"
         },
         {
           "Hash": 2060203530,
@@ -145146,7 +145289,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Npc_Hylia_MSP_Default"
         },
         {
           "Hash": 2523982887,
@@ -145236,7 +145380,8 @@
               16,
               0
             ]
-          ]
+          ],
+          "HashText": "HaveDefeatedEnemy_Npc_SkullDad"
         },
         {
           "Hash": 4190022313,
@@ -145367,7 +145512,7 @@
             ],
             [
               10,
-              3938479684
+              "SageOfWater_IsAfter_Step06_Exp"
             ],
             [
               4
@@ -145994,7 +146139,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Market_Item_Bottle_TutorialEvent_IsAfter_Ready_Exp"
         },
         {
           "Hash": 2921850490,
@@ -146009,7 +146155,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "Market_Item_Bottle_TutorialEvent_IsCompleted_Exp"
         },
         {
           "Hash": 4095651007,
@@ -146040,7 +146187,7 @@
           "Values": [
             [
               10,
-              851805845
+              "Defeat_Ganon_IsAfter_Step08_Exp"
             ],
             [
               0,
@@ -146207,7 +146354,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Meet_GreatFairy_IsAfter_Ready_Exp"
         },
         {
           "Hash": 460788904,
@@ -146222,7 +146370,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "Meet_GreatFairy_IsCompleted_Exp"
         },
         {
           "Hash": 627809430,
@@ -146268,7 +146417,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Minigame_CatchCucco_IsAfter_Ready_Exp"
         },
         {
           "Hash": 2627134365,
@@ -146298,7 +146448,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "Minigame_CatchCucco_IsCompleted_Exp"
         },
         {
           "Hash": 1073971331,
@@ -146480,7 +146631,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_DampeRace_IsAfter_Ready_Exp"
         },
         {
           "Hash": 3739524926,
@@ -146557,7 +146709,8 @@
               2,
               "Step01"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_Diving_IsAfter_Step01_Exp"
         },
         {
           "Hash": 4174936042,
@@ -146572,7 +146725,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_Diving_IsAfter_Step02_Exp"
         },
         {
           "Hash": 1658256803,
@@ -146587,7 +146741,8 @@
               2,
               "Step03"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_Diving_IsAfter_Step03_Exp"
         },
         {
           "Hash": 2171198865,
@@ -146602,7 +146757,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_Diving_IsCompleted_Exp"
         },
         {
           "Hash": 3340039072,
@@ -146663,7 +146819,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "Minigame_FindOutCucco_IsAfter_Ready_Exp"
         },
         {
           "Hash": 3272149350,
@@ -146693,7 +146850,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "Minigame_FindOutCucco_IsCompleted_Exp"
         },
         {
           "Hash": 955465308,
@@ -146823,7 +146981,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_Fishing_IsAfter_Ready_Exp"
         },
         {
           "Hash": 3378869708,
@@ -146838,7 +146997,8 @@
               2,
               "Step01"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_Fishing_IsAfter_Step01_Exp"
         },
         {
           "Hash": 3877616640,
@@ -147086,7 +147246,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "MiniGame_HitTarget_IsCompleted_Exp"
         },
         {
           "Hash": 1489176798,
@@ -147509,7 +147670,7 @@
             ],
             [
               10,
-              1158897255
+              "SubEvent_GetSwordBigGoron_IsAfter_Step06_01_Exp"
             ],
             [
               10,
@@ -148354,7 +148515,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "SageOfForest_IsAfter_Step02_Exp"
         },
         {
           "Hash": 2299947502,
@@ -148401,7 +148563,8 @@
               2,
               "Step05"
             ]
-          ]
+          ],
+          "HashText": "SageOfForest_IsAfter_Step05_Exp"
         },
         {
           "Hash": 19203923,
@@ -148477,7 +148640,8 @@
               2,
               "Step06"
             ]
-          ]
+          ],
+          "HashText": "SageOfForest_IsAfter_Step06_Exp"
         },
         {
           "Hash": 4132857177,
@@ -148851,7 +149015,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "SageOfSpirit_IsAfter_Ready_Exp"
         },
         {
           "Hash": 1477188084,
@@ -148882,7 +149047,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "SageOfSpirit_IsAfter_Step02_Exp"
         },
         {
           "Hash": 3243023866,
@@ -148992,7 +149158,8 @@
               2,
               "Step06"
             ]
-          ]
+          ],
+          "HashText": "SageOfSpirit_IsAfter_Step06_Exp"
         },
         {
           "Hash": 1998643521,
@@ -149022,7 +149189,8 @@
               2,
               "Step07"
             ]
-          ]
+          ],
+          "HashText": "SageOfSpirit_IsAfter_Step07_Exp"
         },
         {
           "Hash": 4188961071,
@@ -149052,7 +149220,8 @@
               2,
               "Step08_01"
             ]
-          ]
+          ],
+          "HashText": "SageOfSpirit_IsAfter_Step08_01_Exp"
         },
         {
           "Hash": 3326682809,
@@ -149168,7 +149337,7 @@
             ],
             [
               10,
-              529155547
+              "SageOfSpirit_IsAfter_Step06_Exp"
             ],
             [
               5
@@ -149195,7 +149364,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "SageOfWater_IsAfter_Ready_Exp"
         },
         {
           "Hash": 4262226004,
@@ -149290,7 +149460,8 @@
               2,
               "Step06"
             ]
-          ]
+          ],
+          "HashText": "SageOfWater_IsAfter_Step06_Exp"
         },
         {
           "Hash": 234931774,
@@ -149664,7 +149835,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_AllBossBattle_IsAfter_Ready_Exp"
         },
         {
           "Hash": 1058713797,
@@ -149695,7 +149867,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_AllBossBattle_IsCompleted_Exp"
         },
         {
           "Hash": 629053467,
@@ -149849,7 +150022,8 @@
               2,
               "Step02"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetFireArrow_IsAfter_Step02_Exp"
         },
         {
           "Hash": 2035590859,
@@ -149864,7 +150038,8 @@
               2,
               "Step03"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetFireArrow_IsAfter_Step03_Exp"
         },
         {
           "Hash": 4172145984,
@@ -149895,7 +150070,8 @@
               2,
               "Ready"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetGlassTruth_IsAfter_Ready_Exp"
         },
         {
           "Hash": 972947814,
@@ -149910,7 +150086,8 @@
               2,
               "Step01"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetGlassTruth_IsAfter_Step01_Exp"
         },
         {
           "Hash": 263080643,
@@ -149925,7 +150102,8 @@
               2,
               "Step05"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetGlassTruth_IsAfter_Step05_Exp"
         },
         {
           "Hash": 1282798860,
@@ -149940,7 +150118,8 @@
               2,
               "Step06"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetGlassTruth_IsAfter_Step06_Exp"
         },
         {
           "Hash": 266408493,
@@ -149955,7 +150134,8 @@
               2,
               "Step07"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetGlassTruth_IsAfter_Step07_Exp"
         },
         {
           "Hash": 1100639946,
@@ -149970,7 +150150,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetGlassTruth_IsCompleted_Exp"
         },
         {
           "Hash": 1414765878,
@@ -150048,7 +150229,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetMelodySun_IsCompleted_Exp"
         },
         {
           "Hash": 1444866398,
@@ -150279,7 +150461,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetStormSong_IsCompleted_Exp"
         },
         {
           "Hash": 3271802129,
@@ -150356,7 +150539,8 @@
               2,
               "Step01"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step01_Exp"
         },
         {
           "Hash": 3566245287,
@@ -150387,7 +150571,8 @@
               2,
               "Step03_01"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step03_01_Exp"
         },
         {
           "Hash": 1917326482,
@@ -150434,7 +150619,8 @@
               2,
               "Step03"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step03_Exp"
         },
         {
           "Hash": 3079290887,
@@ -150497,7 +150683,8 @@
               2,
               "Step06_01"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step06_01_Exp"
         },
         {
           "Hash": 3869307512,
@@ -150544,7 +150731,8 @@
               2,
               "Step06"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step06_Exp"
         },
         {
           "Hash": 4278503006,
@@ -150559,7 +150747,8 @@
               2,
               "Step07"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step07_Exp"
         },
         {
           "Hash": 1684249514,
@@ -150654,7 +150843,8 @@
               2,
               "Step11"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_GetSwordBigGoron_IsAfter_Step11_Exp"
         },
         {
           "Hash": 1930550825,
@@ -151016,7 +151206,8 @@
               2,
               "Step08"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_MaskSalesman_IsAfter_Step08_Exp"
         },
         {
           "Hash": 1072726485,
@@ -151100,7 +151291,8 @@
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "SubEvent_RunningRace_IsCompleted_Exp"
         },
         {
           "Hash": 414813788,
@@ -151202,7 +151394,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Dm_Enemy_DungeonBoss_Volvagia"
         },
         {
           "Hash": 588256190,
@@ -151247,7 +151440,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Amos_AlwaysRespawn"
         },
         {
           "Hash": 2602298784,
@@ -151361,7 +151555,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Beamos_For_High_Place"
         },
         {
           "Hash": 3154889186,
@@ -151544,7 +151739,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DeadHand"
         },
         {
           "Hash": 2295524209,
@@ -151589,7 +151785,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Dekubaba_Withered"
         },
         {
           "Hash": 1560172682,
@@ -151611,7 +151808,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Dinolfos"
         },
         {
           "Hash": 806452735,
@@ -151656,7 +151854,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Barinade"
         },
         {
           "Hash": 1695894586,
@@ -151678,7 +151877,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_BongoBongo"
         },
         {
           "Hash": 712496200,
@@ -151700,7 +151900,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo"
         },
         {
           "Hash": 1815837842,
@@ -151722,7 +151923,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo"
         },
         {
           "Hash": 2323774623,
@@ -151744,7 +151946,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon"
         },
         {
           "Hash": 1574186416,
@@ -151766,7 +151969,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganondorf"
         },
         {
           "Hash": 2112453833,
@@ -151788,7 +151992,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon_SecondHalfBattle"
         },
         {
           "Hash": 519846175,
@@ -151810,7 +152015,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma"
         },
         {
           "Hash": 387727487,
@@ -151832,7 +152038,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma_Egg"
         },
         {
           "Hash": 2710755518,
@@ -151854,7 +152061,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Kotake"
         },
         {
           "Hash": 4189713294,
@@ -151876,7 +152084,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Koume"
         },
         {
           "Hash": 2546821417,
@@ -151898,7 +152107,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Morpha"
         },
         {
           "Hash": 1932385229,
@@ -151920,7 +152130,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_PhantomGanon"
         },
         {
           "Hash": 221713218,
@@ -151942,7 +152153,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Twinrova"
         },
         {
           "Hash": 2544024534,
@@ -151964,7 +152176,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Volvagia"
         },
         {
           "Hash": 3212228594,
@@ -152009,7 +152222,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Floormaster_Truth"
         },
         {
           "Hash": 4108341923,
@@ -152054,7 +152268,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_IceCavern"
         },
         {
           "Hash": 1244174356,
@@ -152076,7 +152291,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_ShadowTemple"
         },
         {
           "Hash": 2553317186,
@@ -152098,7 +152314,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_SpiritTemple"
         },
         {
           "Hash": 2369671884,
@@ -152143,7 +152360,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Freezard_Fixed"
         },
         {
           "Hash": 505101071,
@@ -152188,7 +152406,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Gohma_Egg"
         },
         {
           "Hash": 410698798,
@@ -152256,7 +152475,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Guay_Boss"
         },
         {
           "Hash": 3603110079,
@@ -152278,7 +152498,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Guay_Fixed"
         },
         {
           "Hash": 544424655,
@@ -152300,7 +152521,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Guay_Flock"
         },
         {
           "Hash": 2390937445,
@@ -152322,7 +152544,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Black"
         },
         {
           "Hash": 1423472146,
@@ -152344,7 +152567,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Silver"
         },
         {
           "Hash": 3555408234,
@@ -152366,7 +152590,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_White"
         },
         {
           "Hash": 3949401163,
@@ -152457,7 +152682,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Keese_Truth"
         },
         {
           "Hash": 4278703503,
@@ -152525,7 +152751,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Leever_Fixed"
         },
         {
           "Hash": 1453287276,
@@ -152570,7 +152797,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Lizalfos"
         },
         {
           "Hash": 3803774424,
@@ -152592,7 +152820,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_BigOcto"
         },
         {
           "Hash": 294059802,
@@ -152614,7 +152843,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_DarkLink"
         },
         {
           "Hash": 3184286911,
@@ -152636,7 +152866,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_FlareDancer"
         },
         {
           "Hash": 4106142356,
@@ -152658,7 +152889,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief"
         },
         {
           "Hash": 782975927,
@@ -152680,7 +152912,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_02"
         },
         {
           "Hash": 62573489,
@@ -152702,7 +152935,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_03"
         },
         {
           "Hash": 1208384373,
@@ -152724,7 +152958,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_04"
         },
         {
           "Hash": 4137958073,
@@ -152746,7 +152981,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_IronKnuckle_Nabooru"
         },
         {
           "Hash": 34437030,
@@ -152768,7 +153004,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Lizalfos"
         },
         {
           "Hash": 1976659725,
@@ -152790,7 +153027,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Poe_Meg"
         },
         {
           "Hash": 943767306,
@@ -152904,7 +153142,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Peahat_AircraftCarrier"
         },
         {
           "Hash": 3749603888,
@@ -152949,7 +153188,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Peahat_Larva_Independent"
         },
         {
           "Hash": 2034842997,
@@ -153017,7 +153257,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Poe_Base"
         },
         {
           "Hash": 501252768,
@@ -153177,7 +153418,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Poe_SistersBase"
         },
         {
           "Hash": 1403566381,
@@ -153222,7 +153464,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_ReDead_AlwaysRespawn"
         },
         {
           "Hash": 2768488378,
@@ -153244,7 +153487,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_ReDead_ClimaxOnly"
         },
         {
           "Hash": 1141519286,
@@ -153289,7 +153533,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Scrub_Business_Seed"
         },
         {
           "Hash": 374115004,
@@ -153334,7 +153579,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Scrub_Deku_Brothers"
         },
         {
           "Hash": 843073610,
@@ -153402,7 +153648,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Shabom_AlwaysRespawn"
         },
         {
           "Hash": 2837677864,
@@ -153424,7 +153671,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Shabom_BigOctoChild"
         },
         {
           "Hash": 3181763116,
@@ -153538,7 +153786,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Skulltula_Truth"
         },
         {
           "Hash": 3459700540,
@@ -153629,7 +153878,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Stalchild_Big"
         },
         {
           "Hash": 2211670549,
@@ -153651,7 +153901,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Stalfos"
         },
         {
           "Hash": 1273799567,
@@ -153673,7 +153924,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Stalfos_AlwaysRespawn"
         },
         {
           "Hash": 3745278696,
@@ -153695,7 +153947,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Stalfos_ForChild"
         },
         {
           "Hash": 1934779387,
@@ -153717,7 +153970,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Stalfos_Weak"
         },
         {
           "Hash": 504538946,
@@ -153762,7 +154016,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Stinger_UnderWater"
         },
         {
           "Hash": 1105074733,
@@ -153853,7 +154108,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Blue"
         },
         {
           "Hash": 3644154870,
@@ -153875,7 +154131,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Green"
         },
         {
           "Hash": 1925482835,
@@ -153897,7 +154154,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Red"
         },
         {
           "Hash": 3896004396,
@@ -154011,7 +154269,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Wolfos"
         },
         {
           "Hash": 3058523904,
@@ -154033,7 +154292,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Enemy_Wolfos_White"
         },
         {
           "Hash": 3053280134,
@@ -154055,7 +154315,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_Hylia_MSP_Default"
         },
         {
           "Hash": 307639379,
@@ -154077,7 +154338,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_SkullChild_001"
         },
         {
           "Hash": 592303934,
@@ -154099,7 +154361,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_SkullChild_002"
         },
         {
           "Hash": 387628327,
@@ -154121,7 +154384,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_SkullChild_003"
         },
         {
           "Hash": 2268142037,
@@ -154143,7 +154407,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_SkullChild_004"
         },
         {
           "Hash": 1390439140,
@@ -154165,7 +154430,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_SkullChild_005"
         },
         {
           "Hash": 1777071277,
@@ -154187,7 +154453,8 @@
             [
               3
             ]
-          ]
+          ],
+          "HashText": "UndefeatedEnemyAfterGameClear_Npc_SkullDad"
         },
         {
           "Hash": 3504912527,
