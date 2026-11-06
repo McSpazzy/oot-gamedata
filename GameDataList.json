@@ -24664,7 +24664,8 @@
           "DefaultValue": false,
           "Hash": 1892459047,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.CandleAndSpiderWeb_01"
         },
         {
           "DefaultValue": false,
@@ -29362,13 +29363,15 @@
           "DefaultValue": false,
           "Hash": 470201085,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room07"
         },
         {
           "DefaultValue": false,
           "Hash": 999297910,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room09"
         },
         {
           "DefaultValue": false,
@@ -29381,19 +29384,22 @@
           "DefaultValue": false,
           "Hash": 2379154680,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_01"
         },
         {
           "DefaultValue": false,
           "Hash": 2788344076,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_02"
         },
         {
           "DefaultValue": false,
           "Hash": 1056568788,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_03"
         },
         {
           "DefaultValue": false,
@@ -29593,7 +29599,8 @@
           "DefaultValue": false,
           "Hash": 3779485199,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.FieldHintBase"
         },
         {
           "DefaultValue": false,
@@ -30005,7 +30012,8 @@
           "DefaultValue": false,
           "Hash": 465367343,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.FocusOnGimmick_Token"
         },
         {
           "DefaultValue": false,
@@ -30024,7 +30032,8 @@
           "DefaultValue": false,
           "Hash": 4046199152,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.FocusOnGimmick_ZoraDomain"
         },
         {
           "DefaultValue": false,
@@ -43283,13 +43292,15 @@
           "DefaultValue": false,
           "Hash": 2371141696,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_GhostPicture"
         },
         {
           "DefaultValue": false,
           "Hash": 3639345864,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_GoronLargePot"
         },
         {
           "DefaultValue": false,
@@ -45083,7 +45094,8 @@
           "DefaultValue": false,
           "Hash": 477572895,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_PlayOcarinaSequence"
         },
         {
           "DefaultValue": false,
@@ -45694,7 +45706,8 @@
           "DefaultValue": false,
           "Hash": 639309148,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WellAreaEvent"
         },
         {
           "DefaultValue": false,
@@ -51103,13 +51116,15 @@
           "DefaultValue": false,
           "Hash": 1357290315,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HaveReadHrlField_Note11_2"
         },
         {
           "DefaultValue": false,
           "Hash": 1219549410,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HaveReadHrlField_Note11_3"
         },
         {
           "DefaultValue": false,
@@ -137253,7 +137268,7 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
@@ -137269,13 +137284,14 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
               "Step01_00_01"
             ]
-          ]
+          ],
+          "HashText": "AllSage_IsAfter_Step01_00_01_Exp"
         },
         {
           "Hash": 393386768,
@@ -137284,7 +137300,7 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
@@ -137300,13 +137316,14 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
               "Step01_00_03"
             ]
-          ]
+          ],
+          "HashText": "AllSage_IsAfter_Step01_00_03_Exp"
         },
         {
           "Hash": 2577006286,
@@ -137315,7 +137332,7 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
@@ -137330,7 +137347,7 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
@@ -137346,13 +137363,14 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
               "Step01_02"
             ]
-          ]
+          ],
+          "HashText": "AllSage_IsAfter_Step01_02_Exp"
         },
         {
           "Hash": 1285200743,
@@ -137361,7 +137379,7 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
@@ -137377,7 +137395,7 @@
           "Values": [
             [
               12,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
@@ -137393,13 +137411,14 @@
           "Values": [
             [
               1,
-              3577013
+              "Step_AllSage"
             ],
             [
               2,
               "Complete"
             ]
-          ]
+          ],
+          "HashText": "AllSage_IsCompleted_Exp"
         },
         {
           "Hash": 2497673143,
@@ -137609,7 +137628,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137625,7 +137644,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137640,7 +137659,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137656,7 +137675,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137672,7 +137691,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137688,7 +137707,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137704,7 +137723,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137720,7 +137739,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137736,7 +137755,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137751,7 +137770,7 @@
           "Values": [
             [
               12,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -137767,7 +137786,7 @@
           "Values": [
             [
               1,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -141375,7 +141394,8 @@
               2,
               "NotReady"
             ]
-          ]
+          ],
+          "HashText": "Get_StoneOfForest_IsAfter_NotReady_Exp"
         },
         {
           "Hash": 1081027269,
@@ -142212,7 +142232,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step05_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Bunny"
         },
         {
           "Hash": 1935646534,
@@ -142271,7 +142292,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step03_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Spooky"
         },
         {
           "Hash": 1860977247,
@@ -142282,7 +142304,8 @@
               10,
               "SubEvent_MaskSalesman_IsAfter_Step07_Exp"
             ]
-          ]
+          ],
+          "HashText": "HappyMaskShop_AppearMask_Truth"
         },
         {
           "Hash": 3179039518,
@@ -146055,7 +146078,7 @@
           "Values": [
             [
               1,
-              931730378
+              "Step_DoorOfTime"
             ],
             [
               2,
@@ -146088,7 +146111,7 @@
             ],
             [
               10,
-              50611448
+              "Market_Item_Bottle_TutorialEvent_IsAfter_NotReady_Exp"
             ],
             [
               3
@@ -146109,7 +146132,8 @@
               2,
               "NotReady"
             ]
-          ]
+          ],
+          "HashText": "Market_Item_Bottle_TutorialEvent_IsAfter_NotReady_Exp"
         },
         {
           "Hash": 2557463399,
@@ -148315,7 +148339,8 @@
               2,
               "GoToWarpPoint"
             ]
-          ]
+          ],
+          "HashText": "SageOfFire_IsAfter_GoToWarpPoint_Exp"
         },
         {
           "Hash": 670197167,
@@ -148330,7 +148355,8 @@
               2,
               "MeetBoss"
             ]
-          ]
+          ],
+          "HashText": "SageOfFire_IsAfter_MeetBoss_Exp"
         },
         {
           "Hash": 1149072311,
@@ -148390,7 +148416,8 @@
               2,
               "NotReady"
             ]
-          ]
+          ],
+          "HashText": "SageOfFire_IsAfter_NotReady_Exp"
         },
         {
           "Hash": 3801467084,
@@ -148462,13 +148489,14 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
               "NotReady"
             ]
-          ]
+          ],
+          "HashText": "SageOfForest_IsAfter_NotReady_Exp"
         },
         {
           "Hash": 1599346382,
@@ -148477,7 +148505,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148493,7 +148521,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148509,7 +148537,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148525,7 +148553,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148541,7 +148569,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148557,7 +148585,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148573,7 +148601,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148588,7 +148616,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148603,7 +148631,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148618,7 +148646,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148634,7 +148662,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148650,7 +148678,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148666,7 +148694,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148682,7 +148710,7 @@
           "Values": [
             [
               12,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148698,7 +148726,7 @@
           "Values": [
             [
               1,
-              2841849034
+              "Step_SageOfForest"
             ],
             [
               2,
@@ -148746,7 +148774,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148761,7 +148789,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148776,7 +148804,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148792,7 +148820,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148808,7 +148836,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148823,7 +148851,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148838,7 +148866,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148854,7 +148882,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148870,13 +148898,14 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
               "NotReady"
             ]
-          ]
+          ],
+          "HashText": "SageOfShadow_IsAfter_NotReady_Exp"
         },
         {
           "Hash": 2459356110,
@@ -148907,7 +148936,7 @@
           "Values": [
             [
               12,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -148923,7 +148952,7 @@
           "Values": [
             [
               1,
-              2056379349
+              "Step_SageOfShadow"
             ],
             [
               2,
@@ -149358,7 +149387,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149374,7 +149403,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149390,7 +149419,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149406,7 +149435,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149422,7 +149451,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149438,7 +149467,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149454,7 +149483,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149470,7 +149499,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149485,7 +149514,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149501,7 +149530,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149517,7 +149546,7 @@
           "Values": [
             [
               12,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -149533,7 +149562,7 @@
           "Values": [
             [
               1,
-              1443521711
+              "Step_SageOfWater"
             ],
             [
               2,
@@ -154680,7 +154709,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.AllSage"
         },
         {
           "DefaultValue": 3069107721,
@@ -154697,7 +154727,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Defeat_Ganon"
         },
         {
           "DefaultValue": 3069107721,
@@ -154714,7 +154745,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.DoorOfTime"
         },
         {
           "DefaultValue": 3069107721,
@@ -154731,7 +154763,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Get_Epona"
         },
         {
           "DefaultValue": 3069107721,
@@ -154748,7 +154781,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Get_StoneOfFire"
         },
         {
           "DefaultValue": 3069107721,
@@ -154765,7 +154799,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Get_StoneOfForest"
         },
         {
           "DefaultValue": 3069107721,
@@ -154782,7 +154817,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Get_StoneOfWater"
         },
         {
           "DefaultValue": 3069107721,
@@ -154799,7 +154835,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Goto_HyruleCastle"
         },
         {
           "DefaultValue": 3069107721,
@@ -154816,7 +154853,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Meet_DekuTree"
         },
         {
           "DefaultValue": 3069107721,
@@ -154833,7 +154871,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.Meet_GreatFairy"
         },
         {
           "DefaultValue": 3069107721,
@@ -154850,7 +154889,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SageOfFire"
         },
         {
           "DefaultValue": 3069107721,
@@ -154867,7 +154907,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SageOfForest"
         },
         {
           "DefaultValue": 3069107721,
@@ -154884,7 +154925,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SageOfShadow"
         },
         {
           "DefaultValue": 3069107721,
@@ -154901,7 +154943,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SageOfSpirit"
         },
         {
           "DefaultValue": 3069107721,
@@ -154918,7 +154961,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SageOfWater"
         },
         {
           "DefaultValue": 3069107721,
@@ -154935,7 +154979,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SubEvent_GetMelodySun"
         },
         {
           "DefaultValue": 3069107721,
@@ -154952,7 +154997,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SubEvent_GetScarecrow"
         },
         {
           "DefaultValue": 3069107721,
@@ -154969,7 +155015,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SubEvent_GetStormSong"
         },
         {
           "DefaultValue": 3069107721,
@@ -154986,7 +155033,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SubEvent_GetSwordBigGoron"
         },
         {
           "DefaultValue": 3069107721,
@@ -155003,7 +155051,8 @@
             494906868,
             1458938618
           ],
-          "ValueText": "None"
+          "ValueText": "None",
+          "HashText": "ChallengeMenu_State.SubEvent_MaskSalesman"
         },
         {
           "DefaultValue": 3083361635,
@@ -158867,7 +158916,8 @@
             240843480,
             1275749364
           ],
-          "ValueText": "NotReady"
+          "ValueText": "NotReady",
+          "HashText": "Step_AllSage"
         },
         {
           "DefaultValue": 1471695344,
@@ -158937,7 +158987,8 @@
             567736888,
             1275749364
           ],
-          "ValueText": "NotReady"
+          "ValueText": "NotReady",
+          "HashText": "Step_DoorOfTime"
         },
         {
           "DefaultValue": 1471695344,
@@ -159655,7 +159706,8 @@
             1571736152,
             1275749364
           ],
-          "ValueText": "NotReady"
+          "ValueText": "NotReady",
+          "HashText": "Step_SageOfForest"
         },
         {
           "DefaultValue": 1471695344,
@@ -159705,7 +159757,8 @@
             3576369172,
             1275749364
           ],
-          "ValueText": "NotReady"
+          "ValueText": "NotReady",
+          "HashText": "Step_SageOfShadow"
         },
         {
           "DefaultValue": 1471695344,
@@ -159798,7 +159851,8 @@
             2778000724,
             1275749364
           ],
-          "ValueText": "NotReady"
+          "ValueText": "NotReady",
+          "HashText": "Step_SageOfWater"
         },
         {
           "DefaultValue": 1471695344,
@@ -168584,37 +168638,43 @@
           "DefaultValue": 0,
           "Hash": 1099806609,
           "ResetTypeValue": 32,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "PouchContentMaxNum.Arrow"
         },
         {
           "DefaultValue": 0,
           "Hash": 3880997003,
           "ResetTypeValue": 32,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "PouchContentMaxNum.Bomb"
         },
         {
           "DefaultValue": 0,
           "Hash": 1935343863,
           "ResetTypeValue": 32,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "PouchContentMaxNum.DekuNut"
         },
         {
           "DefaultValue": 0,
           "Hash": 2928461634,
           "ResetTypeValue": 32,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "PouchContentMaxNum.DekuSeed"
         },
         {
           "DefaultValue": 0,
           "Hash": 1165366960,
           "ResetTypeValue": 32,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "PouchContentMaxNum.DekuStick"
         },
         {
           "DefaultValue": 0,
           "Hash": 3758164560,
           "ResetTypeValue": 32,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "PouchContentMaxNum.Rupee"
         },
         {
           "DefaultValue": 0,
@@ -175844,126 +175904,127 @@
               "Hash": 4134586733,
               "Value": 1957753099,
               "HashText": "AllSage",
-              "ValueHex": "74B0F10B"
+              "ValueText": "ChallengeMenu_State.AllSage"
             },
             {
               "Hash": 3856264671,
               "Value": 3582315720,
               "HashText": "Defeat_Ganon",
-              "ValueHex": "D585CCC8"
+              "ValueText": "ChallengeMenu_State.Defeat_Ganon"
             },
             {
               "Hash": 3906666092,
               "Value": 3402805495,
               "HashText": "DoorOfTime",
-              "ValueHex": "CAD2B0F7"
+              "ValueText": "ChallengeMenu_State.DoorOfTime"
             },
             {
               "Hash": 3899903522,
               "Value": 1951279550,
               "HashText": "Get_Epona",
-              "ValueHex": "744E29BE"
+              "ValueText": "ChallengeMenu_State.Get_Epona"
             },
             {
               "Hash": 3838149862,
               "Value": 219726479,
               "HashText": "Get_StoneOfFire",
-              "ValueHex": "0D18C28F"
+              "ValueText": "ChallengeMenu_State.Get_StoneOfFire"
             },
             {
               "Hash": 1653467046,
               "Value": 1877192455,
               "HashText": "Get_StoneOfForest",
-              "ValueHex": "6FE3AF07"
+              "ValueText": "ChallengeMenu_State.Get_StoneOfForest"
             },
             {
               "Hash": 178488356,
               "Value": 1260086190,
               "HashText": "Get_StoneOfWater",
-              "ValueHex": "4B1B63AE"
+              "ValueText": "ChallengeMenu_State.Get_StoneOfWater"
             },
             {
               "Hash": 3536827811,
               "Value": 2446040516,
               "HashText": "Goto_HyruleCastle",
-              "ValueHex": "91CB9DC4"
+              "ValueText": "ChallengeMenu_State.Goto_HyruleCastle"
             },
             {
               "Hash": 1304207999,
               "Value": 1717628230,
               "HashText": "Meet_DekuTree",
-              "ValueHex": "6660ED46"
+              "ValueText": "ChallengeMenu_State.Meet_DekuTree"
             },
             {
               "Hash": 3423572630,
               "Value": 83020651,
               "HashText": "Meet_GreatFairy",
-              "ValueHex": "04F2CB6B"
+              "ValueText": "ChallengeMenu_State.Meet_GreatFairy"
             },
             {
               "Hash": 1396283892,
               "Value": 3953703235,
               "HashText": "SageOfFire",
-              "ValueHex": "EBA8B943"
+              "ValueText": "ChallengeMenu_State.SageOfFire"
             },
             {
               "Hash": 1512826037,
               "Value": 3319310533,
               "HashText": "SageOfForest",
-              "ValueHex": "C5D8A8C5"
+              "ValueText": "ChallengeMenu_State.SageOfForest"
             },
             {
               "Hash": 1083040561,
               "Value": 362146340,
               "HashText": "SageOfShadow",
-              "ValueHex": "1595EA24"
+              "ValueText": "ChallengeMenu_State.SageOfShadow"
             },
             {
               "Hash": 1668363661,
               "Value": 1581715348,
               "HashText": "SageOfSpirit",
-              "ValueHex": "5E470F94"
+              "ValueText": "ChallengeMenu_State.SageOfSpirit"
             },
             {
               "Hash": 1558175418,
               "Value": 563679553,
               "HashText": "SageOfWater",
-              "ValueHex": "21991141"
+              "ValueText": "ChallengeMenu_State.SageOfWater"
             },
             {
               "Hash": 107874555,
               "Value": 824393973,
               "HashText": "SubEvent_GetMelodySun",
-              "ValueHex": "312340F5"
+              "ValueText": "ChallengeMenu_State.SubEvent_GetMelodySun"
             },
             {
               "Hash": 3455006590,
               "Value": 2311271265,
               "HashText": "SubEvent_GetScarecrow",
-              "ValueHex": "89C33361"
+              "ValueText": "ChallengeMenu_State.SubEvent_GetScarecrow"
             },
             {
               "Hash": 2091827751,
               "Value": 3488207536,
               "HashText": "SubEvent_GetStormSong",
-              "ValueHex": "CFE9D2B0"
+              "ValueText": "ChallengeMenu_State.SubEvent_GetStormSong"
             },
             {
               "Hash": 31834583,
               "Value": 2713915416,
               "HashText": "SubEvent_GetSwordBigGoron",
-              "ValueHex": "A1C31018"
+              "ValueText": "ChallengeMenu_State.SubEvent_GetSwordBigGoron"
             },
             {
               "Hash": 538778178,
               "Value": 3160562611,
               "HashText": "SubEvent_MaskSalesman",
-              "ValueHex": "BC625BB3"
+              "ValueText": "ChallengeMenu_State.SubEvent_MaskSalesman"
             }
           ],
           "Hash": 22796721,
           "ResetTypeValue": 0,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "ChallengeMenu_State"
         },
         {
           "DefaultValue": [
@@ -204149,7 +204210,7 @@
               "HashChildren": [
                 "Goto_HyruleCastle",
                 "Step03",
-                "4095671216"
+                "01_Npc_Navi"
               ],
               "ValueText": "HavePlayedEvent.3536827811_1871805950_4095671216_D_S"
             },
@@ -205907,8 +205968,8 @@
             {
               "Hash": 4095687017,
               "Value": 1892459047,
-              "HashHex": "F41F3969",
-              "ValueHex": "70CCA227"
+              "HashText": "CandleAndSpiderWeb_01",
+              "ValueText": "HavePlayedEvent.CandleAndSpiderWeb_01"
             },
             {
               "Hash": 3025970320,
@@ -209945,14 +210006,14 @@
             {
               "Hash": 3754262849,
               "Value": 470201085,
-              "HashHex": "DFC58141",
-              "ValueHex": "1C06B2FD"
+              "HashText": "Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room07",
+              "ValueText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room07"
             },
             {
               "Hash": 631664394,
               "Value": 999297910,
-              "HashHex": "25A66F0A",
-              "ValueHex": "3B901376"
+              "HashText": "Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room09",
+              "ValueText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room09"
             },
             {
               "Hash": 1630785410,
@@ -209963,20 +210024,20 @@
             {
               "Hash": 1267214499,
               "Value": 2379154680,
-              "HashHex": "4B8828A3",
-              "ValueHex": "8DCF04F8"
+              "HashText": "Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_01",
+              "ValueText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_01"
             },
             {
               "Hash": 1608780499,
               "Value": 2788344076,
-              "HashHex": "5FE40AD3",
-              "ValueHex": "A632C10C"
+              "HashText": "Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_02",
+              "ValueText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_02"
             },
             {
               "Hash": 310595885,
               "Value": 1056568788,
-              "HashHex": "1283512D",
-              "ValueHex": "3EF9F5D4"
+              "HashText": "Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_03",
+              "ValueText": "HavePlayedEvent.Enemy_Wallmaster_ReturnToEntrance_SpiritTemple_Room18_03"
             },
             {
               "Hash": 2255121614,
@@ -210161,8 +210222,8 @@
             {
               "Hash": 362133413,
               "Value": 3779485199,
-              "HashHex": "1595B7A5",
-              "ValueHex": "E1465E0F"
+              "HashText": "FieldHintBase",
+              "ValueText": "HavePlayedEvent.FieldHintBase"
             },
             {
               "Hash": 3797377226,
@@ -210539,8 +210600,8 @@
             {
               "Hash": 762643613,
               "Value": 465367343,
-              "HashHex": "2D75049D",
-              "ValueHex": "1BBCF12F"
+              "HashText": "FocusOnGimmick_Token",
+              "ValueText": "HavePlayedEvent.FocusOnGimmick_Token"
             },
             {
               "Hash": 2847418401,
@@ -210557,8 +210618,8 @@
             {
               "Hash": 703798178,
               "Value": 4046199152,
-              "HashHex": "29F31BA2",
-              "ValueHex": "F12C1970"
+              "HashText": "FocusOnGimmick_ZoraDomain",
+              "ValueText": "HavePlayedEvent.FocusOnGimmick_ZoraDomain"
             },
             {
               "Hash": 1749974319,
@@ -222269,14 +222330,14 @@
             {
               "Hash": 231875447,
               "Value": 2371141696,
-              "HashHex": "0DD22377",
-              "ValueHex": "8D54C040"
+              "HashText": "Test_GhostPicture",
+              "ValueText": "HavePlayedEvent.Test_GhostPicture"
             },
             {
               "Hash": 505099005,
               "Value": 3639345864,
-              "HashHex": "1E1B32FD",
-              "ValueHex": "D8EC02C8"
+              "HashText": "Test_GoronLargePot",
+              "ValueText": "HavePlayedEvent.Test_GoronLargePot"
             },
             {
               "Hash": 699604730,
@@ -224069,8 +224130,8 @@
             {
               "Hash": 3407848121,
               "Value": 477572895,
-              "HashHex": "CB1FA2B9",
-              "ValueHex": "1C772F1F"
+              "HashText": "Test_PlayOcarinaSequence",
+              "ValueText": "HavePlayedEvent.Test_PlayOcarinaSequence"
             },
             {
               "Hash": 3627436890,
@@ -224645,8 +224706,8 @@
             {
               "Hash": 2608489753,
               "Value": 639309148,
-              "HashHex": "9B7A6519",
-              "ValueHex": "261B155C"
+              "HashText": "WellAreaEvent",
+              "ValueText": "HavePlayedEvent.WellAreaEvent"
             },
             {
               "Hash": 2631797352,
@@ -235827,7 +235888,8 @@
           ],
           "Hash": 1428350066,
           "ResetTypeValue": 0,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "IsGoBackHome"
         },
         {
           "DefaultValue": [
@@ -238825,7 +238887,7 @@
             {
               "Hash": 1626287635,
               "Value": 367684258,
-              "HashHex": "60EF2E13",
+              "HashText": "GoldSkulltulaCount",
               "ValueHex": "15EA6AA2"
             },
             {
@@ -238855,13 +238917,13 @@
             {
               "Hash": 2351102671,
               "Value": 1060220243,
-              "HashHex": "8C22FACF",
+              "HashText": "MiniGamePlayTotal",
               "ValueHex": "3F31AD53"
             },
             {
               "Hash": 2087159535,
               "Value": 3562532410,
-              "HashHex": "7C6786EF",
+              "HashText": "OcarinaPlayTotal",
               "ValueHex": "D457EE3A"
             },
             {
@@ -238891,13 +238953,13 @@
             {
               "Hash": 3673711743,
               "Value": 2789557297,
-              "HashHex": "DAF8647F",
+              "HashText": "JumpCountTotal",
               "ValueHex": "A6454431"
             },
             {
               "Hash": 2386510519,
               "Value": 1254358877,
-              "HashHex": "8E3F42B7",
+              "HashText": "RollCountTotal",
               "ValueHex": "4AC3FF5D"
             },
             {
@@ -238915,7 +238977,7 @@
             {
               "Hash": 3720036982,
               "Value": 817619416,
-              "HashHex": "DDBB4276",
+              "HashText": "StonesLiftedTotal",
               "ValueHex": "30BBE1D8"
             },
             {
@@ -238927,7 +238989,7 @@
             {
               "Hash": 1531870504,
               "Value": 3233695420,
-              "HashHex": "5B4E7D28",
+              "HashText": "NaviTalkCountTotal",
               "ValueHex": "C0BE46BC"
             }
           ],
@@ -240041,7 +240103,7 @@
             {
               "Hash": 978007486,
               "Value": 3964846234,
-              "HashHex": "3A4B35BE",
+              "HashText": "CanAppear",
               "ValueHex": "EC52C09A"
             },
             {
@@ -240100,42 +240162,43 @@
               "Hash": 995674644,
               "Value": 3758164560,
               "HashText": "Rupee",
-              "ValueHex": "E0010A50"
+              "ValueText": "PouchContentMaxNum.Rupee"
             },
             {
               "Hash": 1211961220,
               "Value": 2928461634,
               "HashText": "DekuSeed",
-              "ValueHex": "AE8CC742"
+              "ValueText": "PouchContentMaxNum.DekuSeed"
             },
             {
               "Hash": 3237216321,
               "Value": 3880997003,
               "HashText": "Bomb",
-              "ValueHex": "E753508B"
+              "ValueText": "PouchContentMaxNum.Bomb"
             },
             {
               "Hash": 1499870550,
               "Value": 1099806609,
               "HashText": "Arrow",
-              "ValueHex": "418DB791"
+              "ValueText": "PouchContentMaxNum.Arrow"
             },
             {
               "Hash": 4192551701,
               "Value": 1165366960,
               "HashText": "DekuStick",
-              "ValueHex": "457616B0"
+              "ValueText": "PouchContentMaxNum.DekuStick"
             },
             {
               "Hash": 2211636230,
               "Value": 1935343863,
               "HashText": "DekuNut",
-              "ValueHex": "735B00F7"
+              "ValueText": "PouchContentMaxNum.DekuNut"
             }
           ],
           "Hash": 4161765495,
           "ResetTypeValue": 0,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "PouchContentMaxNum"
         },
         {
           "DefaultValue": [
