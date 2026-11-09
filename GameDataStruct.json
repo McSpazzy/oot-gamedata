@@ -37068,8 +37068,8 @@
       {
         "Hash": 2020822330,
         "Value": 1319627934,
-        "HashHex": "78734D3A",
-        "ValueHex": "4EA7EC9E"
+        "HashText": "Enemy_Dictionary_Common_01_D_T",
+        "ValueText": "HavePlayedEvent.Enemy_Dictionary_Common_01_D_T"
       },
       {
         "Hash": 2102713997,
@@ -44304,14 +44304,14 @@
       {
         "Hash": 564690026,
         "Value": 1087254220,
-        "HashHex": "21A87C6A",
-        "ValueHex": "40CE2ECC"
+        "HashText": "Npc_Hylia_036_Child_C0C2_TT",
+        "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C0C2_TT"
       },
       {
         "Hash": 772453282,
         "Value": 1770148811,
-        "HashHex": "2E0AB3A2",
-        "ValueHex": "698253CB"
+        "HashText": "Npc_Hylia_036_Child_C0C3_TT",
+        "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C0C3_TT"
       },
       {
         "Hash": 1451320445,
@@ -44328,8 +44328,8 @@
       {
         "Hash": 1246615400,
         "Value": 3705758142,
-        "HashHex": "4A4DD768",
-        "ValueHex": "DCE161BE"
+        "HashText": "Npc_Hylia_036_Child_C1C3_TT",
+        "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C1C3_TT"
       },
       {
         "Hash": 2736176442,
@@ -44628,14 +44628,14 @@
       {
         "Hash": 3260279345,
         "Value": 759495943,
-        "HashHex": "C253EA31",
-        "ValueHex": "2D44FD07"
+        "HashText": "Npc_Hylia_049_Adult_C2C4_NN",
+        "ValueText": "HavePlayedEvent.Npc_Hylia_049_Adult_C2C4_NN"
       },
       {
         "Hash": 2799574273,
         "Value": 2389583532,
-        "HashHex": "A6DE1D01",
-        "ValueHex": "8E6E26AC"
+        "HashText": "Npc_Hylia_049_Adult_C2C4_TT",
+        "ValueText": "HavePlayedEvent.Npc_Hylia_049_Adult_C2C4_TT"
       },
       {
         "Hash": 1928373171,
@@ -46104,8 +46104,8 @@
       {
         "Hash": 35009254,
         "Value": 109634620,
-        "HashHex": "021632E6",
-        "ValueHex": "0688E43C"
+        "HashText": "Npc_Kokiri_005_Child_C4C5_NN",
+        "ValueText": "HavePlayedEvent.Npc_Kokiri_005_Child_C4C5_NN"
       },
       {
         "Hash": 68207769,
