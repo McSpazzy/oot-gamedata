@@ -32321,7 +32321,8 @@
           "DefaultValue": false,
           "Hash": 3586561933,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.InsideJabuJabuBelly_MQ_HitSwitch"
         },
         {
           "DefaultValue": false,
@@ -33892,7 +33893,8 @@
           "DefaultValue": false,
           "Hash": 3061723355,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.NaviHint_Obj_GuidePost"
         },
         {
           "DefaultValue": false,
@@ -33904,7 +33906,8 @@
           "DefaultValue": false,
           "Hash": 4135133635,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.NaviHint_Obj_SmallFarm_A_01"
         },
         {
           "DefaultValue": false,
@@ -34678,7 +34681,8 @@
           "DefaultValue": false,
           "Hash": 3256319238,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.NpcSecurityGuard_FoundPlayer"
         },
         {
           "DefaultValue": false,
@@ -35678,7 +35682,8 @@
           "DefaultValue": false,
           "Hash": 1154200445,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_GuidePoe_Child_D_T"
         },
         {
           "DefaultValue": false,
@@ -41058,7 +41063,8 @@
           "DefaultValue": false,
           "Hash": 441486831,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Obj_Kokiri_GuidePost_GuideAction_A_01"
         },
         {
           "DefaultValue": false,
@@ -45347,7 +45353,8 @@
           "DefaultValue": false,
           "Hash": 2353018244,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.TreasureBoxAppear_Any_Any_Magic"
         },
         {
           "DefaultValue": false,
@@ -45401,13 +45408,15 @@
           "DefaultValue": false,
           "Hash": 1568076119,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.TreasureBoxAppear_Fall_Fall"
         },
         {
           "DefaultValue": false,
           "Hash": 404932649,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.TreasureBoxAppear_Fall_GerudoTrainingGround"
         },
         {
           "DefaultValue": false,
@@ -45441,7 +45450,8 @@
           "DefaultValue": false,
           "Hash": 22122483,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.TreasureBoxAppear_Magic_Magic"
         },
         {
           "DefaultValue": false,
@@ -45472,13 +45482,15 @@
           "DefaultValue": false,
           "Hash": 3380298674,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Trial_InsideTheDekuTree_BossArea_Warp"
         },
         {
           "DefaultValue": false,
           "Hash": 606814524,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Trial_KokiriForest_ArriveLostWood"
         },
         {
           "DefaultValue": false,
@@ -71669,7 +71681,8 @@
           "DefaultValue": false,
           "Hash": 193905245,
           "ResetTypeValue": 8,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "Npc_Hylia_Zelda_Adult_ExecuteInterruptSpecialAction06"
         },
         {
           "DefaultValue": false,
@@ -71682,13 +71695,15 @@
           "DefaultValue": false,
           "Hash": 1160879626,
           "ResetTypeValue": 8,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "Npc_Hylia_Zelda_Adult_ExecuteInterruptSpecialAction08"
         },
         {
           "DefaultValue": false,
           "Hash": 542374766,
           "ResetTypeValue": 8,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "Npc_Hylia_Zelda_Adult_ExecuteInterruptSpecialAction09"
         },
         {
           "DefaultValue": false,
@@ -212655,8 +212670,8 @@
             {
               "Hash": 430727395,
               "Value": 3586561933,
-              "HashHex": "19AC60E3",
-              "ValueHex": "D5C6978D"
+              "HashText": "InsideJabuJabuBelly_MQ_HitSwitch",
+              "ValueText": "HavePlayedEvent.InsideJabuJabuBelly_MQ_HitSwitch"
             },
             {
               "Hash": 4001592495,
@@ -214077,8 +214092,8 @@
             {
               "Hash": 1160959528,
               "Value": 3061723355,
-              "HashHex": "4532D628",
-              "ValueHex": "B67E30DB"
+              "HashText": "NaviHint_Obj_GuidePost",
+              "ValueText": "HavePlayedEvent.NaviHint_Obj_GuidePost"
             },
             {
               "Hash": 709520502,
@@ -214089,8 +214104,8 @@
             {
               "Hash": 2366325866,
               "Value": 4135133635,
-              "HashHex": "8D0B446A",
-              "ValueHex": "F67921C3"
+              "HashText": "NaviHint_Obj_SmallFarm_A_01",
+              "ValueText": "HavePlayedEvent.NaviHint_Obj_SmallFarm_A_01"
             },
             {
               "Hash": 214595067,
@@ -214755,8 +214770,8 @@
             {
               "Hash": 1249152501,
               "Value": 3256319238,
-              "HashHex": "4A748DF5",
-              "ValueHex": "C2177D06"
+              "HashText": "NpcSecurityGuard_FoundPlayer",
+              "ValueText": "HavePlayedEvent.NpcSecurityGuard_FoundPlayer"
             },
             {
               "Hash": 3306637009,
@@ -215613,8 +215628,8 @@
             {
               "Hash": 3867658668,
               "Value": 1154200445,
-              "HashHex": "E687C9AC",
-              "ValueHex": "44CBB37D"
+              "HashText": "Npc_GuidePoe_Child_D_T",
+              "ValueText": "HavePlayedEvent.Npc_GuidePoe_Child_D_T"
             },
             {
               "Hash": 1381647108,
@@ -220329,8 +220344,8 @@
             {
               "Hash": 484526534,
               "Value": 441486831,
-              "HashHex": "1CE149C6",
-              "ValueHex": "1A508DEF"
+              "HashText": "Obj_Kokiri_GuidePost_GuideAction_A_01",
+              "ValueText": "HavePlayedEvent.Obj_Kokiri_GuidePost_GuideAction_A_01"
             },
             {
               "Hash": 3966632935,
@@ -224379,8 +224394,8 @@
             {
               "Hash": 1777602744,
               "Value": 2353018244,
-              "HashHex": "69F410B8",
-              "ValueHex": "8C403584"
+              "HashText": "TreasureBoxAppear_Any_Any_Magic",
+              "ValueText": "HavePlayedEvent.TreasureBoxAppear_Any_Any_Magic"
             },
             {
               "Hash": 3208494030,
@@ -224427,14 +224442,14 @@
             {
               "Hash": 3655413591,
               "Value": 1568076119,
-              "HashHex": "D9E12F57",
-              "ValueHex": "5D76F157"
+              "HashText": "TreasureBoxAppear_Fall_Fall",
+              "ValueText": "HavePlayedEvent.TreasureBoxAppear_Fall_Fall"
             },
             {
               "Hash": 1803232654,
               "Value": 404932649,
-              "HashHex": "6B7B258E",
-              "ValueHex": "1822C829"
+              "HashText": "TreasureBoxAppear_Fall_GerudoTrainingGround",
+              "ValueText": "HavePlayedEvent.TreasureBoxAppear_Fall_GerudoTrainingGround"
             },
             {
               "Hash": 608494571,
@@ -224463,8 +224478,8 @@
             {
               "Hash": 2125624270,
               "Value": 22122483,
-              "HashHex": "7EB273CE",
-              "ValueHex": "01518FF3"
+              "HashText": "TreasureBoxAppear_Magic_Magic",
+              "ValueText": "HavePlayedEvent.TreasureBoxAppear_Magic_Magic"
             },
             {
               "Hash": 3485954360,
@@ -224493,14 +224508,14 @@
             {
               "Hash": 1430992062,
               "Value": 3380298674,
-              "HashHex": "554B34BE",
-              "ValueHex": "C97B43B2"
+              "HashText": "Trial_InsideTheDekuTree_BossArea_Warp",
+              "ValueText": "HavePlayedEvent.Trial_InsideTheDekuTree_BossArea_Warp"
             },
             {
               "Hash": 1905713146,
               "Value": 606814524,
-              "HashHex": "7196DFFA",
-              "ValueHex": "242B413C"
+              "HashText": "Trial_KokiriForest_ArriveLostWood",
+              "ValueText": "HavePlayedEvent.Trial_KokiriForest_ArriveLostWood"
             },
             {
               "Hash": 1670970020,
