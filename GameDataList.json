@@ -24369,13 +24369,15 @@
           "DefaultValue": false,
           "Hash": 1879752473,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Animal_Dog_Richard_03_D_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 2564889173,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Animal_Dog_Richard_03_D_GT"
         },
         {
           "DefaultValue": false,
@@ -28947,7 +28949,8 @@
           "DefaultValue": false,
           "Hash": 2485197880,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Enemy_Dictionary_Common_02_D_T"
         },
         {
           "DefaultValue": false,
@@ -29946,7 +29949,8 @@
           "DefaultValue": false,
           "Hash": 3783403659,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.FocusOnGimmick_Basic_ForestTemple"
         },
         {
           "DefaultValue": false,
@@ -35281,7 +35285,8 @@
           "DefaultValue": false,
           "Hash": 1366056320,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Goron_004_Child_C2_N"
         },
         {
           "DefaultValue": false,
@@ -35420,7 +35425,8 @@
           "DefaultValue": false,
           "Hash": 3031278588,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Goron_007_Child_C2C3_TT"
         },
         {
           "DefaultValue": false,
@@ -35440,7 +35446,8 @@
           "DefaultValue": false,
           "Hash": 2636592155,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Goron_007_Child_DC2_NN"
         },
         {
           "DefaultValue": false,
@@ -35523,7 +35530,8 @@
           "DefaultValue": false,
           "Hash": 934147034,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Goron_011_Shop_Child_C3_N"
         },
         {
           "DefaultValue": false,
@@ -35536,7 +35544,8 @@
           "DefaultValue": false,
           "Hash": 1944969369,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Goron_011_Shop_Child_DC0C1C2C3_TTTTT"
         },
         {
           "DefaultValue": false,
@@ -36318,19 +36327,22 @@
           "DefaultValue": false,
           "Hash": 586481934,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_012_Adult_DC0C1_NNN"
         },
         {
           "DefaultValue": false,
           "Hash": 167799108,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_012_Adult_DC0C1_TTT"
         },
         {
           "DefaultValue": false,
           "Hash": 1231735764,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_012_Adult_DC0_NN"
         },
         {
           "DefaultValue": false,
@@ -36392,25 +36404,29 @@
           "DefaultValue": false,
           "Hash": 3374499846,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C0_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 900476589,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C0_GT"
         },
         {
           "DefaultValue": false,
           "Hash": 2279896768,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C1_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 3125862956,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C1_GT"
         },
         {
           "DefaultValue": false,
@@ -36430,13 +36446,15 @@
           "DefaultValue": false,
           "Hash": 4262066504,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C3C4_NN"
         },
         {
           "DefaultValue": false,
           "Hash": 2936748690,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C3C4_TT"
         },
         {
           "DefaultValue": false,
@@ -36470,13 +36488,15 @@
           "DefaultValue": false,
           "Hash": 303351055,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C4_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 600589967,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_C4_GT"
         },
         {
           "DefaultValue": false,
@@ -36494,13 +36514,15 @@
           "DefaultValue": false,
           "Hash": 1180502824,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_D_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 535090333,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_013_Child_D_GT"
         },
         {
           "DefaultValue": false,
@@ -36586,25 +36608,29 @@
           "DefaultValue": false,
           "Hash": 1359691815,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C0_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 2385645858,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C0_GT"
         },
         {
           "DefaultValue": false,
           "Hash": 2142611979,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C1_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 2595016133,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C1_GT"
         },
         {
           "DefaultValue": false,
@@ -36624,13 +36650,15 @@
           "DefaultValue": false,
           "Hash": 229424998,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C3C4_NN"
         },
         {
           "DefaultValue": false,
           "Hash": 1175355671,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C3C4_TT"
         },
         {
           "DefaultValue": false,
@@ -36664,13 +36692,15 @@
           "DefaultValue": false,
           "Hash": 4093446351,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C4_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 3999673168,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_C4_GT"
         },
         {
           "DefaultValue": false,
@@ -36688,13 +36718,15 @@
           "DefaultValue": false,
           "Hash": 1114900139,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_D_GN"
         },
         {
           "DefaultValue": false,
           "Hash": 3722858182,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_015_Child_D_GT"
         },
         {
           "DefaultValue": false,
@@ -36763,19 +36795,22 @@
           "DefaultValue": false,
           "Hash": 1177254847,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_017_Adult_DC0C1_NNN"
         },
         {
           "DefaultValue": false,
           "Hash": 1373157275,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_017_Adult_DC0C1_TTT"
         },
         {
           "DefaultValue": false,
           "Hash": 1444256997,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_017_Adult_DC0_NN"
         },
         {
           "DefaultValue": false,
@@ -37166,7 +37201,8 @@
           "DefaultValue": false,
           "Hash": 3588312977,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_036_Child_C0C1_NN"
         },
         {
           "DefaultValue": false,
@@ -37198,7 +37234,8 @@
           "DefaultValue": false,
           "Hash": 3327858071,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_036_Child_C1C2_TT"
         },
         {
           "DefaultValue": false,
@@ -37210,7 +37247,8 @@
           "DefaultValue": false,
           "Hash": 1344559337,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_036_Child_C1_T"
         },
         {
           "DefaultValue": false,
@@ -37223,7 +37261,8 @@
           "DefaultValue": false,
           "Hash": 632803285,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_036_Child_C2_N"
         },
         {
           "DefaultValue": false,
@@ -37439,7 +37478,8 @@
           "DefaultValue": false,
           "Hash": 4178131,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_045_Adult_DC1_NN"
         },
         {
           "DefaultValue": false,
@@ -37569,13 +37609,15 @@
           "DefaultValue": false,
           "Hash": 2240723588,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_049_Adult_C2_T"
         },
         {
           "DefaultValue": false,
           "Hash": 1793700800,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_049_Adult_C3_T"
         },
         {
           "DefaultValue": false,
@@ -37861,13 +37903,15 @@
           "DefaultValue": false,
           "Hash": 2967005845,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_052_Adult_DC1_NN"
         },
         {
           "DefaultValue": false,
           "Hash": 3749937847,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Hylia_052_Adult_DC1_TT"
         },
         {
           "DefaultValue": false,
@@ -39610,7 +39654,8 @@
           "DefaultValue": false,
           "Hash": 744819183,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Kokiri_Fado_Adult_DC0_NN"
         },
         {
           "DefaultValue": false,
@@ -39651,7 +39696,8 @@
           "DefaultValue": false,
           "Hash": 2756413402,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Kokiri_Mido_Adult_C0C1_TT"
         },
         {
           "DefaultValue": false,
@@ -39691,7 +39737,8 @@
           "DefaultValue": false,
           "Hash": 3875570242,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Kokiri_Mido_Adult_DC2_TT"
         },
         {
           "DefaultValue": false,
@@ -40766,13 +40813,15 @@
           "DefaultValue": false,
           "Hash": 971612332,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Zora_007_DC0C1_NNN"
         },
         {
           "DefaultValue": false,
           "Hash": 1229090007,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_Zora_007_DC0C1_TTT"
         },
         {
           "DefaultValue": false,
@@ -42806,7 +42855,8 @@
           "DefaultValue": false,
           "Hash": 1688645606,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Dm_FinalBattle_0000"
         },
         {
           "DefaultValue": false,
@@ -43286,7 +43336,8 @@
           "DefaultValue": false,
           "Hash": 3943348650,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_GhostMovableBox"
         },
         {
           "DefaultValue": false,
@@ -43558,13 +43609,15 @@
           "DefaultValue": false,
           "Hash": 1916955180,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Npc_Hylia_049_Adult_D_N"
         },
         {
           "DefaultValue": false,
           "Hash": 2371715397,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Npc_Hylia_049_Adult_D_T"
         },
         {
           "DefaultValue": false,
@@ -45088,7 +45141,8 @@
           "DefaultValue": false,
           "Hash": 2391311083,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_PhantomGanonEvent"
         },
         {
           "DefaultValue": false,
@@ -45197,7 +45251,8 @@
           "DefaultValue": false,
           "Hash": 1455867223,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_SystemIsComplete"
         },
         {
           "DefaultValue": false,
@@ -45332,7 +45387,8 @@
           "DefaultValue": false,
           "Hash": 4065325830,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.TreasureBoxAppear_Fall_Big"
         },
         {
           "DefaultValue": false,
@@ -202358,7 +202414,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "1261539663"
+                "Npc_Hylia_016_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_1261539663_C2_N"
             },
@@ -202369,7 +202425,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "1261539663"
+                "Npc_Hylia_016_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_1261539663_C2_T"
             },
@@ -202380,7 +202436,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "1261539663"
+                "Npc_Hylia_016_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_1261539663_C3C4_TT"
             },
@@ -202391,7 +202447,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "1261539663"
+                "Npc_Hylia_016_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_1261539663_C5_N"
             },
@@ -202402,7 +202458,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "1261539663"
+                "Npc_Hylia_016_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_1261539663_C6C7_NN"
             },
@@ -202413,7 +202469,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "1261539663"
+                "Npc_Hylia_016_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_1261539663_C6C7_TT"
             },
@@ -202424,7 +202480,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "240882169"
+                "Npc_Hylia_013_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_240882169_C0_N"
             },
@@ -202435,7 +202491,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "240882169"
+                "Npc_Hylia_013_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_240882169_C1_N"
             },
@@ -202446,7 +202502,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "240882169"
+                "Npc_Hylia_013_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_240882169_C3C4_NN"
             },
@@ -202457,7 +202513,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "240882169"
+                "Npc_Hylia_013_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_240882169_C3C4_TT"
             },
@@ -202468,7 +202524,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "240882169"
+                "Npc_Hylia_013_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_240882169_DC2_TT"
             },
@@ -202479,7 +202535,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "2901793494"
+                "Npc_Hylia_015_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_2901793494_C0_N"
             },
@@ -202490,7 +202546,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "2901793494"
+                "Npc_Hylia_015_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_2901793494_C2_N"
             },
@@ -202501,7 +202557,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "2901793494"
+                "Npc_Hylia_015_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_2901793494_C3C4_NN"
             },
@@ -202512,7 +202568,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "2901793494"
+                "Npc_Hylia_015_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_2901793494_C3C4_TT"
             },
@@ -202523,7 +202579,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "2901793494"
+                "Npc_Hylia_015_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_2901793494_DC1_TT"
             },
@@ -202534,7 +202590,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "364972040"
+                "Npc_Hylia_014_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_364972040_C0_N"
             },
@@ -202545,7 +202601,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "364972040"
+                "Npc_Hylia_014_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_364972040_C1_N"
             },
@@ -202556,7 +202612,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "364972040"
+                "Npc_Hylia_014_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_364972040_C3C4_NN"
             },
@@ -202567,7 +202623,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "364972040"
+                "Npc_Hylia_014_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_364972040_C3C4_TT"
             },
@@ -202578,7 +202634,7 @@
               "HashChildren": [
                 "SageOfSpirit",
                 "Step01",
-                "364972040"
+                "Npc_Hylia_014_Adult_GerudoFortress"
               ],
               "ValueText": "HavePlayedEvent.1668363661_3949112793_364972040_DC2_TT"
             },
@@ -205710,14 +205766,14 @@
             {
               "Hash": 811205218,
               "Value": 1879752473,
-              "HashHex": "305A0262",
-              "ValueHex": "700ABF19"
+              "HashText": "Animal_Dog_Richard_03_D_GN",
+              "ValueText": "HavePlayedEvent.Animal_Dog_Richard_03_D_GN"
             },
             {
               "Hash": 1724207533,
               "Value": 2564889173,
-              "HashHex": "66C551AD",
-              "ValueHex": "98E11A55"
+              "HashText": "Animal_Dog_Richard_03_D_GT",
+              "ValueText": "HavePlayedEvent.Animal_Dog_Richard_03_D_GT"
             },
             {
               "Hash": 3183867759,
@@ -209646,8 +209702,8 @@
             {
               "Hash": 2102713997,
               "Value": 2485197880,
-              "HashHex": "7D54DE8D",
-              "ValueHex": "94211C38"
+              "HashText": "Enemy_Dictionary_Common_02_D_T",
+              "ValueText": "HavePlayedEvent.Enemy_Dictionary_Common_02_D_T"
             },
             {
               "Hash": 760066327,
@@ -210540,8 +210596,8 @@
             {
               "Hash": 3484825640,
               "Value": 3783403659,
-              "HashHex": "CFB63828",
-              "ValueHex": "E182288B"
+              "HashText": "FocusOnGimmick_Basic_ForestTemple",
+              "ValueText": "HavePlayedEvent.FocusOnGimmick_Basic_ForestTemple"
             },
             {
               "Hash": 613306208,
@@ -215214,8 +215270,8 @@
             {
               "Hash": 1183814015,
               "Value": 1366056320,
-              "HashHex": "468F917F",
-              "ValueHex": "516C5D80"
+              "HashText": "Npc_Goron_004_Child_C2_N",
+              "ValueText": "HavePlayedEvent.Npc_Goron_004_Child_C2_N"
             },
             {
               "Hash": 297848113,
@@ -215334,8 +215390,8 @@
             {
               "Hash": 3048444519,
               "Value": 3031278588,
-              "HashHex": "B5B39267",
-              "ValueHex": "B4ADA3FC"
+              "HashText": "Npc_Goron_007_Child_C2C3_TT",
+              "ValueText": "HavePlayedEvent.Npc_Goron_007_Child_C2C3_TT"
             },
             {
               "Hash": 2723743343,
@@ -215352,8 +215408,8 @@
             {
               "Hash": 417235993,
               "Value": 2636592155,
-              "HashHex": "18DE8419",
-              "ValueHex": "9D27341B"
+              "HashText": "Npc_Goron_007_Child_DC2_NN",
+              "ValueText": "HavePlayedEvent.Npc_Goron_007_Child_DC2_NN"
             },
             {
               "Hash": 544022074,
@@ -215424,8 +215480,8 @@
             {
               "Hash": 1573677374,
               "Value": 934147034,
-              "HashHex": "5DCC693E",
-              "ValueHex": "37ADF3DA"
+              "HashText": "Npc_Goron_011_Shop_Child_C3_N",
+              "ValueText": "HavePlayedEvent.Npc_Goron_011_Shop_Child_C3_N"
             },
             {
               "Hash": 1705130015,
@@ -215436,8 +215492,8 @@
             {
               "Hash": 3745323594,
               "Value": 1944969369,
-              "HashHex": "DF3D1A4A",
-              "ValueHex": "73EDE099"
+              "HashText": "Npc_Goron_011_Shop_Child_DC0C1C2C3_TTTTT",
+              "ValueText": "HavePlayedEvent.Npc_Goron_011_Shop_Child_DC0C1C2C3_TTTTT"
             },
             {
               "Hash": 3235579710,
@@ -216108,20 +216164,20 @@
             {
               "Hash": 471983307,
               "Value": 586481934,
-              "HashHex": "1C21E4CB",
-              "ValueHex": "22F5010E"
+              "HashText": "Npc_Hylia_012_Adult_DC0C1_NNN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_012_Adult_DC0C1_NNN"
             },
             {
               "Hash": 3854498109,
               "Value": 167799108,
-              "HashHex": "E5BEF93D",
-              "ValueHex": "0A006944"
+              "HashText": "Npc_Hylia_012_Adult_DC0C1_TTT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_012_Adult_DC0C1_TTT"
             },
             {
               "Hash": 3488532772,
               "Value": 1231735764,
-              "HashHex": "CFEEC924",
-              "ValueHex": "496ACBD4"
+              "HashText": "Npc_Hylia_012_Adult_DC0_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_012_Adult_DC0_NN"
             },
             {
               "Hash": 3507997461,
@@ -216174,26 +216230,26 @@
             {
               "Hash": 4283508913,
               "Value": 3374499846,
-              "HashHex": "FF5128B1",
-              "ValueHex": "C922C806"
+              "HashText": "Npc_Hylia_013_Child_C0_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C0_GN"
             },
             {
               "Hash": 2955831063,
               "Value": 900476589,
-              "HashHex": "B02E6717",
-              "ValueHex": "35AC2EAD"
+              "HashText": "Npc_Hylia_013_Child_C0_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C0_GT"
             },
             {
               "Hash": 248480878,
               "Value": 2279896768,
-              "HashHex": "0ECF846E",
-              "ValueHex": "87E476C0"
+              "HashText": "Npc_Hylia_013_Child_C1_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C1_GN"
             },
             {
               "Hash": 2087638220,
               "Value": 3125862956,
-              "HashHex": "7C6ED4CC",
-              "ValueHex": "BA50E22C"
+              "HashText": "Npc_Hylia_013_Child_C1_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C1_GT"
             },
             {
               "Hash": 3970508977,
@@ -216210,14 +216266,14 @@
             {
               "Hash": 4214563905,
               "Value": 4262066504,
-              "HashHex": "FB352441",
-              "ValueHex": "FE09F948"
+              "HashText": "Npc_Hylia_013_Child_C3C4_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C3C4_NN"
             },
             {
               "Hash": 1850286553,
               "Value": 2936748690,
-              "HashHex": "6E4921D9",
-              "ValueHex": "AF0B3A92"
+              "HashText": "Npc_Hylia_013_Child_C3C4_TT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C3C4_TT"
             },
             {
               "Hash": 3173592360,
@@ -216246,14 +216302,14 @@
             {
               "Hash": 2735154279,
               "Value": 303351055,
-              "HashHex": "A3072467",
-              "ValueHex": "1214C50F"
+              "HashText": "Npc_Hylia_013_Child_C4_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C4_GN"
             },
             {
               "Hash": 1331491044,
               "Value": 600589967,
-              "HashHex": "4F5CF0E4",
-              "ValueHex": "23CC468F"
+              "HashText": "Npc_Hylia_013_Child_C4_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_C4_GT"
             },
             {
               "Hash": 4149103034,
@@ -216270,14 +216326,14 @@
             {
               "Hash": 1246492199,
               "Value": 1180502824,
-              "HashHex": "4A4BF627",
-              "ValueHex": "465D0B28"
+              "HashText": "Npc_Hylia_013_Child_D_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_D_GN"
             },
             {
               "Hash": 2206571042,
               "Value": 535090333,
-              "HashHex": "83859A22",
-              "ValueHex": "1FE4D49D"
+              "HashText": "Npc_Hylia_013_Child_D_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_013_Child_D_GT"
             },
             {
               "Hash": 3563845613,
@@ -216354,26 +216410,26 @@
             {
               "Hash": 2660450488,
               "Value": 1359691815,
-              "HashHex": "9E9340B8",
-              "ValueHex": "510B4027"
+              "HashText": "Npc_Hylia_015_Child_C0_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C0_GN"
             },
             {
               "Hash": 735112600,
               "Value": 2385645858,
-              "HashHex": "2BD0ED98",
-              "ValueHex": "8E321122"
+              "HashText": "Npc_Hylia_015_Child_C0_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C0_GT"
             },
             {
               "Hash": 606190767,
               "Value": 2142611979,
-              "HashHex": "2421BCAF",
-              "ValueHex": "7FB5AA0B"
+              "HashText": "Npc_Hylia_015_Child_C1_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C1_GN"
             },
             {
               "Hash": 2468729035,
               "Value": 2595016133,
-              "HashHex": "9325D0CB",
-              "ValueHex": "9AACCDC5"
+              "HashText": "Npc_Hylia_015_Child_C1_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C1_GT"
             },
             {
               "Hash": 1353254671,
@@ -216390,14 +216446,14 @@
             {
               "Hash": 3372981549,
               "Value": 229424998,
-              "HashHex": "C90B9D2D",
-              "ValueHex": "0DACBF66"
+              "HashText": "Npc_Hylia_015_Child_C3C4_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C3C4_NN"
             },
             {
               "Hash": 1516275657,
               "Value": 1175355671,
-              "HashHex": "5A6087C9",
-              "ValueHex": "460E8117"
+              "HashText": "Npc_Hylia_015_Child_C3C4_TT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C3C4_TT"
             },
             {
               "Hash": 3354869621,
@@ -216426,14 +216482,14 @@
             {
               "Hash": 2548256300,
               "Value": 4093446351,
-              "HashHex": "97E34E2C",
-              "ValueHex": "F3FD08CF"
+              "HashText": "Npc_Hylia_015_Child_C4_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C4_GN"
             },
             {
               "Hash": 3934916743,
               "Value": 3999673168,
-              "HashHex": "EA8A1087",
-              "ValueHex": "EE662B50"
+              "HashText": "Npc_Hylia_015_Child_C4_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_C4_GT"
             },
             {
               "Hash": 2191318980,
@@ -216450,14 +216506,14 @@
             {
               "Hash": 2653753901,
               "Value": 1114900139,
-              "HashHex": "9E2D122D",
-              "ValueHex": "427406AB"
+              "HashText": "Npc_Hylia_015_Child_D_GN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_D_GN"
             },
             {
               "Hash": 3802671628,
               "Value": 3722858182,
-              "HashHex": "E2A82A0C",
-              "ValueHex": "DDE64EC6"
+              "HashText": "Npc_Hylia_015_Child_D_GT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_015_Child_D_GT"
             },
             {
               "Hash": 2082778493,
@@ -216516,20 +216572,20 @@
             {
               "Hash": 1966090879,
               "Value": 1177254847,
-              "HashHex": "75302A7F",
-              "ValueHex": "462B7BBF"
+              "HashText": "Npc_Hylia_017_Adult_DC0C1_NNN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_017_Adult_DC0C1_NNN"
             },
             {
               "Hash": 646518821,
               "Value": 1373157275,
-              "HashHex": "26891825",
-              "ValueHex": "51D8B79B"
+              "HashText": "Npc_Hylia_017_Adult_DC0C1_TTT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_017_Adult_DC0C1_TTT"
             },
             {
               "Hash": 2826892358,
               "Value": 1444256997,
-              "HashHex": "A87EF446",
-              "ValueHex": "56159CE5"
+              "HashText": "Npc_Hylia_017_Adult_DC0_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_017_Adult_DC0_NN"
             },
             {
               "Hash": 3091828831,
@@ -216864,8 +216920,8 @@
             {
               "Hash": 3786281576,
               "Value": 3588312977,
-              "HashHex": "E1AE1268",
-              "ValueHex": "D5E14F91"
+              "HashText": "Npc_Hylia_036_Child_C0C1_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C0C1_NN"
             },
             {
               "Hash": 3575161406,
@@ -216894,8 +216950,8 @@
             {
               "Hash": 8641370,
               "Value": 3327858071,
-              "HashHex": "0083DB5A",
-              "ValueHex": "C65B1597"
+              "HashText": "Npc_Hylia_036_Child_C1C2_TT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C1C2_TT"
             },
             {
               "Hash": 1246615400,
@@ -216906,8 +216962,8 @@
             {
               "Hash": 2736176442,
               "Value": 1344559337,
-              "HashHex": "A316BD3A",
-              "ValueHex": "502458E9"
+              "HashText": "Npc_Hylia_036_Child_C1_T",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C1_T"
             },
             {
               "Hash": 4221471657,
@@ -216918,8 +216974,8 @@
             {
               "Hash": 4057263099,
               "Value": 632803285,
-              "HashHex": "F1D4EBFB",
-              "ValueHex": "25B7CFD5"
+              "HashText": "Npc_Hylia_036_Child_C2_N",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_036_Child_C2_N"
             },
             {
               "Hash": 4240756136,
@@ -217104,8 +217160,8 @@
             {
               "Hash": 3426978322,
               "Value": 4178131,
-              "HashHex": "CC438A12",
-              "ValueHex": "003FC0D3"
+              "HashText": "Npc_Hylia_045_Adult_DC1_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_045_Adult_DC1_NN"
             },
             {
               "Hash": 3189383590,
@@ -217218,14 +217274,14 @@
             {
               "Hash": 3409110690,
               "Value": 2240723588,
-              "HashHex": "CB32E6A2",
-              "ValueHex": "858EBA84"
+              "HashText": "Npc_Hylia_049_Adult_C2_T",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_049_Adult_C2_T"
             },
             {
               "Hash": 2331877911,
               "Value": 1793700800,
-              "HashHex": "8AFDA217",
-              "ValueHex": "6AE9B3C0"
+              "HashText": "Npc_Hylia_049_Adult_C3_T",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_049_Adult_C3_T"
             },
             {
               "Hash": 2684152321,
@@ -217470,14 +217526,14 @@
             {
               "Hash": 1994918347,
               "Value": 2967005845,
-              "HashHex": "76E809CB",
-              "ValueHex": "B0D8EA95"
+              "HashText": "Npc_Hylia_052_Adult_DC1_NN",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_052_Adult_DC1_NN"
             },
             {
               "Hash": 3640124636,
               "Value": 3749937847,
-              "HashHex": "D8F7E4DC",
-              "ValueHex": "DF8382B7"
+              "HashText": "Npc_Hylia_052_Adult_DC1_TT",
+              "ValueText": "HavePlayedEvent.Npc_Hylia_052_Adult_DC1_TT"
             },
             {
               "Hash": 2544691144,
@@ -218988,8 +219044,8 @@
             {
               "Hash": 2906671960,
               "Value": 744819183,
-              "HashHex": "AD404B58",
-              "ValueHex": "2C6509EF"
+              "HashText": "Npc_Kokiri_Fado_Adult_DC0_NN",
+              "ValueText": "HavePlayedEvent.Npc_Kokiri_Fado_Adult_DC0_NN"
             },
             {
               "Hash": 6559781,
@@ -219024,8 +219080,8 @@
             {
               "Hash": 2131698513,
               "Value": 2756413402,
-              "HashHex": "7F0F2351",
-              "ValueHex": "A44B87DA"
+              "HashText": "Npc_Kokiri_Mido_Adult_C0C1_TT",
+              "ValueText": "HavePlayedEvent.Npc_Kokiri_Mido_Adult_C0C1_TT"
             },
             {
               "Hash": 1041880837,
@@ -219060,8 +219116,8 @@
             {
               "Hash": 367286638,
               "Value": 3875570242,
-              "HashHex": "15E4596E",
-              "ValueHex": "E7008242"
+              "HashText": "Npc_Kokiri_Mido_Adult_DC2_TT",
+              "ValueText": "HavePlayedEvent.Npc_Kokiri_Mido_Adult_DC2_TT"
             },
             {
               "Hash": 2542912078,
@@ -220062,14 +220118,14 @@
             {
               "Hash": 3412149459,
               "Value": 971612332,
-              "HashHex": "CB6144D3",
-              "ValueHex": "39E9A0AC"
+              "HashText": "Npc_Zora_007_DC0C1_NNN",
+              "ValueText": "HavePlayedEvent.Npc_Zora_007_DC0C1_NNN"
             },
             {
               "Hash": 3259552714,
               "Value": 1229090007,
-              "HashHex": "C248D3CA",
-              "ValueHex": "49426CD7"
+              "HashText": "Npc_Zora_007_DC0C1_TTT",
+              "ValueText": "HavePlayedEvent.Npc_Zora_007_DC0C1_TTT"
             },
             {
               "Hash": 4097807319,
@@ -221844,8 +221900,8 @@
             {
               "Hash": 1457888986,
               "Value": 1688645606,
-              "HashHex": "56E59EDA",
-              "ValueHex": "64A6AFE6"
+              "HashText": "Test_Dm_FinalBattle_0000",
+              "ValueText": "HavePlayedEvent.Test_Dm_FinalBattle_0000"
             },
             {
               "Hash": 2520228213,
@@ -222324,8 +222380,8 @@
             {
               "Hash": 1063217419,
               "Value": 3943348650,
-              "HashHex": "3F5F690B",
-              "ValueHex": "EB0AB9AA"
+              "HashText": "Test_GhostMovableBox",
+              "ValueText": "HavePlayedEvent.Test_GhostMovableBox"
             },
             {
               "Hash": 231875447,
@@ -222594,14 +222650,14 @@
             {
               "Hash": 4158853882,
               "Value": 1916955180,
-              "HashHex": "F7E312FA",
-              "ValueHex": "72426A2C"
+              "HashText": "Test_Npc_Hylia_049_Adult_D_N",
+              "ValueText": "HavePlayedEvent.Test_Npc_Hylia_049_Adult_D_N"
             },
             {
               "Hash": 1014852856,
               "Value": 2371715397,
-              "HashHex": "3C7D6CF8",
-              "ValueHex": "8D5D8145"
+              "HashText": "Test_Npc_Hylia_049_Adult_D_T",
+              "ValueText": "HavePlayedEvent.Test_Npc_Hylia_049_Adult_D_T"
             },
             {
               "Hash": 3248356427,
@@ -224124,8 +224180,8 @@
             {
               "Hash": 2817906467,
               "Value": 2391311083,
-              "HashHex": "A7F5D723",
-              "ValueHex": "8E8882EB"
+              "HashText": "Test_PhantomGanonEvent",
+              "ValueText": "HavePlayedEvent.Test_PhantomGanonEvent"
             },
             {
               "Hash": 3407848121,
@@ -224232,8 +224288,8 @@
             {
               "Hash": 1051032607,
               "Value": 1455867223,
-              "HashHex": "3EA57C1F",
-              "ValueHex": "56C6C557"
+              "HashText": "Test_SystemIsComplete",
+              "ValueText": "HavePlayedEvent.Test_SystemIsComplete"
             },
             {
               "Hash": 3426974667,
@@ -224358,8 +224414,8 @@
             {
               "Hash": 115441262,
               "Value": 4065325830,
-              "HashHex": "06E17E6E",
-              "ValueHex": "F24FF306"
+              "HashText": "TreasureBoxAppear_Fall_Big",
+              "ValueText": "HavePlayedEvent.TreasureBoxAppear_Fall_Big"
             },
             {
               "Hash": 3655413591,
