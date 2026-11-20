@@ -1,0 +1,3613 @@
+0xBEEB942D AllSage_IsAfter_Ready_Exp
+Enum:Step_AllSage > Ready
+
+0xE20EFBE4 AllSage_IsAfter_Step01_00_01_Exp
+Enum:Step_AllSage > Step01_00_01
+
+0x17729B10 AllSage_IsAfter_Step01_00_02_Exp
+Enum:Step_AllSage > Step01_00_02
+
+0x5C05003E AllSage_IsAfter_Step01_00_03_Exp
+Enum:Step_AllSage > Step01_00_03
+
+0x9999FECE AllSage_IsAfter_Step01_00_Exp
+Enum:Step_AllSage > Step01_00
+
+0xFB431B47 AllSage_IsAfter_Step01_01_Exp
+Enum:Step_AllSage > Step01_01
+
+0x3FBA7BDA AllSage_IsAfter_Step01_02_Exp
+Enum:Step_AllSage > Step01_02
+
+0x4C9A9B67 AllSage_IsAfter_Step01_Exp
+Enum:Step_AllSage > Step01
+
+0xB3C6036B AllSage_IsAfter_Step02_Exp
+Enum:Step_AllSage > Step02
+
+0xF152E458 AllSage_IsCompleted_Exp
+Enum:Step_AllSage == Complete
+
+0x94DF77B7 Defeat_Ganon_IsAfter_Ready_Exp
+Enum:Step_Defeat_Ganon > Ready
+
+0x4D65CB67 Defeat_Ganon_IsAfter_Step01_Exp
+Enum:Step_Defeat_Ganon > Step01
+
+0xB60D47E5 Defeat_Ganon_IsAfter_Step02_Exp
+Enum:Step_Defeat_Ganon > Step02
+
+0x10A4DFA3 Defeat_Ganon_IsAfter_Step03_Exp
+Enum:Step_Defeat_Ganon > Step03
+
+0x4F7DC472 Defeat_Ganon_IsAfter_Step04_Exp
+Enum:Step_Defeat_Ganon > Step04
+
+0x907F956F Defeat_Ganon_IsAfter_Step05_Exp
+Enum:Step_Defeat_Ganon > Step05
+
+0x386657C7 Defeat_Ganon_IsAfter_Step06_Exp
+Enum:Step_Defeat_Ganon > Step06
+
+0x41E66EEB Defeat_Ganon_IsAfter_Step07_Exp
+Enum:Step_Defeat_Ganon > Step07
+
+0x32C58695 Defeat_Ganon_IsAfter_Step08_Exp
+Enum:Step_Defeat_Ganon > Step08
+
+0xB1831CC8 Defeat_Ganon_IsAfter_Step09_Exp
+Enum:Step_Defeat_Ganon > Step09
+
+0x16CB45C3 DodongoCavern_OpenedDodongoMouth
+ALL:
+  - Bool:DodongoCavern_BlastedRightEye == true
+  - Bool:DodongoCavern_BlastedLeftEye == true
+
+0xECEF2D19 DoorOfTime_IsAfterStep03_AND_SageOfForest_NotCompleted_Exp
+ALL:
+  - BoolExp:DoorOfTime_IsAfter_Step03_Exp
+  - BoolExp:SageOfForest_IsCompleted_Exp == false
+
+0x4DA23816 DoorOfTime_IsAfter_Ready_Exp
+Enum:Step_DoorOfTime > Ready
+
+0x7265A99E DoorOfTime_IsAfter_Srep2_1_1_Exp
+Enum:Step_DoorOfTime > Srep2_1_1
+
+0xB2F32349 DoorOfTime_IsAfter_Step01_Exp
+Enum:Step_DoorOfTime > Step01
+
+0xC946F350 DoorOfTime_IsAfter_Step02_Exp
+Enum:Step_DoorOfTime > Step02
+
+0xB85AD172 DoorOfTime_IsAfter_Step03_Exp
+Enum:Step_DoorOfTime > Step03
+
+0xB4E83EAF DoorOfTime_IsAfter_Step04_Exp
+Enum:Step_DoorOfTime > Step04
+
+0xFF51775F DoorOfTime_IsAfter_Step05_Exp
+Enum:Step_DoorOfTime > Step05
+
+0x3895BF21 DoorOfTime_IsAfter_Step06_Exp
+Enum:Step_DoorOfTime > Step06
+
+0x2C82D914 DoorOfTime_IsAfter_Step2_1_Exp
+Enum:Step_DoorOfTime > Step2_1
+
+0x2A85CE98 DoorOfTime_IsAfter_Step2_2_Exp
+Enum:Step_DoorOfTime > Step2_2
+
+0xE59CA50F DoorOfTime_IsCompleted_Exp
+Enum:Step_DoorOfTime == Complete
+
+0x098E4BE3 DreamWorldPlate_Dm_Enemy_DungeonBoss_Volvagia
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Dm_Enemy_DungeonBoss_Volvagia
+  - BoolExp:HaveDefeatedEnemy_Dm_Enemy_DungeonBoss_Volvagia
+
+0xA0338D9C DreamWorldPlate_Enemy_Amos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Amos
+  - BoolExp:HaveDefeatedEnemy_Enemy_Amos
+
+0x114F785C DreamWorldPlate_Enemy_Amos_AlwaysRespawn
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Amos_AlwaysRespawn
+  - BoolExp:HaveDefeatedEnemy_Enemy_Amos_AlwaysRespawn
+
+0xDFDA64DE DreamWorldPlate_Enemy_Anubis
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Anubis
+  - BoolExp:HaveDefeatedEnemy_Enemy_Anubis
+
+0xCEA8873F DreamWorldPlate_Enemy_BabyDodongo
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_BabyDodongo
+  - BoolExp:HaveDefeatedEnemy_Enemy_BabyDodongo
+
+0x5D03C1E0 DreamWorldPlate_Enemy_Bari
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Bari
+  - BoolExp:HaveDefeatedEnemy_Enemy_Bari
+
+0x3E4C2395 DreamWorldPlate_Enemy_Beamos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Beamos
+  - BoolExp:HaveDefeatedEnemy_Enemy_Beamos
+
+0xE6F97285 DreamWorldPlate_Enemy_Beamos_For_High_Place
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Beamos_For_High_Place
+  - BoolExp:HaveDefeatedEnemy_Enemy_Beamos_For_High_Place
+
+0x69EBCE25 DreamWorldPlate_Enemy_Biri
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Biri
+  - BoolExp:HaveDefeatedEnemy_Enemy_Biri
+
+0x9E6B7B74 DreamWorldPlate_Enemy_Bubble_Blue
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Bubble_Blue
+  - BoolExp:HaveDefeatedEnemy_Enemy_Bubble_Blue
+
+0x3F0A2729 DreamWorldPlate_Enemy_Bubble_Green
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Bubble_Green
+  - BoolExp:HaveDefeatedEnemy_Enemy_Bubble_Green
+
+0xF4043210 DreamWorldPlate_Enemy_Bubble_Green_Big
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Bubble_Green_Big
+  - BoolExp:HaveDefeatedEnemy_Enemy_Bubble_Green_Big
+
+0xA95E5576 DreamWorldPlate_Enemy_Bubble_Red
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Bubble_Red
+  - BoolExp:HaveDefeatedEnemy_Enemy_Bubble_Red
+
+0xDE791754 DreamWorldPlate_Enemy_Bubble_White
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Bubble_White
+  - BoolExp:HaveDefeatedEnemy_Enemy_Bubble_White
+
+0x20BF09E5 DreamWorldPlate_Enemy_CrazyFloorTile
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_CrazyFloorTile
+  - BoolExp:HaveDefeatedEnemy_Enemy_CrazyFloorTile
+
+0x1AD20934 DreamWorldPlate_Enemy_DeadHand
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DeadHand
+  - BoolExp:HaveDefeatedEnemy_Enemy_DeadHand
+
+0x04FF0CC5 DreamWorldPlate_Enemy_Dekubaba
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Dekubaba
+  - BoolExp:HaveDefeatedEnemy_Enemy_Dekubaba
+
+0xF64D4F35 DreamWorldPlate_Enemy_Dekubaba_Withered
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Dekubaba_Withered
+  - BoolExp:HaveDefeatedEnemy_Enemy_Dekubaba_Withered
+
+0xBED5FF5A DreamWorldPlate_Enemy_Dinolfos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Dinolfos
+  - BoolExp:HaveDefeatedEnemy_Enemy_Dinolfos
+
+0xDD7A5CA4 DreamWorldPlate_Enemy_Dodongo
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Dodongo
+  - BoolExp:HaveDefeatedEnemy_Enemy_Dodongo
+
+0xDC06F85D DreamWorldPlate_Enemy_DungeonBoss_Barinade
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Barinade
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Barinade
+
+0x6996F930 DreamWorldPlate_Enemy_DungeonBoss_BongoBongo
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_BongoBongo
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_BongoBongo
+
+0xFEF5C0E5 DreamWorldPlate_Enemy_DungeonBoss_Dodongo
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Dodongo
+
+0x848647F6 DreamWorldPlate_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo
+
+0xE14A1F84 DreamWorldPlate_Enemy_DungeonBoss_Ganon
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Ganon
+
+0xCABE495C DreamWorldPlate_Enemy_DungeonBoss_Ganondorf
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganondorf
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Ganondorf
+
+0x44CFC2AA DreamWorldPlate_Enemy_DungeonBoss_Ganon_SecondHalfBattle
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon_SecondHalfBattle
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Ganon_SecondHalfBattle
+
+0xFE185AD4 DreamWorldPlate_Enemy_DungeonBoss_Gohma
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Gohma
+
+0x84E2CF6B DreamWorldPlate_Enemy_DungeonBoss_Gohma_Egg
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma_Egg
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Gohma_Egg
+
+0xA1C51E9F DreamWorldPlate_Enemy_DungeonBoss_Kotake
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Kotake
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Kotake
+
+0x2830C964 DreamWorldPlate_Enemy_DungeonBoss_Koume
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Koume
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Koume
+
+0xAB29A49B DreamWorldPlate_Enemy_DungeonBoss_Morpha
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Morpha
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Morpha
+
+0x9A307A6B DreamWorldPlate_Enemy_DungeonBoss_PhantomGanon
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_PhantomGanon
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_PhantomGanon
+
+0x153E5CD9 DreamWorldPlate_Enemy_DungeonBoss_Twinrova
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Twinrova
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Twinrova
+
+0x7775AF66 DreamWorldPlate_Enemy_DungeonBoss_Volvagia
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Volvagia
+  - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Volvagia
+
+0xFF62C6D2 DreamWorldPlate_Enemy_Floormaster
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Floormaster
+  - BoolExp:HaveDefeatedEnemy_Enemy_Floormaster
+
+0xAF41BAFD DreamWorldPlate_Enemy_Floormaster_Truth
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Floormaster_Truth
+  - BoolExp:HaveDefeatedEnemy_Enemy_Floormaster_Truth
+
+0x40F13C5F DreamWorldPlate_Enemy_FlyingPot
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_FlyingPot
+  - BoolExp:HaveDefeatedEnemy_Enemy_FlyingPot
+
+0x0278CF84 DreamWorldPlate_Enemy_FlyingPot_IceCavern
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_IceCavern
+  - BoolExp:HaveDefeatedEnemy_Enemy_FlyingPot_IceCavern
+
+0xB7CE1194 DreamWorldPlate_Enemy_FlyingPot_ShadowTemple
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_ShadowTemple
+  - BoolExp:HaveDefeatedEnemy_Enemy_FlyingPot_ShadowTemple
+
+0xEEDC808F DreamWorldPlate_Enemy_FlyingPot_SpiritTemple
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_SpiritTemple
+  - BoolExp:HaveDefeatedEnemy_Enemy_FlyingPot_SpiritTemple
+
+0xE71251A9 DreamWorldPlate_Enemy_Freezard
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Freezard
+  - BoolExp:HaveDefeatedEnemy_Enemy_Freezard
+
+0x7B27DCE5 DreamWorldPlate_Enemy_Freezard_Fixed
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Freezard_Fixed
+  - BoolExp:HaveDefeatedEnemy_Enemy_Freezard_Fixed
+
+0xFD774525 DreamWorldPlate_Enemy_Gibdo
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Gibdo
+  - BoolExp:HaveDefeatedEnemy_Enemy_Gibdo
+
+0x662E0D2D DreamWorldPlate_Enemy_Gohma_Egg
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Gohma_Egg
+  - BoolExp:HaveDefeatedEnemy_Enemy_Gohma_Egg
+
+0xA9D16D91 DreamWorldPlate_Enemy_Gohma_Larva
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Gohma_Larva
+  - BoolExp:HaveDefeatedEnemy_Enemy_Gohma_Larva
+
+0x56D2AAC5 DreamWorldPlate_Enemy_Guay
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Guay
+  - BoolExp:HaveDefeatedEnemy_Enemy_Guay
+
+0x565DF793 DreamWorldPlate_Enemy_Guay_Boss
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Guay_Boss
+  - BoolExp:HaveDefeatedEnemy_Enemy_Guay_Boss
+
+0xE463913F DreamWorldPlate_Enemy_Guay_Fixed
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Guay_Fixed
+  - BoolExp:HaveDefeatedEnemy_Enemy_Guay_Fixed
+
+0x3544ADEE DreamWorldPlate_Enemy_Guay_Flock
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Guay_Flock
+  - BoolExp:HaveDefeatedEnemy_Enemy_Guay_Flock
+
+0x181E9A58 DreamWorldPlate_Enemy_IronKnuckle_Black
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Black
+  - BoolExp:HaveDefeatedEnemy_Enemy_IronKnuckle_Black
+
+0x876FAA3A DreamWorldPlate_Enemy_IronKnuckle_Silver
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Silver
+  - BoolExp:HaveDefeatedEnemy_Enemy_IronKnuckle_Silver
+
+0x7CA5A3B5 DreamWorldPlate_Enemy_IronKnuckle_White
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_White
+  - BoolExp:HaveDefeatedEnemy_Enemy_IronKnuckle_White
+
+0x976284EF DreamWorldPlate_Enemy_Keese
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Keese
+  - BoolExp:HaveDefeatedEnemy_Enemy_Keese
+
+0xF92CB9B0 DreamWorldPlate_Enemy_Keese_Fire
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Keese_Fire
+  - BoolExp:HaveDefeatedEnemy_Enemy_Keese_Fire
+
+0xD847E63E DreamWorldPlate_Enemy_Keese_Ice
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Keese_Ice
+  - BoolExp:HaveDefeatedEnemy_Enemy_Keese_Ice
+
+0x95935560 DreamWorldPlate_Enemy_Keese_Truth
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Keese_Truth
+  - BoolExp:HaveDefeatedEnemy_Enemy_Keese_Truth
+
+0x021A10F2 DreamWorldPlate_Enemy_Leever
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Leever
+  - BoolExp:HaveDefeatedEnemy_Enemy_Leever
+
+0x0ACCA5EE DreamWorldPlate_Enemy_Leever_Big
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Leever_Big
+  - BoolExp:HaveDefeatedEnemy_Enemy_Leever_Big
+
+0xAB04F7C9 DreamWorldPlate_Enemy_Leever_Fixed
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Leever_Fixed
+  - BoolExp:HaveDefeatedEnemy_Enemy_Leever_Fixed
+
+0xB9DBB2C0 DreamWorldPlate_Enemy_LikeLike
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_LikeLike
+  - BoolExp:HaveDefeatedEnemy_Enemy_LikeLike
+
+0xBC527056 DreamWorldPlate_Enemy_Lizalfos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Lizalfos
+  - BoolExp:HaveDefeatedEnemy_Enemy_Lizalfos
+
+0xABE9DD98 DreamWorldPlate_Enemy_MiddleBoss_BigOcto
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_BigOcto
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_BigOcto
+
+0x620D2152 DreamWorldPlate_Enemy_MiddleBoss_DarkLink
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_DarkLink
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_DarkLink
+
+0xE6A2F3B5 DreamWorldPlate_Enemy_MiddleBoss_FlareDancer
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_FlareDancer
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_FlareDancer
+
+0xE56B4B2B DreamWorldPlate_Enemy_MiddleBoss_GerudoThief
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief
+
+0xB07CA816 DreamWorldPlate_Enemy_MiddleBoss_GerudoThief_02
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_02
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_02
+
+0x52524CFC DreamWorldPlate_Enemy_MiddleBoss_GerudoThief_03
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_03
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_03
+
+0xC21881E5 DreamWorldPlate_Enemy_MiddleBoss_GerudoThief_04
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_04
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_04
+
+0xBE33CB59 DreamWorldPlate_Enemy_MiddleBoss_IronKnuckle_Nabooru
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_IronKnuckle_Nabooru
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_IronKnuckle_Nabooru
+
+0x60248925 DreamWorldPlate_Enemy_MiddleBoss_Lizalfos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Lizalfos
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_Lizalfos
+
+0x305CC8ED DreamWorldPlate_Enemy_MiddleBoss_Poe_Meg
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Poe_Meg
+  - BoolExp:HaveDefeatedEnemy_Enemy_MiddleBoss_Poe_Meg
+
+0xCFDA43F9 DreamWorldPlate_Enemy_Moblin
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Moblin
+  - BoolExp:HaveDefeatedEnemy_Enemy_Moblin
+
+0x8C4D9C11 DreamWorldPlate_Enemy_Moblin_Club
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Moblin_Club
+  - BoolExp:HaveDefeatedEnemy_Enemy_Moblin_Club
+
+0x23BFF5FC DreamWorldPlate_Enemy_Octorok
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Octorok
+  - BoolExp:HaveDefeatedEnemy_Enemy_Octorok
+
+0xCAB896E2 DreamWorldPlate_Enemy_Peahat
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Peahat
+  - BoolExp:HaveDefeatedEnemy_Enemy_Peahat
+
+0x9F0EE9DA DreamWorldPlate_Enemy_Peahat_AircraftCarrier
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Peahat_AircraftCarrier
+  - BoolExp:HaveDefeatedEnemy_Enemy_Peahat_AircraftCarrier
+
+0x778CA2DB DreamWorldPlate_Enemy_Peahat_Larva
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Peahat_Larva
+  - BoolExp:HaveDefeatedEnemy_Enemy_Peahat_Larva
+
+0xB0A173DD DreamWorldPlate_Enemy_Peahat_Larva_Independent
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Peahat_Larva_Independent
+  - BoolExp:HaveDefeatedEnemy_Enemy_Peahat_Larva_Independent
+
+0xA4CF5B8D DreamWorldPlate_Enemy_Poe
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe
+
+0x7BECA466 DreamWorldPlate_Enemy_Poe_Amy
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Amy
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Amy
+
+0xB17E2F6C DreamWorldPlate_Enemy_Poe_Base
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Base
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Base
+
+0xBA22BF89 DreamWorldPlate_Enemy_Poe_Beth
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Beth
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Beth
+
+0x4FC1989E DreamWorldPlate_Enemy_Poe_Big
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Big
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Big
+
+0x195FA162 DreamWorldPlate_Enemy_Poe_Flat
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Flat
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Flat
+
+0x374BE617 DreamWorldPlate_Enemy_Poe_Hyrule
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Hyrule
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Hyrule
+
+0x1F99A2E4 DreamWorldPlate_Enemy_Poe_Joelle
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Joelle
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Joelle
+
+0x75E4F22F DreamWorldPlate_Enemy_Poe_Sharp
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_Sharp
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_Sharp
+
+0xDBF7B0EB DreamWorldPlate_Enemy_Poe_SistersBase
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Poe_SistersBase
+  - BoolExp:HaveDefeatedEnemy_Enemy_Poe_SistersBase
+
+0x276C72F5 DreamWorldPlate_Enemy_ReDead
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_ReDead
+  - BoolExp:HaveDefeatedEnemy_Enemy_ReDead
+
+0xA0E139D2 DreamWorldPlate_Enemy_ReDead_AlwaysRespawn
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_ReDead_AlwaysRespawn
+  - BoolExp:HaveDefeatedEnemy_Enemy_ReDead_AlwaysRespawn
+
+0xAF8CFE2C DreamWorldPlate_Enemy_ReDead_ClimaxOnly
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_ReDead_ClimaxOnly
+  - BoolExp:HaveDefeatedEnemy_Enemy_ReDead_ClimaxOnly
+
+0xA18E59A4 DreamWorldPlate_Enemy_Scrub_Business
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Scrub_Business
+  - BoolExp:HaveDefeatedEnemy_Enemy_Scrub_Business
+
+0xCB9DBB8D DreamWorldPlate_Enemy_Scrub_Business_Seed
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Scrub_Business_Seed
+  - BoolExp:HaveDefeatedEnemy_Enemy_Scrub_Business_Seed
+
+0x549931B6 DreamWorldPlate_Enemy_Scrub_Deku
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Scrub_Deku
+  - BoolExp:HaveDefeatedEnemy_Enemy_Scrub_Deku
+
+0xE46667C6 DreamWorldPlate_Enemy_Scrub_Deku_Brothers
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Scrub_Deku_Brothers
+  - BoolExp:HaveDefeatedEnemy_Enemy_Scrub_Deku_Brothers
+
+0x22513620 DreamWorldPlate_Enemy_Scrub_Mad
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Scrub_Mad
+  - BoolExp:HaveDefeatedEnemy_Enemy_Scrub_Mad
+
+0x70497464 DreamWorldPlate_Enemy_Shabom
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Shabom
+  - BoolExp:HaveDefeatedEnemy_Enemy_Shabom
+
+0x33C549DA DreamWorldPlate_Enemy_Shabom_AlwaysRespawn
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Shabom_AlwaysRespawn
+  - BoolExp:HaveDefeatedEnemy_Enemy_Shabom_AlwaysRespawn
+
+0xD32E04A5 DreamWorldPlate_Enemy_Shabom_BigOctoChild
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Shabom_BigOctoChild
+  - BoolExp:HaveDefeatedEnemy_Enemy_Shabom_BigOctoChild
+
+0xC9184C81 DreamWorldPlate_Enemy_ShellBlade
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_ShellBlade
+  - BoolExp:HaveDefeatedEnemy_Enemy_ShellBlade
+
+0x0AC741CB DreamWorldPlate_Enemy_SkullKid
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_SkullKid
+  - BoolExp:HaveDefeatedEnemy_Enemy_SkullKid
+
+0xCCD8D018 DreamWorldPlate_Enemy_Skulltula
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Skulltula
+  - BoolExp:HaveDefeatedEnemy_Enemy_Skulltula
+
+0xA8079D4D DreamWorldPlate_Enemy_Skulltula_Gold
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Skulltula_Gold
+  - BoolExp:HaveDefeatedEnemy_Enemy_Skulltula_Gold
+
+0x3EA545BA DreamWorldPlate_Enemy_Skulltula_Truth
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Skulltula_Truth
+  - BoolExp:HaveDefeatedEnemy_Enemy_Skulltula_Truth
+
+0xC1BAA41C DreamWorldPlate_Enemy_Skullwalltula
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Skullwalltula
+  - BoolExp:HaveDefeatedEnemy_Enemy_Skullwalltula
+
+0x209DFE3E DreamWorldPlate_Enemy_Spike
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Spike
+  - BoolExp:HaveDefeatedEnemy_Enemy_Spike
+
+0x271FB897 DreamWorldPlate_Enemy_Stalchild
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stalchild
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalchild
+
+0x7DB91FEC DreamWorldPlate_Enemy_Stalchild_Big
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stalchild_Big
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalchild_Big
+
+0x92CC89B6 DreamWorldPlate_Enemy_Stalfos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stalfos
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalfos
+
+0x881BB369 DreamWorldPlate_Enemy_Stalfos_AlwaysRespawn
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stalfos_AlwaysRespawn
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalfos_AlwaysRespawn
+
+0x941B2220 DreamWorldPlate_Enemy_Stalfos_ForChild
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stalfos_ForChild
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalfos_ForChild
+
+0x9278395E DreamWorldPlate_Enemy_Stalfos_Weak
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stalfos_Weak
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalfos_Weak
+
+0xEEE2F907 DreamWorldPlate_Enemy_Stinger
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stinger
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stinger
+
+0x9DA90D05 DreamWorldPlate_Enemy_Stinger_UnderWater
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Stinger_UnderWater
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stinger_UnderWater
+
+0x3F912C9F DreamWorldPlate_Enemy_Tailpasaran
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Tailpasaran
+  - BoolExp:HaveDefeatedEnemy_Enemy_Tailpasaran
+
+0x70BDE43A DreamWorldPlate_Enemy_Tektite_Blue
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Tektite_Blue
+  - BoolExp:HaveDefeatedEnemy_Enemy_Tektite_Blue
+
+0xDFE12A6D DreamWorldPlate_Enemy_Tektite_Red
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Tektite_Red
+  - BoolExp:HaveDefeatedEnemy_Enemy_Tektite_Red
+
+0x0E7CD2A3 DreamWorldPlate_Enemy_Tentacle_Blue
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Blue
+  - BoolExp:HaveDefeatedEnemy_Enemy_Tentacle_Blue
+
+0x00E3B2E6 DreamWorldPlate_Enemy_Tentacle_Green
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Green
+  - BoolExp:HaveDefeatedEnemy_Enemy_Tentacle_Green
+
+0xD9209CE7 DreamWorldPlate_Enemy_Tentacle_Red
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Red
+  - BoolExp:HaveDefeatedEnemy_Enemy_Tentacle_Red
+
+0x6ADAFE66 DreamWorldPlate_Enemy_TorchSlug
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_TorchSlug
+  - BoolExp:HaveDefeatedEnemy_Enemy_TorchSlug
+
+0xAFE10008 DreamWorldPlate_Enemy_TrickyDoor
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_TrickyDoor
+  - BoolExp:HaveDefeatedEnemy_Enemy_TrickyDoor
+
+0xA078DBEA DreamWorldPlate_Enemy_TrickyDoor_SpiritTemple
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_TrickyDoor_SpiritTemple
+  - BoolExp:HaveDefeatedEnemy_Enemy_TrickyDoor_SpiritTemple
+
+0xC74637DF DreamWorldPlate_Enemy_Wallmaster
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Wallmaster
+  - BoolExp:HaveDefeatedEnemy_Enemy_Wallmaster
+
+0xE11815E2 DreamWorldPlate_Enemy_Wolfos
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Wolfos
+  - BoolExp:HaveDefeatedEnemy_Enemy_Wolfos
+
+0x37088D56 DreamWorldPlate_Enemy_Wolfos_White
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Enemy_Wolfos_White
+  - BoolExp:HaveDefeatedEnemy_Enemy_Wolfos_White
+
+0x056347B2 DreamWorldPlate_Npc_Hylia_MSP_Default
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_Hylia_MSP_Default
+  - BoolExp:HaveDefeatedEnemy_Npc_Hylia_MSP_Default
+
+0x96F9D476 DreamWorldPlate_Npc_SkullChild_001
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_SkullChild_001
+  - BoolExp:HaveDefeatedEnemy_Npc_SkullChild_001
+
+0x8AB9E16E DreamWorldPlate_Npc_SkullChild_002
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_SkullChild_002
+  - BoolExp:HaveDefeatedEnemy_Npc_SkullChild_002
+
+0x778B3EF2 DreamWorldPlate_Npc_SkullChild_003
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_SkullChild_003
+  - BoolExp:HaveDefeatedEnemy_Npc_SkullChild_003
+
+0x55D5B0BE DreamWorldPlate_Npc_SkullChild_004
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_SkullChild_004
+  - BoolExp:HaveDefeatedEnemy_Npc_SkullChild_004
+
+0x1F019B6A DreamWorldPlate_Npc_SkullChild_005
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_SkullChild_005
+  - BoolExp:HaveDefeatedEnemy_Npc_SkullChild_005
+
+0x217F2A50 DreamWorldPlate_Npc_SkullDad
+ANY:
+  - BoolExp:UndefeatedEnemyAfterGameClear_Npc_SkullDad
+  - BoolExp:HaveDefeatedEnemy_Npc_SkullDad
+
+0x94250BD9 DreamWorld_CompleteStatue
+Int:DreamWorld_UnopendEnemyNum == 0
+
+0xDF14BA89 Enemy_Poe_Hyrule_00
+BoolExp:HaveDefeatedEnemy_Enemy_Poe_Hyrule == false
+
+0xBDD0BCF9 Enemy_Poe_Hyrule_01
+Bool:IsGet.Item_Hookshot == true
+
+0xC94698EB Enemy_Poe_Hyrule_02
+Bool:IsGet.Weapon_Range_Bow == true
+
+0xC9462254 Enemy_Poe_Hyrule_03
+ALL:
+  - BoolExp:SageOfFire_IsAfter_DefeatBoss_Exp
+  - BoolExp:SageOfWater_IsAfter_Step07_1_Exp
+  - BoolExp:SageOfForest_IsAfter_Step07_Exp
+
+0xF5FEDCC1 Enemy_Poe_Hyrule_04
+ALL:
+  - BoolExp:SageOfShadow_IsAfter_DefeatBoss_Exp
+  - BoolExp:SageOfSpirit_IsAfter_Step09_Exp
+
+0xB76D815F EscapeFromCrumblingGanonCastle_IsAfter_Step06_Exp
+Enum:Step_EscapeFromCrumblingGanonCastle > Step06
+
+0xFA98FDF6 GatheringTokenGold_IsAfter_Ready_Exp
+Enum:Step_GatheringTokenGold > Ready
+
+0xB5AA7C82 GatheringTokenGold_IsCompleted_Exp
+Enum:Step_GatheringTokenGold == Complete
+
+0xDD6D09A0 GerudoFortress_GoToPrison_AND_Step01_Exp
+ALL:
+  - Bool:GerudoFortress_GoToPrison == true
+  - BoolExp:SageOfSpirit_IsAfter_Step01_Exp == false
+
+0x72A628D9 GerudoFortress_IsFightingGerudoThief_NPC_Hylia_013_Adult
+ALL:
+  - Bool:GerudoFortress_AppearGerudoThief_Npc_Hylia_013_Adult == true
+  - Bool:GerudoFortress_DestroyGerudoThief_Npc_Hylia_013_Adult == false
+
+0xBDD4A135 GerudoFortress_IsFightingGerudoThief_NPC_Hylia_014_Adult
+ALL:
+  - Bool:GerudoFortress_AppearGerudoThief_Npc_Hylia_014_Adult == true
+  - Bool:GerudoFortress_DestroyGerudoThief_Npc_Hylia_014_Adult == false
+
+0x46AD3280 GerudoFortress_IsFightingGerudoThief_NPC_Hylia_015_Adult
+ALL:
+  - Bool:GerudoFortress_AppearGerudoThief_Npc_Hylia_015_Adult == true
+  - Bool:GerudoFortress_DestroyGerudoThief_Npc_Hylia_015_Adult == false
+
+0xD183873C GerudoFortress_IsFightingGerudoThief_NPC_Hylia_016_Adult
+ALL:
+  - Bool:GerudoFortress_AppearGerudoThief_Npc_Hylia_016_Adult == true
+  - Bool:GerudoFortress_DestroyGerudoThief_Npc_Hylia_016_Adult == false
+
+0xF2BD2CE0 GerudoFortress_Not_Saved_Npc_Hylia_013_Adult
+ALL:
+  - Bool:GerudoFortress_Saved_Npc_Hylia_013_Adult == false
+  - Bool:Sequence_IsChildhood == false
+
+0x8131EECB GerudoFortress_Not_Saved_Npc_Hylia_014_Adult
+ALL:
+  - Bool:GerudoFortress_Saved_Npc_Hylia_014_Adult == false
+  - Bool:Sequence_IsChildhood == false
+
+0xFB5CAA32 GerudoFortress_Not_Saved_Npc_Hylia_015_Adult
+ALL:
+  - Bool:GerudoFortress_Saved_Npc_Hylia_015_Adult == false
+  - Bool:Sequence_IsChildhood == false
+
+0xD7DCA9DC GerudoFortress_Not_Saved_Npc_Hylia_016_Adult
+ALL:
+  - Bool:GerudoFortress_Saved_Npc_Hylia_016_Adult == false
+  - Bool:Sequence_IsChildhood == false
+
+0x84527169 GerudoFortress_Npc_Gerudo_018_LookPrison_After_Step01
+ALL:
+  - Bool:GerudoFortress_NPCGerudo018_LookPrison == true
+  - BoolExp:SageOfSpirit_IsAfter_Step01_Exp
+
+0x0A51847F GerudoFortress_Npc_Hylia_016_Adult_IsCallingHelpAgain
+ALL:
+  - Bool:GerudoFortress_Npc_Hylia_016_Adult_IsCallingHelp == false
+  - Bool:GerudoFortress_LinkIsInTheRoom == false
+
+0xFE6553A1 GerudoValley_Npc_Gerudo_002_TerrorOnlyBalloon
+ALL:
+  - Bool:GerudoValley_Npc_Gerudo_002_PlayerComeBridge == true
+  - Bool:GerudoValley_Npc_Gerudo_002_Angry == false
+
+0xED3B2879 GetStoneOfFire_IsCompleted_AND_Bombchu_IsAfterPlayed
+ALL:
+  - BoolExp:Get_StoneOfFire_IsCompleted_Exp
+  - Bool:MiniGame_BombchuBowling_ClearFirstTime == false
+
+0xF4D5D3B9 GetSwordBigGoron_IsAfterReady_AND_AfterGetBrokenSword
+ALL:
+  - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Ready_Exp
+  - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Step07_Exp == false
+
+0x6C5D5A70 GetSwordBigGoron_IsAfterStep06_AND_NotCompleted_Exp
+ALL:
+  - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Step06_03_Exp
+  - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Step10_Exp == false
+
+0x5AA721E9 GetSwordBigGoron_Step09_RetryCheck
+ALL:
+  - Int:PouchData.Item_EyeballFrog.StockNum == 0
+  - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Step08_Exp
+  - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Step09_Exp == false
+
+0xEEDC3880 Get_Epona_IsAfter_AfterGetEponaSong_Exp
+Enum:Step_Get_Epona > AfterGetEponaSong
+
+0x5620D8BE Get_Epona_IsAfter_AfterTalkMalon_Exp
+Enum:Step_Get_Epona > AfterTalkMalon
+
+0x8FFBDC58 Get_Epona_IsAfter_AfterWonGambleRace_Exp
+Enum:Step_Get_Epona > AfterWonGambleRace
+
+0xFC823616 Get_Epona_IsAfter_GambleRacePlaying_Exp
+Enum:Step_Get_Epona > GambleRacePlaying
+
+0x6B8C1072 Get_Epona_IsAfter_ReadyForGambleRace_Exp
+Enum:Step_Get_Epona > ReadyForGambleRace
+
+0xCA8EE260 Get_Epona_IsAfter_ReadyForGetEponaSong_Exp
+Enum:Step_Get_Epona > ReadyForGetEponaSong
+
+0xA923BD78 Get_Epona_IsAfter_Ready_Exp
+Enum:Step_Get_Epona > Ready
+
+0xC736C801 Get_Epona_IsCompleted_Exp
+Enum:Step_Get_Epona == Complete
+
+0xC49FB59B Get_StoneOfFire_IsAfter_BossBattle_Exp
+Enum:Step_Get_StoneOfFire > BossBattle
+
+0xE648EF8B Get_StoneOfFire_IsAfter_DarniaRoomKokiriTalk_Exp
+Enum:Step_Get_StoneOfFire > DarniaRoomKokiriTalk
+
+0x2076B938 Get_StoneOfFire_IsAfter_DeathMtTrailIn_Exp
+Enum:Step_Get_StoneOfFire > DeathMtTrailIn
+
+0x122CD21F Get_StoneOfFire_IsAfter_DeathMtTrailNpc_Exp
+Enum:Step_Get_StoneOfFire > DeathMtTrailNpc
+
+0x824AD491 Get_StoneOfFire_IsAfter_DodongoCavernOpne_Exp
+Enum:Step_Get_StoneOfFire > DodongoCavernOpne
+
+0x7110E45B Get_StoneOfFire_IsAfter_DungeonStart_Exp
+Enum:Step_Get_StoneOfFire > DungeonStart
+
+0x6B18409C Get_StoneOfFire_IsAfter_EscapeDungeon_Exp
+Enum:Step_Get_StoneOfFire > EscapeDungeon
+
+0x48E0FFC0 Get_StoneOfFire_IsAfter_GoronCityDarniaroomNpcTalk01_Exp
+Enum:Step_Get_StoneOfFire > GoronCityDarniaroomNpcTalk01
+
+0xA36F62DB Get_StoneOfFire_IsAfter_GoronCityDarniaroomOpen_Exp
+Enum:Step_Get_StoneOfFire > GoronCityDarniaroomOpen
+
+0x08B3BBDE Get_StoneOfFire_IsAfter_GoronCityDarniaTalk_Exp
+Enum:Step_Get_StoneOfFire > GoronCityDarniaTalk
+
+0x3450A85A Get_StoneOfFire_IsAfter_GoronCityIn_Exp
+Enum:Step_Get_StoneOfFire > GoronCityIn
+
+0xD11ED810 Get_StoneOfFire_IsAfter_KakarikoVillageLetter_Exp
+Enum:Step_Get_StoneOfFire > KakarikoVillageLetter
+
+0xCE449A23 Get_StoneOfFire_IsAfter_KakarikoVillageNpc_Exp
+Enum:Step_Get_StoneOfFire > KakarikoVillageNpc
+
+0xB5FAA6BC Get_StoneOfFire_IsAfter_KokiriForestFire_Exp
+Enum:Step_Get_StoneOfFire > KokiriForestFire
+
+0x77C4E91A Get_StoneOfFire_IsAfter_KokiriForestIn_Exp
+Enum:Step_Get_StoneOfFire > KokiriForestIn
+
+0x502B9B21 Get_StoneOfFire_IsAfter_KokiriForestNPCTalk_Exp
+Enum:Step_Get_StoneOfFire > KokiriForestNPCTalk
+
+0x611D0756 Get_StoneOfFire_IsAfter_Ready_Exp
+Enum:Step_Get_StoneOfFire > Ready
+
+0x0734E93D Get_StoneOfFire_IsAfter_SariaMelodyGet_Exp
+Enum:Step_Get_StoneOfFire > SariaMelodyGet
+
+0x9594952E Get_StoneOfFire_IsAfter_SariaMelodyPlay_Exp
+Enum:Step_Get_StoneOfFire > SariaMelodyPlay
+
+0x93064625 Get_StoneOfFire_IsCompleted_Exp
+Enum:Step_Get_StoneOfFire == Complete
+
+0xEBC3EB18 Get_StoneOfForest_IsAfter_DefeatBoss_Exp
+Enum:Step_Get_StoneOfForest > DefeatBoss
+
+0x073A9531 Get_StoneOfForest_IsAfter_GoInside_Exp
+Enum:Step_Get_StoneOfForest > GoInside
+
+0xB6381C1A Get_StoneOfForest_IsAfter_GoToBossRoom_Exp
+Enum:Step_Get_StoneOfForest > GoToBossRoom
+
+0xBD531684 Get_StoneOfForest_IsAfter_GoToWarpPoint_Exp
+Enum:Step_Get_StoneOfForest > GoToWarpPoint
+
+0x3B79F034 Get_StoneOfForest_IsAfter_MeetBoss_Exp
+Enum:Step_Get_StoneOfForest > MeetBoss
+
+0xEC742759 Get_StoneOfForest_IsAfter_NotReady_Exp
+Enum:Step_Get_StoneOfForest > NotReady
+
+0x406F2AC5 Get_StoneOfForest_IsAfter_Ready_Exp
+Enum:Step_Get_StoneOfForest > Ready
+
+0xDC8D6E41 Get_StoneOfForest_IsCompleted_Exp
+Enum:Step_Get_StoneOfForest == Complete
+
+0x67097980 Get_StoneOfWater_IsAfter_Ready_Exp
+Enum:Step_Get_StoneOfWater > Ready
+
+0x7A7A24B4 Get_StoneOfWater_IsAfter_Step01_Exp
+Enum:Step_Get_StoneOfWater > Step01
+
+0x89758AFE Get_StoneOfWater_IsAfter_Step02_Exp
+Enum:Step_Get_StoneOfWater > Step02
+
+0xB21F3148 Get_StoneOfWater_IsAfter_Step03_Exp
+Enum:Step_Get_StoneOfWater > Step03
+
+0xD1493432 Get_StoneOfWater_IsAfter_Step03_Impa_Exp
+Enum:Step_Get_StoneOfWater > Step03_Impa
+
+0x8FE5E0F7 Get_StoneOfWater_IsAfter_Step04_Exp
+Enum:Step_Get_StoneOfWater > Step04
+
+0xB7AA2131 Get_StoneOfWater_IsAfter_Step05_01_Exp
+Enum:Step_Get_StoneOfWater > Step05_01
+
+0x30B1A845 Get_StoneOfWater_IsAfter_Step05_Exp
+Enum:Step_Get_StoneOfWater > Step05
+
+0x5379230D Get_StoneOfWater_IsAfter_Step06_Exp
+Enum:Step_Get_StoneOfWater > Step06
+
+0xBF9E67C0 Get_StoneOfWater_IsAfter_Step07_Exp
+Enum:Step_Get_StoneOfWater > Step07
+
+0x69CE1645 Get_StoneOfWater_IsAfter_Step08_Exp
+Enum:Step_Get_StoneOfWater > Step08
+
+0xD8B9EE33 Get_StoneOfWater_IsAfter_Step09_Exp
+Enum:Step_Get_StoneOfWater > Step09
+
+0x519B5FA0 Get_StoneOfWater_IsAfter_Step10_Exp
+Enum:Step_Get_StoneOfWater > Step10
+
+0x975DEB9B Get_StoneOfWater_IsAfter_Step11_Exp
+Enum:Step_Get_StoneOfWater > Step11
+
+0x025C6AD5 Get_StoneOfWater_IsAfter_Step12_Exp
+Enum:Step_Get_StoneOfWater > Step12
+
+0xE0C49BA6 Get_StoneOfWater_IsAfter_Step13_01_Exp
+Enum:Step_Get_StoneOfWater > Step13_01
+
+0x1C8F9186 Get_StoneOfWater_IsAfter_Step13_Exp
+Enum:Step_Get_StoneOfWater > Step13
+
+0x2B59FD5B Get_StoneOfWater_IsAfter_Step14_Exp
+Enum:Step_Get_StoneOfWater > Step14
+
+0x75B83388 Get_StoneOfWater_IsCompleted_Exp
+Enum:Step_Get_StoneOfWater == Complete
+
+0xDF93FCE8 GoronCity_Adult_InitDemo
+ALL:
+  - Bool:Sequence_IsChildhood == false
+  - Bool:HavePlayedEvent.SageOfFire_CityIn == false
+
+0xA66A73F7 GoronCity_Adult_InitDemo_FromLostWood
+ALL:
+  - Bool:Sequence_IsChildhood == false
+  - Bool:HavePlayedEvent.SageOfFire_CityIn == false
+  - Bool:GoronCity_LostWood_WallCrack_Broke == true
+
+0xD27A2EF0 GoronCity_CanDaruniaNotHearOcarina
+Bool:HavePlayedEvent.Dm_Goron_0020 == false
+
+0xF0334F4E GoronCity_IsDaruniaAngry
+Bool:HavePlayedEvent.Dm_Goron_0025 == false
+
+0xF45DAF2B GoronCity_Shop_adult_BeforeFirstTalk
+ALL:
+  - Bool:HaveTalked_Special.Npc_Goron_011_Shop_Adult_Talk_Event3 == false
+  - Bool:Npc_Goron_011_Shop_Adult_StopSurprise == false
+  - Bool:Npc_Goron_011_Shop_Adult_Surprise == true
+
+0x9A224BCC Goto_HyruleCastle_IsAfter_Ready_Exp
+Enum:Step_Goto_HyruleCastle > Ready
+
+0x85C8EEA4 Goto_HyruleCastle_IsAfter_Step01_Exp
+Enum:Step_Goto_HyruleCastle > Step01
+
+0xAF6DCE21 Goto_HyruleCastle_IsAfter_Step02_01_Exp
+Enum:Step_Goto_HyruleCastle > Step02_01
+
+0x787F999E Goto_HyruleCastle_IsAfter_Step02_Exp
+Enum:Step_Goto_HyruleCastle > Step02
+
+0xB04FDA27 Goto_HyruleCastle_IsAfter_Step03_01_Exp
+Enum:Step_Goto_HyruleCastle > Step03_01
+
+0xC7EFCD7A Goto_HyruleCastle_IsAfter_Step03_02_Exp
+Enum:Step_Goto_HyruleCastle > Step03_02
+
+0x97970F76 Goto_HyruleCastle_IsAfter_Step03_Exp
+Enum:Step_Goto_HyruleCastle > Step03
+
+0x7A7EC024 Goto_HyruleCastle_IsAfter_Step04_Exp
+Enum:Step_Goto_HyruleCastle > Step04
+
+0x0FDEAA7A Goto_HyruleCastle_IsCompleted_Exp
+Enum:Step_Goto_HyruleCastle == Complete
+
+0x31A9DBBB GraveYard_Hylia_030_Exclude_Fever
+ANY:
+  - Bool:GraveYard_Hylia_030_Anger == true
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step05_Exp
+
+0xB82F95F4 GuidePoe_Disappear_GlassTruth_Off
+ALL:
+  - Bool:GuidePoe_Disappear == true
+  - Bool:PlayerStatus.IsActiveGlassTruth == false
+
+0x71CBD072 GuidePoe_HaveSeen_GlassTruth_Off
+ALL:
+  - Bool:GuidePoe_HaveSeen == true
+  - Bool:PlayerStatus.IsActiveGlassTruth == false
+
+0xF93B67D0 HappyMaskSaleMan_UntilRentMaskOfBunny
+ALL:
+  - Enum:Step_SubEvent_MaskSalesman == UntilRentMaskOfBunny
+  - Int:PouchData.Armor_Child_Mask_Bunny.StockNum == 1
+  - Enum:Step_SubEvent_MaskSalesman != Complete
+
+0xD161EA38 HappyMaskSaleMan_UntilRentMaskOfKeaton
+ALL:
+  - Enum:Step_SubEvent_MaskSalesman == UntilRentMaskOfKeaton
+  - Int:PouchData.Armor_Child_Mask_Keaton.StockNum == 1
+  - Enum:Step_SubEvent_MaskSalesman != Complete
+
+0x0E76CF87 HappyMaskSaleMan_UntilRentMaskOfSkull
+ALL:
+  - Enum:Step_SubEvent_MaskSalesman == UntilRentMaskOfSkull
+  - Int:PouchData.Armor_Child_Mask_Skull.StockNum == 1
+  - Enum:Step_SubEvent_MaskSalesman != Complete
+
+0xD0AC7E3F HappyMaskSaleMan_UntilRentMaskOfSpooky
+ALL:
+  - Enum:Step_SubEvent_MaskSalesman == UntilRentMaskOfSpooky
+  - Int:PouchData.Armor_Child_Mask_Spooky.StockNum == 1
+  - Enum:Step_SubEvent_MaskSalesman != Complete
+
+0x9D85CF46 HappyMaskShop_AppearMask_Bunny
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step05_Exp
+
+0x735F9F46 HappyMaskShop_AppearMask_Gerudo
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+
+0xE598864E HappyMaskShop_AppearMask_Goron
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+
+0x7CAF55C8 HappyMaskShop_AppearMask_Keaton
+Bool:Npc_Hylia_Soldier_003_GateOpen == true
+
+0xB4C3E745 HappyMaskShop_AppearMask_Skull
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step01_Exp
+
+0x5A9B9D0B HappyMaskShop_AppearMask_Spooky
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step03_Exp
+
+0x6EEC425F HappyMaskShop_AppearMask_Truth
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+
+0xBD7C4B1E HappyMaskShop_AppearMask_Zora
+BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+
+0x03347BC8 HappyMaskShop_HasMask_Bunny
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step05_Exp
+  - Int:0xCEFD131F != 2
+  - Int:PouchData.Armor_Child_Mask_Bunny.StockNum == 0
+
+0x07751ABF HappyMaskShop_HasMask_Gerudo
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+  - Int:PouchData.Armor_Child_Mask_Gerudo.StockNum == 0
+  - Int:0xCEFD131F != 6
+
+0x6B7E2147 HappyMaskShop_HasMask_Goron
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+  - Int:0xCEFD131F != 5
+  - Int:PouchData.Armor_Child_Mask_Goron.StockNum == 0
+
+0x457C7E1A HappyMaskShop_HasMask_Keaton
+ALL:
+  - Bool:Npc_Hylia_Soldier_003_GateOpen == true
+  - Int:0xCEFD131F != 1
+  - Int:PouchData.Armor_Child_Mask_Keaton.StockNum == 0
+
+0xACFA29F8 HappyMaskShop_HasMask_Skull
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step01_Exp
+  - Int:PouchData.Armor_Child_Mask_Skull.StockNum == 0
+  - Int:0xCEFD131F != 3
+
+0xF7435F6A HappyMaskShop_HasMask_Spooky
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step03_Exp
+  - Int:PouchData.Armor_Child_Mask_Spooky.StockNum == 0
+  - Int:0xCEFD131F != 0
+
+0xE00E5A0E HappyMaskShop_HasMask_Truth
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+  - Bool:IsPlayingFirstTruthMaskGetDemo == false
+  - Int:0xCEFD131F != 7
+  - Int:PouchData.Armor_Child_Mask_Truth.StockNum == 0
+
+0xE2118400 HappyMaskShop_HasMask_Zora
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsAfter_Step07_Exp
+  - Int:PouchData.Armor_Child_Mask_Zora.StockNum == 0
+  - Int:0xCEFD131F != 4
+
+0x7FC3AB0E HappyMaskShop_RentalAnyMask
+ALL:
+  - BoolExp:SubEvent_MaskSalesman_IsCompleted_Exp == false
+  - Int:PouchData.Armor_Child_Mask_Bunny.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Gerudo.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Goron.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Keaton.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Skull.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Spooky.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Truth.StockNum == 0
+  - Int:PouchData.Armor_Child_Mask_Zora.StockNum == 0
+
+0x0DF2BB2C HasAnyBottle_BigPoe
+ANY:
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleA.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleA.BottleItem == BigPoe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleB.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleB.BottleItem == BigPoe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleC.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleC.BottleItem == BigPoe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleD.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleD.BottleItem == BigPoe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleE.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleE.BottleItem == BigPoe
+
+0x74A2B943 HasAnyBottle_BlueFire
+ANY:
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleA.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleA.BottleItem == BlueFire
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleB.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleB.BottleItem == BlueFire
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleC.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleC.BottleItem == BlueFire
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleD.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleD.BottleItem == BlueFire
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleE.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleE.BottleItem == BlueFire
+
+0xEAB9A415 HasAnyBottle_Bug
+ANY:
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleA.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleA.BottleItem == Bug
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleB.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleB.BottleItem == Bug
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleC.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleC.BottleItem == Bug
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleD.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleD.BottleItem == Bug
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleE.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleE.BottleItem == Bug
+
+0x48E40C52 HasAnyBottle_Fish
+ANY:
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleA.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleA.BottleItem == Fish
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleB.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleB.BottleItem == Fish
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleC.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleC.BottleItem == Fish
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleD.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleD.BottleItem == Fish
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleE.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleE.BottleItem == Fish
+
+0xA18A5E4B HasAnyBottle_Poe
+ANY:
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleA.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleA.BottleItem == Poe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleB.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleB.BottleItem == Poe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleC.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleC.BottleItem == Poe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleD.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleD.BottleItem == Poe
+  - ALL:
+      - Bool:PlayerStatus.AssignableItem.BottleInfo.BottleE.IsValid == true
+      - Enum:PlayerStatus.AssignableItem.BottleInfo.BottleE.BottleItem == Poe
+
+0x5ECBC53C HasAnySellableBottle_Npc_Hylia_046
+ANY:
+  - BoolExp:HasAnyBottle_Bug
+  - BoolExp:HasAnyBottle_Fish
+  - BoolExp:HasAnyBottle_BlueFire
+
+0xB2D26DC7 HasAnySellableBottle_Npc_Hylia_048
+ANY:
+  - BoolExp:HasAnyBottle_Poe
+  - BoolExp:HasAnyBottle_BigPoe
+
+0xC0831B2E HaveDefeatedEnemy_Dm_Enemy_DungeonBoss_Volvagia
+Int:DefeatedEnemyNum.Dm_Enemy_DungeonBoss_Volvagia > 0
+
+0x5FACC389 HaveDefeatedEnemy_Enemy_Amos
+Int:DefeatedEnemyNum.Enemy_Amos > 0
+
+0x0C314C3E HaveDefeatedEnemy_Enemy_Amos_AlwaysRespawn
+Int:DefeatedEnemyNum.Enemy_Amos_AlwaysRespawn > 0
+
+0x44754C1A HaveDefeatedEnemy_Enemy_Anubis
+Int:DefeatedEnemyNum.Enemy_Anubis > 0
+
+0x6174580B HaveDefeatedEnemy_Enemy_BabyDodongo
+Int:DefeatedEnemyNum.Enemy_BabyDodongo > 0
+
+0xFA9D1B01 HaveDefeatedEnemy_Enemy_Bari
+Int:DefeatedEnemyNum.Enemy_Bari > 0
+
+0xD206EE97 HaveDefeatedEnemy_Enemy_Beamos
+Int:DefeatedEnemyNum.Enemy_Beamos > 0
+
+0xC7AD96E1 HaveDefeatedEnemy_Enemy_Beamos_For_High_Place
+Int:DefeatedEnemyNum.Enemy_Beamos_For_High_Place > 0
+
+0x3685CE4C HaveDefeatedEnemy_Enemy_Biri
+Int:DefeatedEnemyNum.Enemy_Biri > 0
+
+0x316A90D1 HaveDefeatedEnemy_Enemy_Bubble_Blue
+Int:DefeatedEnemyNum.Enemy_Bubble_Blue > 0
+
+0xAEFBEC17 HaveDefeatedEnemy_Enemy_Bubble_Green
+Int:DefeatedEnemyNum.Enemy_Bubble_Green > 0
+
+0xC3D2BD6F HaveDefeatedEnemy_Enemy_Bubble_Green_Big
+Int:DefeatedEnemyNum.Enemy_Bubble_Green_Big > 0
+
+0x13C29AFE HaveDefeatedEnemy_Enemy_Bubble_Red
+Int:DefeatedEnemyNum.Enemy_Bubble_Red > 0
+
+0x25CEC50F HaveDefeatedEnemy_Enemy_Bubble_White
+Int:DefeatedEnemyNum.Enemy_Bubble_White > 0
+
+0xB3B6883F HaveDefeatedEnemy_Enemy_CrazyFloorTile
+Int:DefeatedEnemyNum.Enemy_CrazyFloorTile > 0
+
+0x71CBFD0B HaveDefeatedEnemy_Enemy_DeadHand
+Int:DefeatedEnemyNum.Enemy_DeadHand > 0
+
+0x5EAAB29E HaveDefeatedEnemy_Enemy_Dekubaba
+Int:DefeatedEnemyNum.Enemy_Dekubaba > 0
+
+0x25F8EF09 HaveDefeatedEnemy_Enemy_Dekubaba_Withered
+Int:DefeatedEnemyNum.Enemy_Dekubaba_Withered > 0
+
+0x5BC003EE HaveDefeatedEnemy_Enemy_Dinolfos
+Int:DefeatedEnemyNum.Enemy_Dinolfos > 0
+
+0x09A1FDC3 HaveDefeatedEnemy_Enemy_Dodongo
+Int:DefeatedEnemyNum.Enemy_Dodongo > 0
+
+0x52C59EC3 HaveDefeatedEnemy_Enemy_DungeonBoss_Barinade
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Barinade > 0
+
+0xA386FB13 HaveDefeatedEnemy_Enemy_DungeonBoss_BongoBongo
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_BongoBongo > 0
+
+0xE4E3FDB8 HaveDefeatedEnemy_Enemy_DungeonBoss_Dodongo
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Dodongo > 0
+
+0x3971E55B HaveDefeatedEnemy_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo > 0
+
+0xE84B960E HaveDefeatedEnemy_Enemy_DungeonBoss_Ganon
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Ganon > 0
+
+0x0C3743B0 HaveDefeatedEnemy_Enemy_DungeonBoss_Ganondorf
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Ganondorf > 0
+
+0xD13F0F0B HaveDefeatedEnemy_Enemy_DungeonBoss_Ganon_SecondHalfBattle
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Ganon_SecondHalfBattle > 0
+
+0xC866BDAA HaveDefeatedEnemy_Enemy_DungeonBoss_Gohma
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Gohma > 0
+
+0x75577FF7 HaveDefeatedEnemy_Enemy_DungeonBoss_Gohma_Egg
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Gohma_Egg > 0
+
+0x19AED98F HaveDefeatedEnemy_Enemy_DungeonBoss_Kotake
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Kotake > 0
+
+0x1B3E6608 HaveDefeatedEnemy_Enemy_DungeonBoss_Koume
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Koume > 0
+
+0x4C96EB50 HaveDefeatedEnemy_Enemy_DungeonBoss_Morpha
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Morpha > 0
+
+0x92CB86BB HaveDefeatedEnemy_Enemy_DungeonBoss_PhantomGanon
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_PhantomGanon > 0
+
+0x4FE914E3 HaveDefeatedEnemy_Enemy_DungeonBoss_Twinrova
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Twinrova > 0
+
+0xE46A9E97 HaveDefeatedEnemy_Enemy_DungeonBoss_Volvagia
+Int:DefeatedEnemyNum.Enemy_DungeonBoss_Volvagia > 0
+
+0x34D77F1C HaveDefeatedEnemy_Enemy_Floormaster
+Int:DefeatedEnemyNum.Enemy_Floormaster > 0
+
+0xC86BE940 HaveDefeatedEnemy_Enemy_Floormaster_Truth
+Int:DefeatedEnemyNum.Enemy_Floormaster_Truth > 0
+
+0x230FDB90 HaveDefeatedEnemy_Enemy_FlyingPot
+Int:DefeatedEnemyNum.Enemy_FlyingPot > 0
+
+0x21B23BAF HaveDefeatedEnemy_Enemy_FlyingPot_IceCavern
+Int:DefeatedEnemyNum.Enemy_FlyingPot_IceCavern > 0
+
+0x8B93727C HaveDefeatedEnemy_Enemy_FlyingPot_ShadowTemple
+Int:DefeatedEnemyNum.Enemy_FlyingPot_ShadowTemple > 0
+
+0xABD22B9F HaveDefeatedEnemy_Enemy_FlyingPot_SpiritTemple
+Int:DefeatedEnemyNum.Enemy_FlyingPot_SpiritTemple > 0
+
+0xE3200857 HaveDefeatedEnemy_Enemy_Freezard
+Int:DefeatedEnemyNum.Enemy_Freezard > 0
+
+0x39630F1F HaveDefeatedEnemy_Enemy_Freezard_Fixed
+Int:DefeatedEnemyNum.Enemy_Freezard_Fixed > 0
+
+0x511B6AEF HaveDefeatedEnemy_Enemy_Gibdo
+Int:DefeatedEnemyNum.Enemy_Gibdo > 0
+
+0x22FCC7B7 HaveDefeatedEnemy_Enemy_Gohma_Egg
+Int:DefeatedEnemyNum.Enemy_Gohma_Egg > 0
+
+0x56BE1D36 HaveDefeatedEnemy_Enemy_Gohma_Larva
+Int:DefeatedEnemyNum.Enemy_Gohma_Larva > 0
+
+0x05F1324E HaveDefeatedEnemy_Enemy_Guay
+Int:DefeatedEnemyNum.Enemy_Guay > 0
+
+0xC399C23A HaveDefeatedEnemy_Enemy_Guay_Boss
+Int:DefeatedEnemyNum.Enemy_Guay_Boss > 0
+
+0x3D0F2A01 HaveDefeatedEnemy_Enemy_Guay_Fixed
+Int:DefeatedEnemyNum.Enemy_Guay_Fixed > 0
+
+0xC59CA075 HaveDefeatedEnemy_Enemy_Guay_Flock
+Int:DefeatedEnemyNum.Enemy_Guay_Flock > 0
+
+0x9ED47BAF HaveDefeatedEnemy_Enemy_IronKnuckle_Black
+Int:DefeatedEnemyNum.Enemy_IronKnuckle_Black > 0
+
+0x72CF956C HaveDefeatedEnemy_Enemy_IronKnuckle_Silver
+Int:DefeatedEnemyNum.Enemy_IronKnuckle_Silver > 0
+
+0xDA2224B6 HaveDefeatedEnemy_Enemy_IronKnuckle_White
+Int:DefeatedEnemyNum.Enemy_IronKnuckle_White > 0
+
+0x992693FA HaveDefeatedEnemy_Enemy_Keese
+Int:DefeatedEnemyNum.Enemy_Keese > 0
+
+0x1EF939F7 HaveDefeatedEnemy_Enemy_Keese_Fire
+Int:DefeatedEnemyNum.Enemy_Keese_Fire > 0
+
+0xB5158104 HaveDefeatedEnemy_Enemy_Keese_Ice
+Int:DefeatedEnemyNum.Enemy_Keese_Ice > 0
+
+0x01CDC420 HaveDefeatedEnemy_Enemy_Keese_Truth
+Int:DefeatedEnemyNum.Enemy_Keese_Truth > 0
+
+0x843761EB HaveDefeatedEnemy_Enemy_Leever
+Int:DefeatedEnemyNum.Enemy_Leever > 0
+
+0x93A0BCA1 HaveDefeatedEnemy_Enemy_Leever_Big
+Int:DefeatedEnemyNum.Enemy_Leever_Big > 0
+
+0xB84233F1 HaveDefeatedEnemy_Enemy_Leever_Fixed
+Int:DefeatedEnemyNum.Enemy_Leever_Fixed > 0
+
+0x4F4A29EF HaveDefeatedEnemy_Enemy_LikeLike
+Int:DefeatedEnemyNum.Enemy_LikeLike > 0
+
+0x726596D6 HaveDefeatedEnemy_Enemy_Lizalfos
+Int:DefeatedEnemyNum.Enemy_Lizalfos > 0
+
+0x94899D9B HaveDefeatedEnemy_Enemy_MiddleBoss_BigOcto
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_BigOcto > 0
+
+0x27B6BDE8 HaveDefeatedEnemy_Enemy_MiddleBoss_DarkLink
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_DarkLink > 0
+
+0x27A76E5B HaveDefeatedEnemy_Enemy_MiddleBoss_FlareDancer
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_FlareDancer > 0
+
+0x1210F314 HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief > 0
+
+0x79AA13EC HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_02
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief_02 > 0
+
+0x9BD9F2D3 HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_03
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief_03 > 0
+
+0x37EBB1ED HaveDefeatedEnemy_Enemy_MiddleBoss_GerudoThief_04
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief_04 > 0
+
+0x7229636C HaveDefeatedEnemy_Enemy_MiddleBoss_IronKnuckle_Nabooru
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_IronKnuckle_Nabooru > 0
+
+0xDF74F495 HaveDefeatedEnemy_Enemy_MiddleBoss_Lizalfos
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_Lizalfos > 0
+
+0x59682CC8 HaveDefeatedEnemy_Enemy_MiddleBoss_Poe_Meg
+Int:DefeatedEnemyNum.Enemy_MiddleBoss_Poe_Meg > 0
+
+0x7114825C HaveDefeatedEnemy_Enemy_Moblin
+Int:DefeatedEnemyNum.Enemy_Moblin > 0
+
+0x11E14F6A HaveDefeatedEnemy_Enemy_Moblin_Club
+Int:DefeatedEnemyNum.Enemy_Moblin_Club > 0
+
+0x93DBDF0D HaveDefeatedEnemy_Enemy_Octorok
+Int:DefeatedEnemyNum.Enemy_Octorok > 0
+
+0x3B717DD9 HaveDefeatedEnemy_Enemy_Peahat
+Int:DefeatedEnemyNum.Enemy_Peahat > 0
+
+0x25745FE2 HaveDefeatedEnemy_Enemy_Peahat_AircraftCarrier
+Int:DefeatedEnemyNum.Enemy_Peahat_AircraftCarrier > 0
+
+0xE5BF1DB8 HaveDefeatedEnemy_Enemy_Peahat_Larva
+Int:DefeatedEnemyNum.Enemy_Peahat_Larva > 0
+
+0x47B62DF2 HaveDefeatedEnemy_Enemy_Peahat_Larva_Independent
+Int:DefeatedEnemyNum.Enemy_Peahat_Larva_Independent > 0
+
+0x33B8BCA6 HaveDefeatedEnemy_Enemy_Poe
+Int:DefeatedEnemyNum.Enemy_Poe > 0
+
+0x79A2D79B HaveDefeatedEnemy_Enemy_Poe_Amy
+Int:DefeatedEnemyNum.Enemy_Poe_Amy > 0
+
+0xC6E56BD4 HaveDefeatedEnemy_Enemy_Poe_Base
+Int:DefeatedEnemyNum.Enemy_Poe_Base > 0
+
+0x8A497B74 HaveDefeatedEnemy_Enemy_Poe_Beth
+Int:DefeatedEnemyNum.Enemy_Poe_Beth > 0
+
+0x27DCA337 HaveDefeatedEnemy_Enemy_Poe_Big
+Int:DefeatedEnemyNum.Enemy_Poe_Big > 0
+
+0x134E2087 HaveDefeatedEnemy_Enemy_Poe_Flat
+Int:DefeatedEnemyNum.Enemy_Poe_Flat > 0
+
+0x803B6FFA HaveDefeatedEnemy_Enemy_Poe_Hyrule
+Int:DefeatedEnemyNum.Enemy_Poe_Hyrule > 0
+
+0xECBB3629 HaveDefeatedEnemy_Enemy_Poe_Joelle
+Int:DefeatedEnemyNum.Enemy_Poe_Joelle > 0
+
+0xDA5ACD13 HaveDefeatedEnemy_Enemy_Poe_Sharp
+Int:DefeatedEnemyNum.Enemy_Poe_Sharp > 0
+
+0xF7840D71 HaveDefeatedEnemy_Enemy_Poe_SistersBase
+Int:DefeatedEnemyNum.Enemy_Poe_SistersBase > 0
+
+0xD725FF98 HaveDefeatedEnemy_Enemy_ReDead
+Int:DefeatedEnemyNum.Enemy_ReDead > 0
+
+0x8615F010 HaveDefeatedEnemy_Enemy_ReDead_AlwaysRespawn
+Int:DefeatedEnemyNum.Enemy_ReDead_AlwaysRespawn > 0
+
+0x8103B89C HaveDefeatedEnemy_Enemy_ReDead_ClimaxOnly
+Int:DefeatedEnemyNum.Enemy_ReDead_ClimaxOnly > 0
+
+0x4A657A1F HaveDefeatedEnemy_Enemy_Scrub_Business
+Int:DefeatedEnemyNum.Enemy_Scrub_Business > 0
+
+0xF83FDB09 HaveDefeatedEnemy_Enemy_Scrub_Business_Seed
+Int:DefeatedEnemyNum.Enemy_Scrub_Business_Seed > 0
+
+0x5CDDA12D HaveDefeatedEnemy_Enemy_Scrub_Deku
+Int:DefeatedEnemyNum.Enemy_Scrub_Deku > 0
+
+0xEA32F95C HaveDefeatedEnemy_Enemy_Scrub_Deku_Brothers
+Int:DefeatedEnemyNum.Enemy_Scrub_Deku_Brothers > 0
+
+0xC08D1FA1 HaveDefeatedEnemy_Enemy_Scrub_Mad
+Int:DefeatedEnemyNum.Enemy_Scrub_Mad > 0
+
+0xCC7FFD74 HaveDefeatedEnemy_Enemy_Shabom
+Int:DefeatedEnemyNum.Enemy_Shabom > 0
+
+0x6BE8ED6E HaveDefeatedEnemy_Enemy_Shabom_AlwaysRespawn
+Int:DefeatedEnemyNum.Enemy_Shabom_AlwaysRespawn > 0
+
+0x7FBA5547 HaveDefeatedEnemy_Enemy_Shabom_BigOctoChild
+Int:DefeatedEnemyNum.Enemy_Shabom_BigOctoChild > 0
+
+0xDA0CF786 HaveDefeatedEnemy_Enemy_ShellBlade
+Int:DefeatedEnemyNum.Enemy_ShellBlade > 0
+
+0x7EF1865D HaveDefeatedEnemy_Enemy_SkullKid
+Int:DefeatedEnemyNum.Enemy_SkullKid > 0
+
+0xDD4CA863 HaveDefeatedEnemy_Enemy_Skulltula
+Int:DefeatedEnemyNum.Enemy_Skulltula > 0
+
+0x0CBF652C HaveDefeatedEnemy_Enemy_Skulltula_Gold
+Int:DefeatedEnemyNum.Enemy_Skulltula_Gold > 0
+
+0xD368DD91 HaveDefeatedEnemy_Enemy_Skulltula_Truth
+Int:DefeatedEnemyNum.Enemy_Skulltula_Truth > 0
+
+0x9C1E2BA1 HaveDefeatedEnemy_Enemy_Skullwalltula
+Int:DefeatedEnemyNum.Enemy_Skullwalltula > 0
+
+0x03DCD617 HaveDefeatedEnemy_Enemy_Spike
+Int:DefeatedEnemyNum.Enemy_Spike > 0
+
+0xE5B2E9B0 HaveDefeatedEnemy_Enemy_Stalchild
+Int:DefeatedEnemyNum.Enemy_Stalchild > 0
+
+0x060C5AC4 HaveDefeatedEnemy_Enemy_Stalchild_Big
+Int:DefeatedEnemyNum.Enemy_Stalchild_Big > 0
+
+0x82B582BB HaveDefeatedEnemy_Enemy_Stalfos
+Int:DefeatedEnemyNum.Enemy_Stalfos > 0
+
+0x479ECDEA HaveDefeatedEnemy_Enemy_Stalfos_AlwaysRespawn
+Int:DefeatedEnemyNum.Enemy_Stalfos_AlwaysRespawn > 0
+
+0x287303B2 HaveDefeatedEnemy_Enemy_Stalfos_ForChild
+Int:DefeatedEnemyNum.Enemy_Stalfos_ForChild > 0
+
+0x6AF21F67 HaveDefeatedEnemy_Enemy_Stalfos_ShadowTemple
+ALL:
+  - Bool:DreamWorld_DefeatStalfos == true
+  - BoolExp:HaveDefeatedEnemy_Enemy_Stalfos
+
+0x63681E67 HaveDefeatedEnemy_Enemy_Stalfos_Weak
+Int:DefeatedEnemyNum.Enemy_Stalfos_Weak > 0
+
+0x0ABBFBC4 HaveDefeatedEnemy_Enemy_Stinger
+Int:DefeatedEnemyNum.Enemy_Stinger > 0
+
+0x6A9853D2 HaveDefeatedEnemy_Enemy_Stinger_UnderWater
+Int:DefeatedEnemyNum.Enemy_Stinger_UnderWater > 0
+
+0xFAA78278 HaveDefeatedEnemy_Enemy_Tailpasaran
+Int:DefeatedEnemyNum.Enemy_Tailpasaran > 0
+
+0x7D018980 HaveDefeatedEnemy_Enemy_Tektite_Blue
+Int:DefeatedEnemyNum.Enemy_Tektite_Blue > 0
+
+0x1DCB18B3 HaveDefeatedEnemy_Enemy_Tektite_Red
+Int:DefeatedEnemyNum.Enemy_Tektite_Red > 0
+
+0xD77E159B HaveDefeatedEnemy_Enemy_Tentacle_Blue
+Int:DefeatedEnemyNum.Enemy_Tentacle_Blue > 0
+
+0xE2E2A658 HaveDefeatedEnemy_Enemy_Tentacle_Green
+Int:DefeatedEnemyNum.Enemy_Tentacle_Green > 0
+
+0xCB5F65F4 HaveDefeatedEnemy_Enemy_Tentacle_Red
+Int:DefeatedEnemyNum.Enemy_Tentacle_Red > 0
+
+0x7ACC360A HaveDefeatedEnemy_Enemy_TorchSlug
+Int:DefeatedEnemyNum.Enemy_TorchSlug > 0
+
+0x641D38DA HaveDefeatedEnemy_Enemy_TrickyDoor
+Int:DefeatedEnemyNum.Enemy_TrickyDoor > 0
+
+0x8705E757 HaveDefeatedEnemy_Enemy_TrickyDoor_SpiritTemple
+Int:DefeatedEnemyNum.Enemy_TrickyDoor_SpiritTemple > 0
+
+0x36E4A1CC HaveDefeatedEnemy_Enemy_Wallmaster
+Int:DefeatedEnemyNum.Enemy_Wallmaster > 0
+
+0xBCBB901D HaveDefeatedEnemy_Enemy_Wolfos
+Int:DefeatedEnemyNum.Enemy_Wolfos > 0
+
+0xD230FC03 HaveDefeatedEnemy_Enemy_Wolfos_White
+Int:DefeatedEnemyNum.Enemy_Wolfos_White > 0
+
+0x5B16BF75 HaveDefeatedEnemy_Npc_Hylia_MSP_Default
+Int:DefeatedEnemyNum.Npc_Hylia_MSP_Default > 0
+
+0x9670EC27 HaveDefeatedEnemy_Npc_SkullChild_001
+Int:DefeatedEnemyNum.Npc_SkullChild_001 > 0
+
+0x9A1B25BA HaveDefeatedEnemy_Npc_SkullChild_002
+Int:DefeatedEnemyNum.Npc_SkullChild_002 > 0
+
+0x488205DA HaveDefeatedEnemy_Npc_SkullChild_003
+Int:DefeatedEnemyNum.Npc_SkullChild_003 > 0
+
+0x89B56B66 HaveDefeatedEnemy_Npc_SkullChild_004
+Int:DefeatedEnemyNum.Npc_SkullChild_004 > 0
+
+0x727AF32F HaveDefeatedEnemy_Npc_SkullChild_005
+Int:DefeatedEnemyNum.Npc_SkullChild_005 > 0
+
+0x749A3FC7 HaveDefeatedEnemy_Npc_SkullDad
+Int:DefeatedEnemyNum.Npc_SkullDad > 0
+
+0xF9BEAAA9 Ignore_ZeldaLookIK
+ANY:
+  - Bool:EscapeFromCrumblingGanonCastle_IgnoreZeldaLookIKToPlayer == true
+  - Bool:FinalBattleField_BeforeGanonAppear_IsZeldaInStartPos == true
+
+0x48377421 InitDemo_DeathMtCrater
+ANY:
+  - Bool:HavePlayedEvent.Dm_DeathMtCrater_0000 == true
+  - Bool:HavePlayedEvent.Dm_DeathMtCrater_0000_FromTop == true
+
+0xB95D533B InitDemo_KakarikoVillage
+ANY:
+  - Bool:HavePlayedEvent.Dm_Kakariko_0000 == true
+  - Bool:Sequence_IsChildhood == false
+
+0xDAE7B2C7 InitDemo_LakeHylia
+ANY:
+  - Bool:HavePlayedEvent.Dm_LakeHrl_0000 == true
+  - Bool:HavePlayedEvent.Dm_LakeHrl_0003 == true
+  - Bool:HavePlayedEvent.Dm_LakeHrl_0005 == true
+  - Bool:Sequence_IsChildhood == false
+
+0x9D5B8333 IsAppear_GossipStone_ZoraDomain_Adult
+ALL:
+  - BoolExp:SageOfWater_IsAfter_Step08_Exp
+  - Bool:GossipStoneDisappear.GOSSIP_KOKIRI_FOREST_01 == false
+
+0xAC882233 Unknown
+ANY:
+  - Bool:IsVisitLocation.WaterTemple == true
+  - BoolExp:SageOfWater_IsAfter_Step06_Exp
+
+0x424EB690 Unknown
+ANY:
+  - Bool:WaterTemple_Room22_Cleared_Provisional == true
+  - Bool:WaterTemple_Room22_Cleared == true
+
+0x510B949F IsEnabled_BGM_Shop_ZoraDomain_Adult
+Bool:Npc_Zora_011_IsRedIce == true
+
+0x2E76257E IsEnableUseAmiibo
+ALL:
+  - Bool:OptionData.IsUseAmiibo == true
+  - Bool:IsGet.Pouch_Amiibo == true
+
+0xA3688F07 Unknown
+ANY:
+  - BoolExp:Get_Epona_IsCompleted_Exp
+  - Bool:HavePlayedEvent.Dm_HrlField_0070 == true
+  - Bool:HavePlayedEvent.Dm_HrlField_0071 == true
+  - Bool:HavePlayedEvent.Dm_HrlField_0072 == true
+  - Bool:HavePlayedEvent.Dm_HrlField_0073 == true
+
+0xC2E8486B KakarikoVillage_GatheringTokenGold_Collect100Tokens
+Int:PouchData.Item_Token_Gold.StockNum == 100
+
+0x82F1E564 Unknown
+ALL:
+  - ANY:
+      - ALL:
+          - Bool:KakarikoVillage_Burning_Start == true
+          - Bool:HavePlayedEvent.Dm_Kakariko_0030 == false
+      - Bool:HavePlayedEvent.Dm_Kakariko_0040 == true
+  - BoolExp:SageOfShadow_IsCompleted_Exp == false
+
+0x709A17C7 KakarikoVillage_Npc_Hylia_007_Adult_GroupTalk
+ALL:
+  - Bool:KakarikoVillage_Npc_Hylia_007_Adult_ArrivedAction05 == true
+  - Bool:KakarikoVillage_Npc_Hylia_005_Adult_IsInHouse_2F == true
+
+0x7C8A415D KakarikoVillage_Npc_Hylia_051_Child_StayHouse
+ALL:
+  - Bool:KakarikoVillage_Npc_Hylia_051_GotoWell == false
+  - Bool:KakarikoVillage_Npc_Hylia_010_GotoWell == true
+
+0xAA5DCDFD KokiriForest_DeleteDekubaba
+ALL:
+  - BoolExp:Get_StoneOfForest_IsAfter_DefeatBoss_Exp
+  - Bool:HavePlayedEvent.Dm_Kokiri_0150 == false
+
+0x78D61A47 KokiriForest_Npc_Kokiri_006_Child_Action_Ready
+ANY:
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_ActionTypeA_Ready == true
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_ActionTypeB_Ready == true
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_ActionTypeC_Ready == true
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_ActionTypeD_Ready == true
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_ActionTypeZero_Ready == true
+
+0x667E859C KokiriForest_Npc_Kokiri_006_Child_Reaction_Sword
+ALL:
+  - Bool:HaveTalked_Special.Npc_Kokiri_006_Child_Talk_Event68 == false
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_Talk_04 == true
+  - Bool:IsGet.Weapon_Sword_Kokiri == true
+  - Bool:KokiriForest_Npc_Kokiri_006_Child_TurnToPlayerGotSword == true
+
+0x35B548E3 KokiriForest_Npc_Kokiri_011_Child_AttentionFlag
+ALL:
+  - Bool:KokiriForest_Npc_Kokiri_011_Child_LockOnAttentionFlag == true
+  - ANY:
+      - Bool:KokiriForest_Kokiri_011_StopInFrontOfShop_00 == true
+      - BoolExp:Get_StoneOfForest_IsCompleted_Exp
+
+0x0A47FBDF KokiriForest_Npc_Kokiri_Blocker_Surprised_BoolExp
+ALL:
+  - Bool:KokiriForest_Npc_Kokiri_Blocker == true
+  - ANY:
+      - ALL:
+          - Bool:IsGet.Weapon_Sword_Kokiri == true
+          - Bool:KokiriForest_Npc_Kokiri_Mido_Child_Talk_01 == false
+      - ALL:
+          - Bool:IsGet.Weapon_Shield_Deku == true
+          - Bool:KokiriForest_Npc_Kokiri_Mido_Child_Talk_02 == false
+
+0x0651D5FD KokiriForest_Npc_Kokiri_NoGrass_ReceivedReward
+ALL:
+  - Bool:HaveTalked_Special.Npc_Kokiri_005_Child_Talk_Event35 == true
+  - Bool:KokiriForest_Npc_Kokiri_005_Child_Talk_01 == true
+
+0xF2366549 LakeHylia_HavePlayedFirstVisitEvent
+ANY:
+  - Bool:HavePlayedEvent.Dm_LakeHrl_0000 == true
+  - Bool:HavePlayedEvent.Dm_LakeHrl_0003 == true
+  - Bool:HavePlayedEvent.Dm_LakeHrl_0005 == true
+
+0x465328CB LonLonRanch_AfterWonGambleRace
+Enum:Step_Get_Epona == AfterWonGambleRace
+
+0x96334BC2 LonLonRanch_PlayingHorseRiding
+Enum:Step_MiniGame_GambleRace == HorseRidingPlaying
+
+0x42A9FCA7 LonLonRanch_WonFirstRoundGambleRace
+Int:LonLonRanch_GambleRaceWinCount >= 1
+
+0xAC4290FD Market_AfterTutorialEventCompleted_AND_EnteringStore
+ALL:
+  - Bool:Market_Item_Bottle_TutorialEvent_Cleared == true
+  - Bool:EnteringStore_Hello_Standby == true
+
+0x178C3178 Market_Child_BombchuShop_BuyBombchu
+ANY:
+  - Bool:IsGet.Shop_BombchuBundle_01 == true
+  - Bool:IsGet.Shop_BombchuBundle_02 == true
+  - Bool:IsGet.Shop_BombchuBundle_03 == true
+  - Bool:IsGet.Shop_BombchuBundle_04 == true
+  - Bool:IsGet.Shop_BombchuBundle_05 == true
+  - Bool:IsGet.Shop_BombchuBundle_06 == true
+  - Bool:IsGet.Shop_BombchuBundle_07 == true
+  - Bool:IsGet.Shop_BombchuBundle_08 == true
+
+0xCFAD17C0 Market_Child_TimeTempleDoor_OcarinaReacts
+ANY:
+  - Enum:Step_DoorOfTime != Step05
+  - Bool:Market_Child_TimeTempleDoor_Opened == true
+
+0xF40DD1F2 Market_Item_Bottle_TutorialEvent_Before_Clear
+ALL:
+  - Bool:Market_Item_Bottle_TutorialEvent_Cleared == false
+  - BoolExp:Market_Item_Bottle_TutorialEvent_IsAfter_NotReady_Exp
+
+0x030444F8 Market_Item_Bottle_TutorialEvent_IsAfter_NotReady_Exp
+Enum:Step_Market_Item_Bottle_TutorialEvent > NotReady
+
+0x986FCB67 Market_Item_Bottle_TutorialEvent_IsAfter_Playing_Exp
+Enum:Step_Market_Item_Bottle_TutorialEvent > Playing
+
+0x201F44B2 Market_Item_Bottle_TutorialEvent_IsAfter_Ready_Exp
+Enum:Step_Market_Item_Bottle_TutorialEvent > Ready
+
+0xAE27E67A Market_Item_Bottle_TutorialEvent_IsCompleted_Exp
+Enum:Step_Market_Item_Bottle_TutorialEvent == Complete
+
+0xF41EACBF Market_SubEvent_FindRichard_Retry
+ALL:
+  - Bool:Market_Npc_Hylia_052_Child_RichardGoHome == false
+  - BoolExp:SubEvent_FindRichard_IsCompleted_Exp
+
+0xF104E9E1 MasterSwordShine
+ANY:
+  - BoolExp:Defeat_Ganon_IsAfter_Step08_Exp
+  - Bool:DreamWorld_CreateWarp == true
+
+0x5CDCEEF6 Meet_DekuTree_IsAfter_Ready_Exp
+Enum:Step_Meet_DekuTree > Ready
+
+0xDEC110CE Meet_DekuTree_IsAfter_Step01_Exp
+Enum:Step_Meet_DekuTree > Step01
+
+0xF7B3C902 Meet_DekuTree_IsAfter_Step02_Exp
+Enum:Step_Meet_DekuTree > Step02
+
+0x6E2F5892 Meet_DekuTree_IsAfter_Step03_Exp
+Enum:Step_Meet_DekuTree > Step03
+
+0x1204C6CC Meet_DekuTree_IsCompleted_Exp
+Enum:Step_Meet_DekuTree == Complete
+
+0x2606AE2C Meet_GreatFairy_IsAfter_GetFairyBreath_Exp
+Enum:Step_Meet_GreatFairy > GetFairyBreath
+
+0x8458B51F Meet_GreatFairy_IsAfter_GoToFountain_Exp
+Enum:Step_Meet_GreatFairy > GoToFountain
+
+0x010DC2C3 Meet_GreatFairy_IsAfter_GoToHyruleCastle_Exp
+Enum:Step_Meet_GreatFairy > GoToHyruleCastle
+
+0x856B0371 Meet_GreatFairy_IsAfter_GoToTopOfMountain_Exp
+Enum:Step_Meet_GreatFairy > GoToTopOfMountain
+
+0x47FD7DB5 Meet_GreatFairy_IsAfter_Ready_Exp
+Enum:Step_Meet_GreatFairy > Ready
+
+0x1B7714A8 Meet_GreatFairy_IsCompleted_Exp
+Enum:Step_Meet_GreatFairy == Complete
+
+0x256B9C96 MiniGame_BombchuBowling_IsPlaying
+Enum:Step_MiniGame_BombchuBowling == Playing
+
+0x59D071A0 Minigame_CatchCucco_IsAfter_Captured_Exp
+Enum:Step_Minigame_CatchCucco > Captured
+
+0x706A211F Minigame_CatchCucco_IsAfter_Ready_Exp
+Enum:Step_Minigame_CatchCucco > Ready
+
+0x9C96E39D Minigame_CatchCucco_IsAfter_WaitingReset_Exp
+Enum:Step_Minigame_CatchCucco > WaitingReset
+
+0x70F5F6E5 Minigame_CatchCucco_IsCompleted_Exp
+Enum:Step_Minigame_CatchCucco == Complete
+
+0x40038083 MiniGame_CatchCucco_IsEnablePleasureNPC
+Bool:Npc_Hylia_049_Child_IsCompleted == false
+
+0x0D6705FF MiniGame_CatchCucco_PutsInFence_0
+BoolArray:MiniGame_CatchCucco_PutsInFence[0] == true
+
+0xE1BD5073 MiniGame_CatchCucco_PutsInFence_1
+BoolArray:MiniGame_CatchCucco_PutsInFence[1] == true
+
+0xB01AD913 MiniGame_CatchCucco_PutsInFence_2
+BoolArray:MiniGame_CatchCucco_PutsInFence[2] == true
+
+0x83F60236 MiniGame_CatchCucco_PutsInFence_3
+BoolArray:MiniGame_CatchCucco_PutsInFence[3] == true
+
+0x3DC95BFB MiniGame_CatchCucco_PutsInFence_4
+BoolArray:MiniGame_CatchCucco_PutsInFence[4] == true
+
+0x03EE749D MiniGame_CatchCucco_PutsInFence_5
+BoolArray:MiniGame_CatchCucco_PutsInFence[5] == true
+
+0x2E765C35 MiniGame_CatchCucco_PutsInFence_6
+BoolArray:MiniGame_CatchCucco_PutsInFence[6] == true
+
+0xE77F03CD MiniGame_ChoiceTreasure_IsPlaying
+Enum:Step_MiniGame_SequentialChoiceTreasure == Playing
+
+0x0BC210E2 MiniGame_DampeRace_IsAfter_Courseout_Exp
+Enum:Step_MiniGame_DampeRace > Courseout
+
+0x123D84A3 MiniGame_DampeRace_IsAfter_Dropout_Exp
+Enum:Step_MiniGame_DampeRace > Dropout
+
+0x89C50B61 MiniGame_DampeRace_IsAfter_Finish_Exp
+Enum:Step_MiniGame_DampeRace > Finish
+
+0xA44BE0B2 MiniGame_DampeRace_IsAfter_Ready_Exp
+Enum:Step_MiniGame_DampeRace > Ready
+
+0xDEE49F3E MiniGame_DampeRace_IsClearLeastOnce
+Int:MiniGame_DampeRace_ClearCount >= 1
+
+0x80535CA3 MiniGame_DampeRace_IsPlaying
+ANY:
+  - Enum:Step_MiniGame_DampeRace == Playing
+  - Enum:Step_MiniGame_DampeRace == PlayingSecond
+
+0xC3598EC0 MiniGame_Diving_IsAfter_Ready_Exp
+Enum:Step_MiniGame_Diving > Ready
+
+0xF91FF395 MiniGame_Diving_IsAfter_Step01_Exp
+Enum:Step_MiniGame_Diving > Step01
+
+0xF8D877EA MiniGame_Diving_IsAfter_Step02_Exp
+Enum:Step_MiniGame_Diving > Step02
+
+0x62D6FDA3 MiniGame_Diving_IsAfter_Step03_Exp
+Enum:Step_MiniGame_Diving > Step03
+
+0x8169DD91 MiniGame_Diving_IsCompleted_Exp
+Enum:Step_MiniGame_Diving == Complete
+
+0xC714F3A0 MiniGame_Diving_IsPlaying
+Enum:Step_MiniGame_Diving == Step01
+
+0xB5F0016B Minigame_FindOutCucco_IsAfter_Finish_Exp
+Enum:Step_Minigame_FindOutCucco > Finish
+
+0x64AD5F77 Minigame_FindOutCucco_IsAfter_Playing_Exp
+Enum:Step_Minigame_FindOutCucco > Playing
+
+0x563D137D Minigame_FindOutCucco_IsAfter_Ready_Exp
+Enum:Step_Minigame_FindOutCucco > Ready
+
+0xC3090966 Minigame_FindOutCucco_IsAfter_Retry_Exp
+Enum:Step_Minigame_FindOutCucco > Retry
+
+0x0A3B5BAC Minigame_FindOutCucco_IsCompleted_Exp
+Enum:Step_Minigame_FindOutCucco == Complete
+
+0x38F33E5C Minigame_FindOutCucco_IsPlaying
+Enum:Step_Minigame_FindOutCucco == Playing
+
+0x0CC8AC4F MiniGame_Fishing_Adult_IsFirstTalkedAndClearWaterTemple
+ANY:
+  - Bool:MiniGame_Fishing_Adult_IsFirstTalked == true
+  - BoolExp:SageOfWater_IsCompleted_Exp
+
+0xB78D706C MiniGame_Fishing_Adult_TerrorBallonOnly_BoolExp
+ALL:
+  - Bool:MiniGame_Fishing_Adult_IsFirstTalked == false
+  - BoolExp:SageOfWater_IsCompleted_Exp == false
+
+0x264A709B MiniGame_Fishing_FishmanMelancholy
+ALL:
+  - Bool:MiniGame_Fishing_NotYetHearSinkLureHintAtStart == true
+  - Bool:MiniGame_Fishing_GoOutPondAndIn == true
+  - ANY:
+      - Bool:MiniGame_Fishing_GetHeartPiece == true
+      - Bool:MiniGame_Fishing_GetGoldScale == true
+
+0x23B8591D MiniGame_Fishing_FishmanMelancholy_IsFirstTalked
+ALL:
+  - BoolExp:MiniGame_Fishing_FishmanMelancholy
+  - Bool:MiniGame_Fishing_Temporarily_AIScheduleReset == false
+
+0x25CD8B61 MiniGame_Fishing_IsAfter_Ready_Exp
+Enum:Step_MiniGame_Fishing > Ready
+
+0xC96575CC MiniGame_Fishing_IsAfter_Step01_Exp
+Enum:Step_MiniGame_Fishing > Step01
+
+0xE71FBC00 MiniGame_Fishing_IsPlaying
+Enum:Step_MiniGame_Fishing == Step01
+
+0x964D8116 MiniGame_Fishing_TalkAboutHat
+ALL:
+  - Bool:Npc_Hylia_Fishman_TakeOffHat == true
+  - Bool:MiniGame_Fishing_IsRevenged == false
+
+0xAB7CE091 MiniGame_FrogTenors_FrogGray
+ANY:
+  - Bool:MiniGame_FrogTenors_EponaSong == true
+  - Bool:MiniGame_FrogTenors_Playing == true
+
+0x6FB1EA9F MiniGame_FrogTenors_FrogLightBlue
+ANY:
+  - Bool:MiniGame_FrogTenors_Playing == true
+  - Bool:MiniGame_FrogTenors_TimeSong == true
+
+0x6C009086 MiniGame_FrogTenors_FrogRed
+ANY:
+  - Bool:MiniGame_FrogTenors_Playing == true
+  - Bool:MiniGame_FrogTenors_SunSong == true
+
+0x2A10E827 MiniGame_FrogTenors_FrogYellow
+ANY:
+  - Bool:MiniGame_FrogTenors_Playing == true
+  - Bool:MiniGame_FrogTenors_SariaSong == true
+
+0x635FA146 MiniGame_FrogTenor_AirWall_01
+ALL:
+  - Bool:MiniGame_FrogTenors_SariaSong == true
+  - Bool:MiniGame_FrogTenors_TimeSong == true
+
+0xBBD67A5A MiniGame_FrogTenor_AirWall_02
+ALL:
+  - Bool:MiniGame_FrogTenors_SariaSong == true
+  - Bool:MiniGame_FrogTenors_SunSong == true
+
+0x46F3EFD9 MiniGame_FrogTenor_AirWall_03
+ALL:
+  - Bool:MiniGame_FrogTenors_SunSong == true
+  - Bool:MiniGame_FrogTenors_EponaSong == true
+
+0xC7A2DDBA MiniGame_HitTarget_IsAfter_Finish_Exp
+Enum:Step_MiniGame_HitTarget > Finish
+
+0xDB5BD9EA MiniGame_HitTarget_IsAfter_Playing_Exp
+Enum:Step_MiniGame_HitTarget > Playing
+
+0x8D93DCDF MiniGame_HitTarget_IsAfter_Ready_Exp
+Enum:Step_MiniGame_HitTarget > Ready
+
+0xC4343DB5 MiniGame_HitTarget_IsAfter_Retry_Exp
+Enum:Step_MiniGame_HitTarget > Retry
+
+0x9FCFA49B MiniGame_HitTarget_IsCompleted_Exp
+Enum:Step_MiniGame_HitTarget == Complete
+
+0x58C308DE MiniGame_HitTarget_IsFullRemainBullet
+Int:PlayerStatus.OverwriteItemNum == 15
+
+0xA8B1C4ED MiniGame_HitTarget_IsPlaying
+Enum:Step_MiniGame_HitTarget == Playing
+
+0x9B602350 MiniGame_HorseBackArchery_IsNotPlaying_Exp
+Enum:Step_Minigame_HorsebackArchery != Playing
+
+0x16127192 MiniGame_HorsebackArchery_IsPlaying_Exp
+Enum:Step_Minigame_HorsebackArchery == Playing
+
+0x5CA8D90A MiniGame_HorseRace_NotPlaying
+Enum:Step_MiniGame_HorseRace == Ready
+
+0xDC007BDB MiniGame_HorseRace_Playing
+Enum:Step_MiniGame_HorseRace == Playing
+
+0xF4FA109A MiniGame_IsZeroEqualOverwriteItemNum
+Int:PlayerStatus.OverwriteItemNum <= 0
+
+0x97B6FEFE MountainTrail_FallingRockHasStopped
+ANY:
+  - ALL:
+      - Bool:HavePlayedEvent.Dm_Kakariko_0025 == false
+      - Bool:Sequence_IsChildhood == false
+      - Bool:MountainTrail_AdultFallingRockDemoActivated == true
+      - Bool:MountainTrail_Adult_DropFirstFallingRock == true
+  - ALL:
+      - Bool:Sequence_IsChildhood == true
+      - BoolExp:Meet_GreatFairy_IsAfter_GetFairyBreath_Exp == false
+      - Bool:MountainTrail_ChildFallingRockDemoActivated == true
+      - Bool:MountainTrail_Child_DropFirstFallingRock == true
+
+0x1B897056 MountainTrail_FallingRockisActivatable
+ANY:
+  - ALL:
+      - Bool:Sequence_IsChildhood == true
+      - Bool:MountainTrail_isInsideFallingRockArea == true
+      - BoolExp:Meet_GreatFairy_IsAfter_GetFairyBreath_Exp == false
+      - Bool:MountainTrail_Child_DropFirstFallingRock == true
+  - ALL:
+      - Bool:Sequence_IsChildhood == false
+      - Bool:MountainTrail_isInsideFallingRockArea == true
+      - BoolExp:HaveDefeatedEnemy_Enemy_DungeonBoss_Volvagia == false
+      - Bool:MountainTrail_Adult_DropFirstFallingRock == true
+
+0x3B91BD0A Npc_Dream_BossRush_SetStatue
+ANY:
+  - Bool:Npc_Dream_BossRush_Cleared == true
+  - Bool:Npc_Dream_BossRush_Cleared_01 == true
+  - Bool:Npc_Dream_BossRush_Cleared_02 == true
+
+0xAF064DAC Npc_Gerudo_004_FinishTalk
+ALL:
+  - BoolExp:SubEvent_GetIceArrow_IsCompleted_Exp
+  - Bool:HaveTalked_Special.Npc_Gerudo_004_Talk_Event64 == false
+
+0xB02C76A4 Npc_Gerudo_004_FinishTalk_Terror
+ALL:
+  - Bool:Npc_Gerudo_004_TerrorReceived == true
+  - BoolExp:Npc_Gerudo_004_FinishTalk
+
+0xCC344C6A NPC_Gerudo_005_HaveNotFirstTalk
+ALL:
+  - Enum:Step_SageOfSpirit > Step01
+  - Bool:GerudoFortress_IsAfterFirstTalk_Npc_Gerudo_005 == false
+
+0x6E8D39FF Npc_Goron_007_HaveNotTalked
+Bool:Npc_Goron_007_HaveTalkedBefore == false
+
+0x3C9F41A3 Npc_Goron_010_Child_BeforeDodongoClear
+Bool:HavePlayedEvent.Dm_DodongoCave_BossOut == false
+
+0xDC707E13 Npc_Goron_011_Shop_Child_PleasureWait
+ALL:
+  - Bool:GoronCity_Shop_In == true
+  - BoolExp:Get_StoneOfFire_IsCompleted_Exp
+
+0x939956F1 Npc_Goron_Biggoron_Adult_NotOcarina
+ANY:
+  - Bool:Npc_Goron_Biggoron_Adult_DoArea_Ocarina == false
+  - Bool:Npc_Goron_Biggoron_Adult_Talk == false
+  - ALL:
+      - BoolExp:SubEvent_GetSwordBigGoron_IsAfter_Step06_01_Exp
+      - BoolExp:SubEvent_GetSwordBigGoron_IsCompleted_Exp == false
+
+0xB24A4D1C Npc_Hylia_013_Adult_Arrest
+ALL:
+  - Enum:Step_SageOfSpirit == Step01
+  - Bool:GerudoFortress_Saved_Npc_Hylia_013_Adult == false
+
+0x230DB856 Npc_Hylia_014_Adult_Arrest
+ALL:
+  - Enum:Step_SageOfSpirit == Step01
+  - Bool:GerudoFortress_Saved_Npc_Hylia_014_Adult == false
+
+0x345A868D Npc_Hylia_015_Adult_Arrest
+ALL:
+  - Enum:Step_SageOfSpirit == Step01
+  - Bool:GerudoFortress_Saved_Npc_Hylia_015_Adult == false
+
+0x5C255D82 Npc_Hylia_016_Adult_Arrest
+ALL:
+  - Enum:Step_SageOfSpirit == Step01
+  - Bool:GerudoFortress_Saved_Npc_Hylia_016_Adult == false
+  - ANY:
+      - Bool:GerudoFortress_Npc_Hylia_016_Adult_IsCallingHelp == true
+      - ALL:
+          - Bool:GerudoFortress_LinkIsInTheRoom == true
+          - Bool:GerudoFortress_Npc_Hylia_016_Adult_IsCallingHelp == false
+
+0xD55B1EC3 Npc_Hylia_017_Adult_ShowItemReplace_OddMushroom
+ALL:
+  - Enum:Step_SubEvent_GetSwordBigGoron >= Step03
+  - Enum:Step_SubEvent_GetSwordBigGoron <= Step04
+
+0x699FC98B Npc_Hylia_049_Adult_ShowItemReplace_CojiroCucco
+ALL:
+  - Enum:Step_SubEvent_GetSwordBigGoron >= Ready
+  - Enum:Step_SubEvent_GetSwordBigGoron <= Step03
+
+0x88E327BA Npc_Hylia_049_Adult_ShowItemReplace_PoacherSaw
+ALL:
+  - Enum:Step_SubEvent_GetSwordBigGoron >= Step05
+  - Enum:Step_SubEvent_GetSwordBigGoron <= Step06
+
+0xFE4512DA Npc_Hylia_049_Adult_ShowItemReplace_PocketCucco
+ALL:
+  - Enum:Step_SubEvent_GetSwordBigGoron >= Ready
+  - Enum:Step_SubEvent_GetSwordBigGoron <= Step02
+
+0x1EF4C3D0 Npc_Hylia_049_Adult_ShowItemReplace_PocketEgg
+ALL:
+  - Enum:Step_SubEvent_GetSwordBigGoron >= Ready
+  - Enum:Step_SubEvent_GetSwordBigGoron <= EggHatched
+
+0x7AC5091A Unknown
+Enum:Step_EscapeFromCrumblingGanonCastle == Step04
+
+0x68864873 Unknown
+ANY:
+  - ALL:
+      - Bool:KokiriForest_Npc_Kokiri_004_Child_IsAfterFirstTalk == true
+      - BoolExp:Get_StoneOfForest_IsCompleted_Exp == false
+  - BoolExp:Goto_HyruleCastle_IsCompleted_Exp
+
+0x446C489C Npc_Kokiri_008_Child_Lift_Rock_BoolExp
+BoolExp:Get_StoneOfForest_IsCompleted_Exp == false
+
+0x59E4ED03 Npc_Kokiri_009_Child_MoneyTalkStart_BoolExp
+Bool:Npc_Kokiri_009_Child_MoneyTalkStart == false
+
+0x193443C8 Npc_Kokiri_009_Child_StopShowingFace_BoolExp
+ANY:
+  - Bool:Npc_Kokiri_009_Child_MoneyTalkStart == true
+  - BoolExp:Get_StoneOfForest_IsAfter_DefeatBoss_Exp
+
+0xB39D680C Npc_Kokiri_DisableOcarinaSong_BoolExp
+ALL:
+  - BoolExp:SageOfForest_IsAfter_Ready_Exp
+  - BoolExp:SageOfForest_IsCompleted_Exp == false
+
+0x44DAA77D Npc_Kokiri_Get_StoneOfForest_IsCompleted_AnimeSwitch_BoolExp
+Int:KokiriForest_Get_StoneOfForest_IsCompleted_NumberOfTalkedNpc == 3
+
+0xBA0F54DE Npc_Kokiri_Mido_Adult_OcarinaReactionStop_BoolExp
+Bool:Npc_Kokiri_Mido_Adult_OcarinaReactionStop == false
+
+0x6BB8BBA7 Npc_Zora_003_Adult_SneezeStop
+ANY:
+  - BoolExp:SageOfShadow_IsCompleted_Exp
+  - Bool:Npc_Zora_003_Adult_Talked == true
+
+0x2FCCEE37 Npc_Zora_007_IsCanNotShowLetter
+Bool:Npc_Zora_007_HasWorried == false
+
+0x8B6EA1D4 Npc_Zora_010_Adult_TerrorBalloonOnly
+BoolExp:SageOfWater_IsCompleted_Exp == false
+
+0xC9040F36 Npc_Zora_Ruto_Child_CanTalk
+Enum:Step_Get_StoneOfWater != Step14
+
+0x7789CBA8 Richard_DisablePlayerWalking
+ANY:
+  - ALL:
+      - Bool:Market_Npc_Hylia_052_Child_RichardGoHome == true
+      - BoolExp:SubEvent_FindRichard_IsCompleted_Exp
+  - BoolExp:SubEvent_FindRichard_IsAfter_NotReady_Exp == false
+
+0x18D513D1 SageOfFire_DaruniaJrCry
+BoolExp:SageOfFire_IsAfter_TalkDaruniaJr_Exp == false
+
+0x74366367 SageOfFire_IsAfter_DefeatBoss_Exp
+Enum:Step_SageOfFire > DefeatBoss
+
+0xEB067B7E SageOfFire_IsAfter_EnterCrater_Exp
+Enum:Step_SageOfFire > EnterCrater
+
+0x6961040C SageOfFire_IsAfter_EnterTemple_Exp
+Enum:Step_SageOfFire > EnterTemple
+
+0xADCF1430 SageOfFire_IsAfter_GetBossKey_Exp
+Enum:Step_SageOfFire > GetBossKey
+
+0x9E7D28AC SageOfFire_IsAfter_GoToWarpPoint_Exp
+Enum:Step_SageOfFire > GoToWarpPoint
+
+0x27F265AF SageOfFire_IsAfter_MeetBoss_Exp
+Enum:Step_SageOfFire > MeetBoss
+
+0x447D73B7 SageOfFire_IsAfter_MeetDarunia_Exp
+Enum:Step_SageOfFire > MeetDarunia
+
+0x70D8C54A SageOfFire_IsAfter_MeetSheik_Exp
+Enum:Step_SageOfFire > MeetSheik
+
+0x7D668BBC SageOfFire_IsAfter_MoveStatue_Exp
+Enum:Step_SageOfFire > MoveStatue
+
+0x97D91714 SageOfFire_IsAfter_NotReady_Exp
+Enum:Step_SageOfFire > NotReady
+
+0xE295C8CC SageOfFire_IsAfter_Ready_Exp
+Enum:Step_SageOfFire > Ready
+
+0xB8B0DA08 SageOfFire_IsAfter_StopDaruniaJr_Exp
+Enum:Step_SageOfFire > StopDaruniaJr
+
+0x59708A57 SageOfFire_IsAfter_TalkDaruniaJr_Exp
+Enum:Step_SageOfFire > TalkDaruniaJr
+
+0xACF493FF SageOfFire_IsCompleted_Exp
+Enum:Step_SageOfFire == Complete
+
+0x36507F5B SageOfForest_IsAfter_NotReady_Exp
+Enum:Step_SageOfForest > NotReady
+
+0x5F5416CE SageOfForest_IsAfter_Ready_Exp
+Enum:Step_SageOfForest > Ready
+
+0x44EFA2C6 SageOfForest_IsAfter_Step01_Exp
+Enum:Step_SageOfForest > Step01
+
+0x5CC1DCD2 SageOfForest_IsAfter_Step02_Exp
+Enum:Step_SageOfForest > Step02
+
+0x891669EE SageOfForest_IsAfter_Step03_Exp
+Enum:Step_SageOfForest > Step03
+
+0x3DA4E43F SageOfForest_IsAfter_Step04_Exp
+Enum:Step_SageOfForest > Step04
+
+0xDBB62517 SageOfForest_IsAfter_Step05_Exp
+Enum:Step_SageOfForest > Step05
+
+0x01250753 SageOfForest_IsAfter_Step06_1_0_Exp
+Enum:Step_SageOfForest > Step06_1_0
+
+0x5CC4E521 SageOfForest_IsAfter_Step06_1_1_Exp
+Enum:Step_SageOfForest > Step06_1_1
+
+0x98DB7B00 SageOfForest_IsAfter_Step06_1_2_Exp
+Enum:Step_SageOfForest > Step06_1_2
+
+0x99794581 SageOfForest_IsAfter_Step06_2_Exp
+Enum:Step_SageOfForest > Step06_2
+
+0xEF5D1652 SageOfForest_IsAfter_Step06_Exp
+Enum:Step_SageOfForest > Step06
+
+0xF6566559 SageOfForest_IsAfter_Step07_Exp
+Enum:Step_SageOfForest > Step07
+
+0x8BDDCF41 SageOfForest_IsAfter_Step08_Exp
+Enum:Step_SageOfForest > Step08
+
+0x55F9C4C3 SageOfForest_IsAfter_Step09_Exp
+Enum:Step_SageOfForest > Step09
+
+0x51C6AB41 SageOfForest_IsCompleted_Exp
+Enum:Step_SageOfForest == Complete
+
+0x1AF2B834 SageOfShadow_BurningEventShouldPlayed
+ALL:
+  - Bool:Sequence_IsChildhood == false
+  - BoolExp:SageOfShadow_Kakariko_Burning
+  - Bool:HavePlayedEvent.Dm_Kakariko_0030 == false
+
+0xFF4E6430 SageOfShadow_IsAfter_BattleOnShip_Exp
+Enum:Step_SageOfShadow > BattleOnShip
+
+0x4642FFE4 SageOfShadow_IsAfter_BeforeBossRoom_Exp
+Enum:Step_SageOfShadow > BeforeBossRoom
+
+0xDF6B9422 SageOfShadow_IsAfter_DefeatBoss_Exp
+Enum:Step_SageOfShadow > DefeatBoss
+
+0x700A2EA9 SageOfShadow_IsAfter_GetGlassTruth_Exp
+Enum:Step_SageOfShadow > GetGlassTruth
+
+0xD02B3ACE SageOfShadow_IsAfter_GotGlassTruth_Exp
+Enum:Step_SageOfShadow > GotGlassTruth
+
+0xFCD723C0 SageOfShadow_IsAfter_GoToDungeon_Exp
+Enum:Step_SageOfShadow > GoToDungeon
+
+0x8C361A02 SageOfShadow_IsAfter_GoToWarpPoint_Exp
+Enum:Step_SageOfShadow > GoToWarpPoint
+
+0x07FC4217 SageOfShadow_IsAfter_MeetBoss_Exp
+Enum:Step_SageOfShadow > MeetBoss
+
+0x78CFF090 SageOfShadow_IsAfter_NotReady_Exp
+Enum:Step_SageOfShadow > NotReady
+
+0x9296CBCE SageOfShadow_IsAfter_Ready_AND_SageOfShadow_NotCompleted_Exp
+ALL:
+  - BoolExp:SageOfShadow_IsAfter_Ready_Exp
+  - BoolExp:SageOfShadow_IsCompleted_Exp == false
+
+0xF68429EB SageOfShadow_IsAfter_Ready_Exp
+Enum:Step_SageOfShadow > Ready
+
+0x6148AD2B SageOfShadow_IsCompleted_Exp
+Enum:Step_SageOfShadow == Complete
+
+0xAD5D4BB6 SageOfShadow_KakarikoVillage_After_Dm_Kakariko_0030
+ALL:
+  - Bool:HavePlayedEvent.Dm_MelodyGet_Shadow == false
+  - BoolExp:SageOfShadow_Kakariko_Burning
+
+0x6C1119B9 SageOfShadow_Kakariko_Burning
+ALL:
+  - BoolExp:SageOfForest_IsCompleted_Exp
+  - BoolExp:SageOfFire_IsCompleted_Exp
+  - BoolExp:SageOfWater_IsCompleted_Exp
+
+0x701C6A03 SageOfSpirit_CrawlAnchor_On
+ANY:
+  - BoolExp:SageOfSpirit_IsAfter_Step04_Exp == false
+  - BoolExp:SageOfSpirit_IsAfter_Step05_Exp
+
+0xEF2C79B6 SageOfSpirit_IsAfter_Ready_Exp
+Enum:Step_SageOfSpirit > Ready
+
+0x580C19F4 SageOfSpirit_IsAfter_Step01_Exp
+Enum:Step_SageOfSpirit > Step01
+
+0xF5370966 SageOfSpirit_IsAfter_Step02_Exp
+Enum:Step_SageOfSpirit > Step02
+
+0xC14C9DFA SageOfSpirit_IsAfter_Step03_Exp
+Enum:Step_SageOfSpirit > Step03
+
+0x391BF510 SageOfSpirit_IsAfter_Step04_Exp
+Enum:Step_SageOfSpirit > Step04
+
+0xE4C52B13 SageOfSpirit_IsAfter_Step05_01_Exp
+Enum:Step_SageOfSpirit > Step05_01
+
+0xB1EFD9C9 SageOfSpirit_IsAfter_Step05_02_Exp
+Enum:Step_SageOfSpirit > Step05_02
+
+0x5AE0A508 SageOfSpirit_IsAfter_Step05_03_Exp
+Enum:Step_SageOfSpirit > Step05_03
+
+0xB9ED1739 SageOfSpirit_IsAfter_Step05_Exp
+Enum:Step_SageOfSpirit > Step05
+
+0x1F8A45DB SageOfSpirit_IsAfter_Step06_Exp
+Enum:Step_SageOfSpirit > Step06
+
+0x7720E141 SageOfSpirit_IsAfter_Step07_00_Exp
+Enum:Step_SageOfSpirit > Step07_00
+
+0x5A5218EC SageOfSpirit_IsAfter_Step07_Exp
+Enum:Step_SageOfSpirit > Step07
+
+0xF9AE792F SageOfSpirit_IsAfter_Step07_pre00_Exp
+Enum:Step_SageOfSpirit > Step07_pre00
+
+0x5BB5D177 SageOfSpirit_IsAfter_Step08_01_Exp
+Enum:Step_SageOfSpirit > Step08_01
+
+0xC64926B9 SageOfSpirit_IsAfter_Step08_Exp
+Enum:Step_SageOfSpirit > Step08
+
+0xF9BD3703 SageOfSpirit_IsAfter_Step09_01_Exp
+Enum:Step_SageOfSpirit > Step09_01
+
+0x0CA4CEFB SageOfSpirit_IsAfter_Step09_Exp
+Enum:Step_SageOfSpirit > Step09
+
+0xB9776994 SageOfSpirit_IsAfter_Step10_Exp
+Enum:Step_SageOfSpirit > Step10
+
+0xE98FB9F3 SageOfSpirit_IsCompleted_Exp
+Enum:Step_SageOfSpirit == Complete
+
+0x7DDE3CBB SageOfSpirit_IsNotAfter_Ready_EXP
+Enum:Step_SageOfSpirit <= Step01
+
+0xAA19E3F0 SageOfSpirit_Nabooru_On
+ALL:
+  - Bool:Sequence_IsChildhood == true
+  - BoolExp:SageOfSpirit_IsAfter_Step04_Exp
+  - BoolExp:SageOfSpirit_IsAfter_Step06_Exp == false
+
+0xCFC06937 SageOfWater_IsAfter_Ready_Exp
+Enum:Step_SageOfWater > Ready
+
+0xFE0C6854 SageOfWater_IsAfter_Step00_Exp
+Enum:Step_SageOfWater > Step00
+
+0x89B945D0 SageOfWater_IsAfter_Step01_Exp
+Enum:Step_SageOfWater > Step01
+
+0xE871D99C SageOfWater_IsAfter_Step03_Exp
+Enum:Step_SageOfWater > Step03
+
+0xA26F5142 SageOfWater_IsAfter_Step04_Exp
+Enum:Step_SageOfWater > Step04
+
+0x1A374048 SageOfWater_IsAfter_Step05_Exp
+Enum:Step_SageOfWater > Step05
+
+0xEAC06E44 SageOfWater_IsAfter_Step06_Exp
+Enum:Step_SageOfWater > Step06
+
+0x0E00C63E SageOfWater_IsAfter_Step07_00_Exp
+Enum:Step_SageOfWater > Step07_00
+
+0x45E43ADC SageOfWater_IsAfter_Step07_1_Exp
+Enum:Step_SageOfWater > Step07_1
+
+0x20C2BD65 SageOfWater_IsAfter_Step07_2_Exp
+Enum:Step_SageOfWater > Step07_2
+
+0x077A5709 SageOfWater_IsAfter_Step08_Exp
+Enum:Step_SageOfWater > Step08
+
+0x8FAEDF45 SageOfWater_IsCompleted_Exp
+Enum:Step_SageOfWater == Complete
+
+0x82EB4517 ScrubBusinessSeed_IsSellingArrow
+ALL:
+  - Bool:IsGet.Weapon_Range_Bow == true
+  - Bool:Sequence_IsChildhood == false
+
+0x2066CDFB ScrubBusinessSeed_IsSellingBomb
+Bool:IsGet.Item_BombBag_Small == true
+
+0x83522279 ScrubBusinessSeed_IsSellingBombchu
+Bool:IsGet.Item_Bombchu == true
+
+0xA83AECB8 ScrubBusinessSeed_IsSellingBug
+ANY:
+  - Bool:IsGet.Item_Bottle == true
+  - Bool:IsGet.Item_Bottle_Bug == true
+  - Bool:IsGet.Item_Bottle_Letter == true
+
+0xAF48D507 ScrubBusinessSeed_IsSellingDekuSeed
+ALL:
+  - Bool:IsGet.Weapon_Range_SlingShot == true
+  - Bool:Sequence_IsChildhood == true
+
+0xDE0D831F ScrubBusinessSeed_IsSellingDekuShield
+ALL:
+  - Bool:Sequence_IsChildhood == true
+  - Int:PouchData.Weapon_Shield_Deku.StockNum < 1
+  - Bool:IsGet.Weapon_Shield_Deku == true
+
+0xEC072BAA ScrubBusinessSeed_IsSellingDekuStick
+Bool:Sequence_IsChildhood == true
+
+0x498B7A9A ScrubBusinessSeed_IsSellingHeart
+ALL:
+  - Bool:ScrubBusiness_Seed_IsShopping == false
+  - Bool:ScrubBusiness_BlockSellingHearts == false
+
+0xEDA95D9A ScrubBusinessSeed_IsSellingMagicJar
+ALL:
+  - Bool:ScrubBusiness_Seed_IsShopping == false
+  - Int:PlayerStatus.MPMax > 0
+
+0xA14867AC Sequence_IsAlternative_KakarikoAdult
+ALL:
+  - Bool:Sequence_IsChildhood == false
+  - BoolExp:SageOfShadow_Kakariko_Burning
+
+0xE2716851 Sequence_IsAlternative_ZoraDomainAdult
+ALL:
+  - Bool:Sequence_IsChildhood == false
+  - BoolExp:SageOfWater_IsCompleted_Exp
+
+0x7E1194F6 ShadowTemple_Map_Room_27_PartsOn
+ALL:
+  - BoolExp:SageOfShadow_IsCompleted_Exp == false
+  - Bool:ShadowTemple_Level_StartBossBattle == true
+
+0x8622C848 SubEvent_AllBossBattle_IsAfter_Finish_Exp
+Enum:Step_SubEvent_AllBossBattle > Finish
+
+0xD232037A SubEvent_AllBossBattle_IsAfter_Playing_Exp
+Enum:Step_SubEvent_AllBossBattle > Playing
+
+0x3C79D384 SubEvent_AllBossBattle_IsAfter_Ready_Exp
+Enum:Step_SubEvent_AllBossBattle > Ready
+
+0x3F1AB0C5 SubEvent_AllBossBattle_IsAfter_Retry_Exp
+Enum:Step_SubEvent_AllBossBattle > Retry
+
+0xB269F96E SubEvent_AllBossBattle_IsCompleted_Exp
+Enum:Step_SubEvent_AllBossBattle == Complete
+
+0x257E981B SubEvent_FindRichard_IsAfter_NotReady_Exp
+Enum:Step_SubEvent_FindRichard > NotReady
+
+0xCA5FC146 SubEvent_FindRichard_IsAfter_Ready_AndNotCompleted_EXP
+ANY:
+  - ALL:
+      - Enum:Step_SubEvent_FindRichard != Complete
+      - Enum:Step_SubEvent_FindRichard > NotReady
+  - Bool:Market_Npc_Hylia_052_Child_DisableInterestDog == true
+
+0xF0EDAC25 SubEvent_FindRichard_IsAfter_Ready_AND_BeforeCompleted
+ALL:
+  - BoolExp:SubEvent_FindRichard_IsAfter_NotReady_Exp
+  - BoolExp:SubEvent_FindRichard_IsCompleted_Exp == false
+
+0x73EC71E7 SubEvent_FindRichard_IsAfter_Ready_Exp
+Enum:Step_SubEvent_FindRichard > Ready
+
+0xF52B89C0 SubEvent_FindRichard_IsCompleted_Exp
+Enum:Step_SubEvent_FindRichard == Complete
+
+0x7ED3452E SubEvent_GetFireArrow_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GetFireArrow > Ready
+
+0x425392DD SubEvent_GetFireArrow_IsAfter_Step01_Exp
+Enum:Step_SubEvent_GetFireArrow > Step01
+
+0x0B1ED62E SubEvent_GetFireArrow_IsAfter_Step02_Exp
+Enum:Step_SubEvent_GetFireArrow > Step02
+
+0x7954A6CB SubEvent_GetFireArrow_IsAfter_Step03_Exp
+Enum:Step_SubEvent_GetFireArrow > Step03
+
+0xF8ADE540 SubEvent_GetFireArrow_IsCompleted_Exp
+Enum:Step_SubEvent_GetFireArrow == Complete
+
+0x86985371 SubEvent_GetGlassTruth_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GetGlassTruth > Ready
+
+0x39FE0166 SubEvent_GetGlassTruth_IsAfter_Step01_Exp
+Enum:Step_SubEvent_GetGlassTruth > Step01
+
+0x0FAE4AC3 SubEvent_GetGlassTruth_IsAfter_Step05_Exp
+Enum:Step_SubEvent_GetGlassTruth > Step05
+
+0x4C75F50C SubEvent_GetGlassTruth_IsAfter_Step06_Exp
+Enum:Step_SubEvent_GetGlassTruth > Step06
+
+0x0FE1122D SubEvent_GetGlassTruth_IsAfter_Step07_Exp
+Enum:Step_SubEvent_GetGlassTruth > Step07
+
+0x419A6ECA SubEvent_GetGlassTruth_IsCompleted_Exp
+Enum:Step_SubEvent_GetGlassTruth == Complete
+
+0x54539D36 SubEvent_GetIceArrow_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GetIceArrow > Ready
+
+0xF68345D1 SubEvent_GetIceArrow_IsAfter_Step00_Exp
+Enum:Step_SubEvent_GetIceArrow > Step00
+
+0x402C287C SubEvent_GetIceArrow_IsAfter_Step01_Exp
+Enum:Step_SubEvent_GetIceArrow > Step01
+
+0x3F3545AD SubEvent_GetIceArrow_IsCompleted_Exp
+Enum:Step_SubEvent_GetIceArrow == Complete
+
+0x3F2F8B0C SubEvent_GetMelodySun_IsCompleted_Exp
+Enum:Step_SubEvent_GetMelodySun == Complete
+
+0x561EE95E SubEvent_GetScarecrow_IsAfter_IntoTheFuture_Exp
+Enum:Step_SubEvent_GetScarecrow > IntoTheFuture
+
+0xA5A25551 SubEvent_GetScarecrow_IsAfter_IntoThePast_Exp
+Enum:Step_SubEvent_GetScarecrow > IntoThePast
+
+0x86C8BDEB SubEvent_GetScarecrow_IsAfter_MeetBonooru_Exp
+Enum:Step_SubEvent_GetScarecrow > MeetBonooru
+
+0x12BC2A20 SubEvent_GetScarecrow_IsAfter_MeetPierre_Exp
+Enum:Step_SubEvent_GetScarecrow > MeetPierre
+
+0x5B2D3F91 SubEvent_GetScarecrow_IsAfter_PlayScarecrowSong_Exp
+Enum:Step_SubEvent_GetScarecrow > PlayScarecrowSong
+
+0x2D24426D SubEvent_GetScarecrow_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GetScarecrow > Ready
+
+0x8568E5A6 SubEvent_GetScarecrow_IsCompleted_Exp
+Enum:Step_SubEvent_GetScarecrow == Complete
+
+0xBF5C94DE SubEvent_GetStormSong_IsAfter_BeforeBossRoom_Exp
+Enum:Step_SubEvent_GetStormSong > BeforeBossRoom
+
+0x82F3D876 SubEvent_GetStormSong_IsAfter_ReadyForGetStormSong_Exp
+Enum:Step_SubEvent_GetStormSong > ReadyForGetStormSong
+
+0xC5DEBF42 SubEvent_GetStormSong_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GetStormSong > Ready
+
+0xD83E58EA SubEvent_GetStormSong_IsAfter_step02_Exp
+Enum:Step_SubEvent_GetStormSong > step02
+
+0xC58ADD56 SubEvent_GetStormSong_IsAfter_step03_Exp
+Enum:Step_SubEvent_GetStormSong > step03
+
+0xCBE324AC SubEvent_GetStormSong_IsAfter_step04_Exp
+Enum:Step_SubEvent_GetStormSong > step04
+
+0x82F9D99A SubEvent_GetStormSong_IsAfter_step05_Exp
+Enum:Step_SubEvent_GetStormSong > step05
+
+0xDF8134E7 SubEvent_GetStormSong_IsCompleted_Exp
+Enum:Step_SubEvent_GetStormSong == Complete
+
+0xC303BD11 SubEvent_GetSwordBigGoron_IsAfter_EggHatched_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > EggHatched
+
+0x87F647F0 SubEvent_GetSwordBigGoron_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Ready
+
+0xB2F39DDD SubEvent_GetSwordBigGoron_IsAfter_StartSubEvent_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > StartSubEvent
+
+0xCF76E357 SubEvent_GetSwordBigGoron_IsAfter_Step01_01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step01_01
+
+0xCC33DB60 SubEvent_GetSwordBigGoron_IsAfter_Step01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step01
+
+0xD49095A7 SubEvent_GetSwordBigGoron_IsAfter_Step02_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step02
+
+0x34DE4875 SubEvent_GetSwordBigGoron_IsAfter_Step03_01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step03_01
+
+0x72481492 SubEvent_GetSwordBigGoron_IsAfter_Step03_02_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step03_02
+
+0x1DB90015 SubEvent_GetSwordBigGoron_IsAfter_Step03_03_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step03_03
+
+0xC1F12AFF SubEvent_GetSwordBigGoron_IsAfter_Step03_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step03
+
+0xB78A4007 SubEvent_GetSwordBigGoron_IsAfter_Step04_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step04
+
+0x0701493A SubEvent_GetSwordBigGoron_IsAfter_Step05_01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step05_01
+
+0xF867C0FB SubEvent_GetSwordBigGoron_IsAfter_Step05_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step05
+
+0x45135E67 SubEvent_GetSwordBigGoron_IsAfter_Step06_01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step06_01
+
+0xE6A0F278 SubEvent_GetSwordBigGoron_IsAfter_Step06_02_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step06_02
+
+0xF01F4E22 SubEvent_GetSwordBigGoron_IsAfter_Step06_03_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step06_03
+
+0xC3C40B9F SubEvent_GetSwordBigGoron_IsAfter_Step06_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step06
+
+0xFF04C65E SubEvent_GetSwordBigGoron_IsAfter_Step07_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step07
+
+0x64639BAA SubEvent_GetSwordBigGoron_IsAfter_Step08_01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step08_01
+
+0x9EE93839 SubEvent_GetSwordBigGoron_IsAfter_Step08_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step08
+
+0xEE85FA6F SubEvent_GetSwordBigGoron_IsAfter_Step09_01_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step09_01
+
+0x02290236 SubEvent_GetSwordBigGoron_IsAfter_Step09_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step09
+
+0xA8874F3F SubEvent_GetSwordBigGoron_IsAfter_Step10_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step10
+
+0xF9789A02 SubEvent_GetSwordBigGoron_IsAfter_Step11_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > Step11
+
+0x7311DE29 SubEvent_GetSwordBigGoron_IsAfter_WaitEggHatch_Exp
+Enum:Step_SubEvent_GetSwordBigGoron > WaitEggHatch
+
+0xBC2C61B7 SubEvent_GetSwordBigGoron_IsCompleted_Exp
+Enum:Step_SubEvent_GetSwordBigGoron == Complete
+
+0x53E17D55 SubEvent_GetSwordBigGoron_TimerCountingStep
+ANY:
+  - ALL:
+      - Enum:Step_SubEvent_GetSwordBigGoron == Step04
+      - Int:PouchData.Item_OddMushroom.StockNum >= 1
+  - ALL:
+      - Enum:Step_SubEvent_GetSwordBigGoron == Step09
+      - Int:PouchData.Item_EyeballFrog.StockNum >= 1
+  - ALL:
+      - Enum:Step_SubEvent_GetSwordBigGoron == Step10
+      - Int:PouchData.Item_EyeDrop.StockNum >= 1
+
+0x133BB20E SubEvent_GhostShop_IsAfter_Playing_Exp
+Enum:Step_SubEvent_GhostShop > Playing
+
+0x76CD6E9E SubEvent_GhostShop_IsAfter_Ready_Exp
+Enum:Step_SubEvent_GhostShop > Ready
+
+0x05ED5E6A SubEvent_GhostShop_IsCompleted_Exp
+Enum:Step_SubEvent_GhostShop == Complete
+
+0xEB305063 SubEvent_MaskSalesman_IsAfter_Ready_Exp
+Enum:Step_SubEvent_MaskSalesman > Ready
+
+0x97BC46B0 SubEvent_MaskSalesman_IsAfter_Step01_Exp
+Enum:Step_SubEvent_MaskSalesman > Step01
+
+0x15C8E284 SubEvent_MaskSalesman_IsAfter_Step01_Hint_Exp
+Enum:Step_SubEvent_MaskSalesman > Step01_Hint
+
+0x1DD3D252 SubEvent_MaskSalesman_IsAfter_Step02_Exp
+Enum:Step_SubEvent_MaskSalesman > Step02
+
+0xCA8294C8 SubEvent_MaskSalesman_IsAfter_Step03_Exp
+Enum:Step_SubEvent_MaskSalesman > Step03
+
+0x4311BAA6 SubEvent_MaskSalesman_IsAfter_Step03_Hint_Exp
+Enum:Step_SubEvent_MaskSalesman > Step03_Hint
+
+0xD4AC0391 SubEvent_MaskSalesman_IsAfter_Step04_Exp
+Enum:Step_SubEvent_MaskSalesman > Step04
+
+0xBB72F7BC SubEvent_MaskSalesman_IsAfter_Step05_Exp
+Enum:Step_SubEvent_MaskSalesman > Step05
+
+0x95616C05 SubEvent_MaskSalesman_IsAfter_Step05_Hint_Exp
+Enum:Step_SubEvent_MaskSalesman > Step05_Hint
+
+0xDF609F6A SubEvent_MaskSalesman_IsAfter_Step06_Exp
+Enum:Step_SubEvent_MaskSalesman > Step06
+
+0xE7F2985B SubEvent_MaskSalesman_IsAfter_Step07_Exp
+Enum:Step_SubEvent_MaskSalesman > Step07
+
+0x76F984F6 SubEvent_MaskSalesman_IsAfter_Step07_Hint_Exp
+Enum:Step_SubEvent_MaskSalesman > Step07_Hint
+
+0x69E6F373 SubEvent_MaskSalesman_IsAfter_Step08_Exp
+Enum:Step_SubEvent_MaskSalesman > Step08
+
+0x3FF081D5 SubEvent_MaskSalesman_IsCompleted_Exp
+Enum:Step_SubEvent_MaskSalesman == Complete
+
+0xFF1D5D4D SubEvent_RunningRace_HaveLeftGerudoValley
+ALL:
+  - Bool:SubEvent_RunningRace_NoBancChange == false
+  - BoolExp:SubEvent_RunningRace_IsAfter_Ready_Exp
+
+0x82885FD2 SubEvent_RunningRace_IsAfter_Playing_Exp
+Enum:Step_SubEvent_RunningRace > Playing
+
+0xA5E46899 SubEvent_RunningRace_IsAfter_Ready_Exp
+Enum:Step_SubEvent_RunningRace > Ready
+
+0x2D7629D8 SubEvent_RunningRace_IsCompleted_Exp
+Enum:Step_SubEvent_RunningRace == Complete
+
+0x18B98E5C SubEvent_RunningRace_IsTimerCountingStep
+Enum:Step_SubEvent_RunningRace == Playing
+
+0x15A92B27 Test_NaviChat_LowHealth
+Int:PlayerStatus.Life <= 4
+
+0xA87A0109 Unknown
+ALL:
+  - Bool:Sequence_IsChildhood == false
+  - Bool:KakarikoVillage_LeaveKakariko_Npc_Hylia_Talon_Adult == false
+
+0x8BA651E2 Unknown
+ALL:
+  - Bool:IsGet.Item_Melody_ZeldaLullaby == true
+  - Bool:0x47D46265 == false
+
+0x566BEFCC UndefeatedEnemyAfterGameClear_Dm_Enemy_DungeonBoss_Volvagia
+ALL:
+  - Int:DefeatedEnemyNum.Dm_Enemy_DungeonBoss_Volvagia == 0
+  - Bool:IsGameClear == true
+
+0x231013BE UndefeatedEnemyAfterGameClear_Enemy_Amos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Amos == 0
+  - Bool:IsGameClear == true
+
+0x46DBC859 UndefeatedEnemyAfterGameClear_Enemy_Amos_AlwaysRespawn
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Amos_AlwaysRespawn == 0
+  - Bool:IsGameClear == true
+
+0x9B1BEDA0 UndefeatedEnemyAfterGameClear_Enemy_Anubis
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Anubis == 0
+  - Bool:IsGameClear == true
+
+0x5F7B8526 UndefeatedEnemyAfterGameClear_Enemy_BabyDodongo
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_BabyDodongo == 0
+  - Bool:IsGameClear == true
+
+0x69D3C3E5 UndefeatedEnemyAfterGameClear_Enemy_Bari
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Bari == 0
+  - Bool:IsGameClear == true
+
+0x4473F6FF UndefeatedEnemyAfterGameClear_Enemy_Beamos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Beamos == 0
+  - Bool:IsGameClear == true
+
+0xA5202B83 UndefeatedEnemyAfterGameClear_Enemy_Beamos_For_High_Place
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Beamos_For_High_Place == 0
+  - Bool:IsGameClear == true
+
+0xBC0BC9E2 UndefeatedEnemyAfterGameClear_Enemy_Biri
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Biri == 0
+  - Bool:IsGameClear == true
+
+0xA8A031D2 UndefeatedEnemyAfterGameClear_Enemy_Bubble_Blue
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Bubble_Blue == 0
+  - Bool:IsGameClear == true
+
+0x7783E81C UndefeatedEnemyAfterGameClear_Enemy_Bubble_Green
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Bubble_Green == 0
+  - Bool:IsGameClear == true
+
+0x779F5FD1 UndefeatedEnemyAfterGameClear_Enemy_Bubble_Green_Big
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Bubble_Green_Big == 0
+  - Bool:IsGameClear == true
+
+0xE21A6493 UndefeatedEnemyAfterGameClear_Enemy_Bubble_Red
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Bubble_Red == 0
+  - Bool:IsGameClear == true
+
+0x2A6668F7 UndefeatedEnemyAfterGameClear_Enemy_Bubble_White
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Bubble_White == 0
+  - Bool:IsGameClear == true
+
+0x15CD8CE1 UndefeatedEnemyAfterGameClear_Enemy_CrazyFloorTile
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_CrazyFloorTile == 0
+  - Bool:IsGameClear == true
+
+0xD075952E UndefeatedEnemyAfterGameClear_Enemy_DeadHand
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DeadHand == 0
+  - Bool:IsGameClear == true
+
+0x88D2EB71 UndefeatedEnemyAfterGameClear_Enemy_Dekubaba
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Dekubaba == 0
+  - Bool:IsGameClear == true
+
+0xA06B419D UndefeatedEnemyAfterGameClear_Enemy_Dekubaba_Withered
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Dekubaba_Withered == 0
+  - Bool:IsGameClear == true
+
+0x5CFE588A UndefeatedEnemyAfterGameClear_Enemy_Dinolfos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Dinolfos == 0
+  - Bool:IsGameClear == true
+
+0x30117DFF UndefeatedEnemyAfterGameClear_Enemy_Dodongo
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Dodongo == 0
+  - Bool:IsGameClear == true
+
+0x0A548582 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Barinade
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Barinade == 0
+  - Bool:IsGameClear == true
+
+0x65154C3A UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_BongoBongo
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_BongoBongo == 0
+  - Bool:IsGameClear == true
+
+0x2A77D448 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Dodongo == 0
+  - Bool:IsGameClear == true
+
+0x6C3B7C92 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Dodongo_SpawnBabyDodongo == 0
+  - Bool:IsGameClear == true
+
+0x8A81FC9F UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Ganon == 0
+  - Bool:IsGameClear == true
+
+0x5DD42DB0 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganondorf
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Ganondorf == 0
+  - Bool:IsGameClear == true
+
+0x7DE97CC9 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Ganon_SecondHalfBattle
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Ganon_SecondHalfBattle == 0
+  - Bool:IsGameClear == true
+
+0x1EFC391F UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Gohma == 0
+  - Bool:IsGameClear == true
+
+0x171C407F UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Gohma_Egg
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Gohma_Egg == 0
+  - Bool:IsGameClear == true
+
+0xA192D8BE UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Kotake
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Kotake == 0
+  - Bool:IsGameClear == true
+
+0xF9B9F38E UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Koume
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Koume == 0
+  - Bool:IsGameClear == true
+
+0x97CD6929 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Morpha
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Morpha == 0
+  - Bool:IsGameClear == true
+
+0x732DDBCD UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_PhantomGanon
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_PhantomGanon == 0
+  - Bool:IsGameClear == true
+
+0x0D371342 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Twinrova
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Twinrova == 0
+  - Bool:IsGameClear == true
+
+0x97A2BBD6 UndefeatedEnemyAfterGameClear_Enemy_DungeonBoss_Volvagia
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_DungeonBoss_Volvagia == 0
+  - Bool:IsGameClear == true
+
+0xBF76B7F2 UndefeatedEnemyAfterGameClear_Enemy_Floormaster
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Floormaster == 0
+  - Bool:IsGameClear == true
+
+0x4B5415AD UndefeatedEnemyAfterGameClear_Enemy_Floormaster_Truth
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Floormaster_Truth == 0
+  - Bool:IsGameClear == true
+
+0xF4E052A3 UndefeatedEnemyAfterGameClear_Enemy_FlyingPot
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_FlyingPot == 0
+  - Bool:IsGameClear == true
+
+0x2DD23C23 UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_IceCavern
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_FlyingPot_IceCavern == 0
+  - Bool:IsGameClear == true
+
+0x4A289814 UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_ShadowTemple
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_FlyingPot_ShadowTemple == 0
+  - Bool:IsGameClear == true
+
+0x98308742 UndefeatedEnemyAfterGameClear_Enemy_FlyingPot_SpiritTemple
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_FlyingPot_SpiritTemple == 0
+  - Bool:IsGameClear == true
+
+0x8D3E52CC UndefeatedEnemyAfterGameClear_Enemy_Freezard
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Freezard == 0
+  - Bool:IsGameClear == true
+
+0x5531D13E UndefeatedEnemyAfterGameClear_Enemy_Freezard_Fixed
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Freezard_Fixed == 0
+  - Bool:IsGameClear == true
+
+0x1E1B3B0F UndefeatedEnemyAfterGameClear_Enemy_Gibdo
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Gibdo == 0
+  - Bool:IsGameClear == true
+
+0xC2BEB35E UndefeatedEnemyAfterGameClear_Enemy_Gohma_Egg
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Gohma_Egg == 0
+  - Bool:IsGameClear == true
+
+0x187AC42E UndefeatedEnemyAfterGameClear_Enemy_Gohma_Larva
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Gohma_Larva == 0
+  - Bool:IsGameClear == true
+
+0x51554C76 UndefeatedEnemyAfterGameClear_Enemy_Guay
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Guay == 0
+  - Bool:IsGameClear == true
+
+0x765853BA UndefeatedEnemyAfterGameClear_Enemy_Guay_Boss
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Guay_Boss == 0
+  - Bool:IsGameClear == true
+
+0xD6C318BF UndefeatedEnemyAfterGameClear_Enemy_Guay_Fixed
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Guay_Fixed == 0
+  - Bool:IsGameClear == true
+
+0x207342CF UndefeatedEnemyAfterGameClear_Enemy_Guay_Flock
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Guay_Flock == 0
+  - Bool:IsGameClear == true
+
+0x8E82CF65 UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Black
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_IronKnuckle_Black == 0
+  - Bool:IsGameClear == true
+
+0x54D87612 UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_Silver
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_IronKnuckle_Silver == 0
+  - Bool:IsGameClear == true
+
+0xD3EB396A UndefeatedEnemyAfterGameClear_Enemy_IronKnuckle_White
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_IronKnuckle_White == 0
+  - Bool:IsGameClear == true
+
+0xEB67144B UndefeatedEnemyAfterGameClear_Enemy_Keese
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Keese == 0
+  - Bool:IsGameClear == true
+
+0x0C6FF8AE UndefeatedEnemyAfterGameClear_Enemy_Keese_Fire
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Keese_Fire == 0
+  - Bool:IsGameClear == true
+
+0x06BAC046 UndefeatedEnemyAfterGameClear_Enemy_Keese_Ice
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Keese_Ice == 0
+  - Bool:IsGameClear == true
+
+0xFFD61CE4 UndefeatedEnemyAfterGameClear_Enemy_Keese_Truth
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Keese_Truth == 0
+  - Bool:IsGameClear == true
+
+0xFF07D58F UndefeatedEnemyAfterGameClear_Enemy_Leever
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Leever == 0
+  - Bool:IsGameClear == true
+
+0x6E5568EA UndefeatedEnemyAfterGameClear_Enemy_Leever_Big
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Leever_Big == 0
+  - Bool:IsGameClear == true
+
+0x0A66E7C1 UndefeatedEnemyAfterGameClear_Enemy_Leever_Fixed
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Leever_Fixed == 0
+  - Bool:IsGameClear == true
+
+0x569F676C UndefeatedEnemyAfterGameClear_Enemy_LikeLike
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_LikeLike == 0
+  - Bool:IsGameClear == true
+
+0x2343A1B6 UndefeatedEnemyAfterGameClear_Enemy_Lizalfos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Lizalfos == 0
+  - Bool:IsGameClear == true
+
+0xE2B8FDD8 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_BigOcto
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_BigOcto == 0
+  - Bool:IsGameClear == true
+
+0x1186FF1A UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_DarkLink
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_DarkLink == 0
+  - Bool:IsGameClear == true
+
+0xBDCC5CBF UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_FlareDancer
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_FlareDancer == 0
+  - Bool:IsGameClear == true
+
+0xF4BEC294 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief == 0
+  - Bool:IsGameClear == true
+
+0x2EAB43B7 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_02
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief_02 == 0
+  - Bool:IsGameClear == true
+
+0x03BACBB1 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_03
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief_03 == 0
+  - Bool:IsGameClear == true
+
+0x48067B75 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_GerudoThief_04
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_GerudoThief_04 == 0
+  - Bool:IsGameClear == true
+
+0xF6A43AB9 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_IronKnuckle_Nabooru
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_IronKnuckle_Nabooru == 0
+  - Bool:IsGameClear == true
+
+0x020D77A6 UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Lizalfos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_Lizalfos == 0
+  - Bool:IsGameClear == true
+
+0x75D16F0D UndefeatedEnemyAfterGameClear_Enemy_MiddleBoss_Poe_Meg
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_MiddleBoss_Poe_Meg == 0
+  - Bool:IsGameClear == true
+
+0x3840BF0A UndefeatedEnemyAfterGameClear_Enemy_Moblin
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Moblin == 0
+  - Bool:IsGameClear == true
+
+0xEBD02E4D UndefeatedEnemyAfterGameClear_Enemy_Moblin_Club
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Moblin_Club == 0
+  - Bool:IsGameClear == true
+
+0x37DA3722 UndefeatedEnemyAfterGameClear_Enemy_Octorok
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Octorok == 0
+  - Bool:IsGameClear == true
+
+0x7D15042F UndefeatedEnemyAfterGameClear_Enemy_Peahat
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Peahat == 0
+  - Bool:IsGameClear == true
+
+0x0052ACC9 UndefeatedEnemyAfterGameClear_Enemy_Peahat_AircraftCarrier
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Peahat_AircraftCarrier == 0
+  - Bool:IsGameClear == true
+
+0xDF7E6A30 UndefeatedEnemyAfterGameClear_Enemy_Peahat_Larva
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Peahat_Larva == 0
+  - Bool:IsGameClear == true
+
+0x7ECBA213 UndefeatedEnemyAfterGameClear_Enemy_Peahat_Larva_Independent
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Peahat_Larva_Independent == 0
+  - Bool:IsGameClear == true
+
+0x79493D75 UndefeatedEnemyAfterGameClear_Enemy_Poe
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe == 0
+  - Bool:IsGameClear == true
+
+0x20DDDFE8 UndefeatedEnemyAfterGameClear_Enemy_Poe_Amy
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Amy == 0
+  - Bool:IsGameClear == true
+
+0xA43ED8B0 UndefeatedEnemyAfterGameClear_Enemy_Poe_Base
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Base == 0
+  - Bool:IsGameClear == true
+
+0x1DE082A0 UndefeatedEnemyAfterGameClear_Enemy_Poe_Beth
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Beth == 0
+  - Bool:IsGameClear == true
+
+0x995C08CD UndefeatedEnemyAfterGameClear_Enemy_Poe_Big
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Big == 0
+  - Bool:IsGameClear == true
+
+0xBDA38F2E UndefeatedEnemyAfterGameClear_Enemy_Poe_Flat
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Flat == 0
+  - Bool:IsGameClear == true
+
+0xA23CCC01 UndefeatedEnemyAfterGameClear_Enemy_Poe_Hyrule
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Hyrule == 0
+  - Bool:IsGameClear == true
+
+0xE7863D50 UndefeatedEnemyAfterGameClear_Enemy_Poe_Joelle
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Joelle == 0
+  - Bool:IsGameClear == true
+
+0xBDBCD503 UndefeatedEnemyAfterGameClear_Enemy_Poe_Sharp
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_Sharp == 0
+  - Bool:IsGameClear == true
+
+0x46A7C8F6 UndefeatedEnemyAfterGameClear_Enemy_Poe_SistersBase
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Poe_SistersBase == 0
+  - Bool:IsGameClear == true
+
+0x53A8B92D UndefeatedEnemyAfterGameClear_Enemy_ReDead
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_ReDead == 0
+  - Bool:IsGameClear == true
+
+0xD7476EFD UndefeatedEnemyAfterGameClear_Enemy_ReDead_AlwaysRespawn
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_ReDead_AlwaysRespawn == 0
+  - Bool:IsGameClear == true
+
+0xA503C7BA UndefeatedEnemyAfterGameClear_Enemy_ReDead_ClimaxOnly
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_ReDead_ClimaxOnly == 0
+  - Bool:IsGameClear == true
+
+0x440A33B6 UndefeatedEnemyAfterGameClear_Enemy_Scrub_Business
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Scrub_Business == 0
+  - Bool:IsGameClear == true
+
+0x80CA91B3 UndefeatedEnemyAfterGameClear_Enemy_Scrub_Business_Seed
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Scrub_Business_Seed == 0
+  - Bool:IsGameClear == true
+
+0x164C8ABC UndefeatedEnemyAfterGameClear_Enemy_Scrub_Deku
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Scrub_Deku == 0
+  - Bool:IsGameClear == true
+
+0xA7288FD4 UndefeatedEnemyAfterGameClear_Enemy_Scrub_Deku_Brothers
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Scrub_Deku_Brothers == 0
+  - Bool:IsGameClear == true
+
+0x3240484A UndefeatedEnemyAfterGameClear_Enemy_Scrub_Mad
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Scrub_Mad == 0
+  - Bool:IsGameClear == true
+
+0x11763A0D UndefeatedEnemyAfterGameClear_Enemy_Shabom
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Shabom == 0
+  - Bool:IsGameClear == true
+
+0x07F07E4C UndefeatedEnemyAfterGameClear_Enemy_Shabom_AlwaysRespawn
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Shabom_AlwaysRespawn == 0
+  - Bool:IsGameClear == true
+
+0xA9238728 UndefeatedEnemyAfterGameClear_Enemy_Shabom_BigOctoChild
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Shabom_BigOctoChild == 0
+  - Bool:IsGameClear == true
+
+0xBDA5DA2C UndefeatedEnemyAfterGameClear_Enemy_ShellBlade
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_ShellBlade == 0
+  - Bool:IsGameClear == true
+
+0x7BB91440 UndefeatedEnemyAfterGameClear_Enemy_SkullKid
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_SkullKid == 0
+  - Bool:IsGameClear == true
+
+0xF2210A39 UndefeatedEnemyAfterGameClear_Enemy_Skulltula
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Skulltula == 0
+  - Bool:IsGameClear == true
+
+0x814D5B30 UndefeatedEnemyAfterGameClear_Enemy_Skulltula_Gold
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Skulltula_Gold == 0
+  - Bool:IsGameClear == true
+
+0xBE2A5206 UndefeatedEnemyAfterGameClear_Enemy_Skulltula_Truth
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Skulltula_Truth == 0
+  - Bool:IsGameClear == true
+
+0xCE36D73C UndefeatedEnemyAfterGameClear_Enemy_Skullwalltula
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Skullwalltula == 0
+  - Bool:IsGameClear == true
+
+0xFF011A39 UndefeatedEnemyAfterGameClear_Enemy_Spike
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Spike == 0
+  - Bool:IsGameClear == true
+
+0x5BF7F984 UndefeatedEnemyAfterGameClear_Enemy_Stalchild
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stalchild == 0
+  - Bool:IsGameClear == true
+
+0x322C47D9 UndefeatedEnemyAfterGameClear_Enemy_Stalchild_Big
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stalchild_Big == 0
+  - Bool:IsGameClear == true
+
+0x83D36A15 UndefeatedEnemyAfterGameClear_Enemy_Stalfos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stalfos == 0
+  - Bool:IsGameClear == true
+
+0x4BECA38F UndefeatedEnemyAfterGameClear_Enemy_Stalfos_AlwaysRespawn
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stalfos_AlwaysRespawn == 0
+  - Bool:IsGameClear == true
+
+0xDF3C6AE8 UndefeatedEnemyAfterGameClear_Enemy_Stalfos_ForChild
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stalfos_ForChild == 0
+  - Bool:IsGameClear == true
+
+0x735263FB UndefeatedEnemyAfterGameClear_Enemy_Stalfos_Weak
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stalfos_Weak == 0
+  - Bool:IsGameClear == true
+
+0x1E12A742 UndefeatedEnemyAfterGameClear_Enemy_Stinger
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stinger == 0
+  - Bool:IsGameClear == true
+
+0xF3E89649 UndefeatedEnemyAfterGameClear_Enemy_Stinger_UnderWater
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Stinger_UnderWater == 0
+  - Bool:IsGameClear == true
+
+0x41DE1A2D UndefeatedEnemyAfterGameClear_Enemy_Tailpasaran
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Tailpasaran == 0
+  - Bool:IsGameClear == true
+
+0x9EEA0042 UndefeatedEnemyAfterGameClear_Enemy_Tektite_Blue
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Tektite_Blue == 0
+  - Bool:IsGameClear == true
+
+0x5CD198F9 UndefeatedEnemyAfterGameClear_Enemy_Tektite_Red
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Tektite_Red == 0
+  - Bool:IsGameClear == true
+
+0x919397F6 UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Blue
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Tentacle_Blue == 0
+  - Bool:IsGameClear == true
+
+0xD93563F6 UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Green
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Tentacle_Green == 0
+  - Bool:IsGameClear == true
+
+0x72C48953 UndefeatedEnemyAfterGameClear_Enemy_Tentacle_Red
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Tentacle_Red == 0
+  - Bool:IsGameClear == true
+
+0xE8384F2C UndefeatedEnemyAfterGameClear_Enemy_TorchSlug
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_TorchSlug == 0
+  - Bool:IsGameClear == true
+
+0x6F52D858 UndefeatedEnemyAfterGameClear_Enemy_TrickyDoor
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_TrickyDoor == 0
+  - Bool:IsGameClear == true
+
+0xB0759F18 UndefeatedEnemyAfterGameClear_Enemy_TrickyDoor_SpiritTemple
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_TrickyDoor_SpiritTemple == 0
+  - Bool:IsGameClear == true
+
+0x5F5FB074 UndefeatedEnemyAfterGameClear_Enemy_Wallmaster
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Wallmaster == 0
+  - Bool:IsGameClear == true
+
+0x24072C7C UndefeatedEnemyAfterGameClear_Enemy_Wolfos
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Wolfos == 0
+  - Bool:IsGameClear == true
+
+0xB64D5F00 UndefeatedEnemyAfterGameClear_Enemy_Wolfos_White
+ALL:
+  - Int:DefeatedEnemyNum.Enemy_Wolfos_White == 0
+  - Bool:IsGameClear == true
+
+0xB5FD5B86 UndefeatedEnemyAfterGameClear_Npc_Hylia_MSP_Default
+ALL:
+  - Int:DefeatedEnemyNum.Npc_Hylia_MSP_Default == 0
+  - Bool:IsGameClear == true
+
+0x12563453 UndefeatedEnemyAfterGameClear_Npc_SkullChild_001
+ALL:
+  - Int:DefeatedEnemyNum.Npc_SkullChild_001 == 0
+  - Bool:IsGameClear == true
+
+0x234DD73E UndefeatedEnemyAfterGameClear_Npc_SkullChild_002
+ALL:
+  - Int:DefeatedEnemyNum.Npc_SkullChild_002 == 0
+  - Bool:IsGameClear == true
+
+0x171ABD27 UndefeatedEnemyAfterGameClear_Npc_SkullChild_003
+ALL:
+  - Int:DefeatedEnemyNum.Npc_SkullChild_003 == 0
+  - Bool:IsGameClear == true
+
+0x873119D5 UndefeatedEnemyAfterGameClear_Npc_SkullChild_004
+ALL:
+  - Int:DefeatedEnemyNum.Npc_SkullChild_004 == 0
+  - Bool:IsGameClear == true
+
+0x52E06AE4 UndefeatedEnemyAfterGameClear_Npc_SkullChild_005
+ALL:
+  - Int:DefeatedEnemyNum.Npc_SkullChild_005 == 0
+  - Bool:IsGameClear == true
+
+0x69EBF4AD UndefeatedEnemyAfterGameClear_Npc_SkullDad
+ALL:
+  - Int:DefeatedEnemyNum.Npc_SkullDad == 0
+  - Bool:IsGameClear == true
+
+0xD0E8B88F WaterTemple_EnableBgmSilenceInDarkLinkRoom
+ALL:
+  - Bool:WaterTemple_DarkLinkRoom_Locked == true
+  - Bool:WaterTemple_Room22_Cleared == false
+
+0x7E8A6B3D ZoraDomain_ExistWater
+ANY:
+  - BoolExp:SageOfWater_IsCompleted_Exp
+  - Bool:Sequence_IsChildhood == true
+
