@@ -2926,7 +2926,7 @@ ALL:
   - Bool:Sequence_IsChildhood == false
   - Bool:KakarikoVillage_LeaveKakariko_Npc_Hylia_Talon_Adult == false
 
-0x8BA651E2 Unknown
+0x8BA651E2 UI_IsNeedOpenOcarinaSongEstimateByUserInput
 ALL:
   - Bool:IsGet.Item_Melody_ZeldaLullaby == true
   - Bool:0x47D46265 == false
