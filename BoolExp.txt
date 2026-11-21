@@ -2270,7 +2270,7 @@ ALL:
 0x7AC5091A Unknown
 Enum:Step_EscapeFromCrumblingGanonCastle == Step04
 
-0x68864873 Unknown
+0x68864873 Npc_Kokiri_004_Child_NpcFairy_AvoidPlayer_BoolExp
 ANY:
   - ALL:
       - Bool:KokiriForest_Npc_Kokiri_004_Child_IsAfterFirstTalk == true
@@ -2929,7 +2929,7 @@ ALL:
 0x8BA651E2 UI_IsNeedOpenOcarinaSongEstimateByUserInput
 ALL:
   - Bool:IsGet.Item_Melody_ZeldaLullaby == true
-  - Bool:0x47D46265 == false
+  - Bool:UI_IsOpenedOcarinaSongEstimateByUserInput == false
 
 0x566BEFCC UndefeatedEnemyAfterGameClear_Dm_Enemy_DungeonBoss_Volvagia
 ALL:
