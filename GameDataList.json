@@ -3272,7 +3272,8 @@
           "DefaultValue": false,
           "Hash": 1226587637,
           "ResetTypeValue": 0,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "DebugParam.IsAfterResetGameDataAll"
         },
         {
           "DefaultValue": false,
@@ -3291,7 +3292,8 @@
           "DefaultValue": false,
           "Hash": 296840808,
           "ResetTypeValue": 16,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "DebugParam.IsEnterMQScene"
         },
         {
           "DefaultValue": false,
@@ -3364,7 +3366,8 @@
           "DefaultValue": false,
           "Hash": 2618871827,
           "ResetTypeValue": 8,
-          "SaveFileIndex": -1
+          "SaveFileIndex": -1,
+          "HashText": "DebugParam.IsPauseAutoSaveRequest"
         },
         {
           "DefaultValue": false,
@@ -17044,7 +17047,8 @@
           "DefaultValue": false,
           "Hash": 2671641746,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "EscapeFromCrumblingGanonCastle_FocusOnZelda"
         },
         {
           "DefaultValue": false,
@@ -25087,19 +25091,22 @@
           "DefaultValue": false,
           "Hash": 2768201342,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Animal_Cow_MQ_InsideJabuJabuBelly_Switch_D_T"
         },
         {
           "DefaultValue": false,
           "Hash": 1917128132,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Animal_Cow_MQ_InsideJabuJabuBelly_Switch_GiveMilk"
         },
         {
           "DefaultValue": false,
           "Hash": 4099676178,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Animal_Cow_MQ_InsideJabuJabuBelly_Switch_PushToBottleMilk"
         },
         {
           "DefaultValue": false,
@@ -30236,7 +30243,8 @@
           "DefaultValue": false,
           "Hash": 3902376136,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.EscapeFromCrumblingGanonCastle_1F_ZeldaStopEnemy"
         },
         {
           "DefaultValue": false,
@@ -30270,7 +30278,8 @@
           "DefaultValue": false,
           "Hash": 1099256516,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.EscapeFromCrumblingGanonCastle_OpenDoor_5F_Entrance"
         },
         {
           "DefaultValue": false,
@@ -30290,13 +30299,15 @@
           "DefaultValue": false,
           "Hash": 2054268839,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.EventAddTest_D026"
         },
         {
           "DefaultValue": false,
           "Hash": 3055530691,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.EventAddTest_M476"
         },
         {
           "DefaultValue": false,
@@ -32010,7 +32021,8 @@
           "DefaultValue": false,
           "Hash": 376174009,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Gimmick_Open_Close_FireTemple"
         },
         {
           "DefaultValue": false,
@@ -32587,7 +32599,8 @@
           "DefaultValue": false,
           "Hash": 3870700067,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.HyruleCastle_DoorOfTime_MeetImpa"
         },
         {
           "DefaultValue": false,
@@ -32963,7 +32976,8 @@
           "DefaultValue": false,
           "Hash": 3422543433,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.InsideGanonCastle_Dungeon_ToHall"
         },
         {
           "DefaultValue": false,
@@ -33438,7 +33452,8 @@
           "DefaultValue": false,
           "Hash": 1211396611,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.InsideTheDekuTree_MQ_Gimmick_CandleAndSpiderWeb_01"
         },
         {
           "DefaultValue": false,
@@ -33479,7 +33494,8 @@
           "DefaultValue": false,
           "Hash": 2264224509,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.InsideTheDekuTree_MQ_RoomD_TreasureBoxAppeared"
         },
         {
           "DefaultValue": false,
@@ -33492,7 +33508,8 @@
           "DefaultValue": false,
           "Hash": 2440504609,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.InsideTheDekuTree_MQ_RoomG_CandleFire"
         },
         {
           "DefaultValue": false,
@@ -33575,7 +33592,8 @@
           "DefaultValue": false,
           "Hash": 4260436599,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.KakarikoVillage_Hylia_009_AfterPlayStormSong_Adult"
         },
         {
           "DefaultValue": false,
@@ -34427,7 +34445,8 @@
           "DefaultValue": false,
           "Hash": 442593559,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.MiniGame_HorsebackArchery_EnterPlayArea"
         },
         {
           "DefaultValue": false,
@@ -34772,7 +34791,8 @@
           "DefaultValue": false,
           "Hash": 1386206001,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.NaviHint_Obj_KokiriForest_Crawl"
         },
         {
           "DefaultValue": false,
@@ -41291,37 +41311,43 @@
           "DefaultValue": false,
           "Hash": 778958270,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_EquippedMask_D_T"
         },
         {
           "DefaultValue": false,
           "Hash": 1225300638,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_EventAction_D_N"
         },
         {
           "DefaultValue": false,
           "Hash": 530910047,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_EventAction_D_T"
         },
         {
           "DefaultValue": false,
           "Hash": 2733351881,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_EventAction_TalkFromAttentionActor"
         },
         {
           "DefaultValue": false,
           "Hash": 3569850019,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_FollowMove_D_CN"
         },
         {
           "DefaultValue": false,
           "Hash": 175067855,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_FollowMove_D_CT"
         },
         {
           "DefaultValue": false,
@@ -41363,7 +41389,8 @@
           "DefaultValue": false,
           "Hash": 719179224,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Npc_RoutineTest_GoBackHome_D_T"
         },
         {
           "DefaultValue": false,
@@ -42298,7 +42325,8 @@
           "DefaultValue": false,
           "Hash": 1481754197,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.RoyalFamilyTomb_CheckStone_To_MelodyGet_Sun"
         },
         {
           "DefaultValue": false,
@@ -44210,13 +44238,15 @@
           "DefaultValue": false,
           "Hash": 1740508226,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_EscapeFromGanonCastle_OpenDoor_1F_HoldEnemy"
         },
         {
           "DefaultValue": false,
           "Hash": 3080218415,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_EscapeFromGanonCastle_OpenDoor_5F_Entrance"
         },
         {
           "DefaultValue": false,
@@ -44250,7 +44280,8 @@
           "DefaultValue": false,
           "Hash": 1321622825,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Flowchart_AllHideEvent"
         },
         {
           "DefaultValue": false,
@@ -44262,19 +44293,22 @@
           "DefaultValue": false,
           "Hash": 2924910849,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Flowchart_Camera_Keep"
         },
         {
           "DefaultValue": false,
           "Hash": 2825050429,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Flowchart_Camera_KeepAndReset"
         },
         {
           "DefaultValue": false,
           "Hash": 3925116635,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Flowchart_Camera_Reset"
         },
         {
           "DefaultValue": false,
@@ -44286,7 +44320,8 @@
           "DefaultValue": false,
           "Hash": 3498702089,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Flowchart_Camera_Warp_AnchorPos"
         },
         {
           "DefaultValue": false,
@@ -46144,13 +46179,15 @@
           "DefaultValue": false,
           "Hash": 2427596018,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Npc_Zora_KingZora_ZU_KingZora_002_D_N"
         },
         {
           "DefaultValue": false,
           "Hash": 855818502,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.Test_Npc_Zora_KingZora_ZU_KingZora_002_D_T"
         },
         {
           "DefaultValue": false,
@@ -46786,19 +46823,22 @@
           "DefaultValue": false,
           "Hash": 2681803107,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Gimmick_OpenShutter_Room00"
         },
         {
           "DefaultValue": false,
           "Hash": 1946763353,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room00_FirstSwitch01"
         },
         {
           "DefaultValue": false,
           "Hash": 868842715,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room01_AllCandleFire"
         },
         {
           "DefaultValue": false,
@@ -46811,25 +46851,29 @@
           "DefaultValue": false,
           "Hash": 3181042888,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room03_CandleFire"
         },
         {
           "DefaultValue": false,
           "Hash": 20706821,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room04_FirstSwitch01"
         },
         {
           "DefaultValue": false,
           "Hash": 1008135419,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room05_HookAppeared_01"
         },
         {
           "DefaultValue": false,
           "Hash": 2981600692,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room05_HookAppeared_02"
         },
         {
           "DefaultValue": false,
@@ -46842,19 +46886,22 @@
           "DefaultValue": false,
           "Hash": 3126757551,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room08_CandleFire"
         },
         {
           "DefaultValue": false,
           "Hash": 938157167,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room08_FirstSwitch01"
         },
         {
           "DefaultValue": false,
           "Hash": 4095934010,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room10_FirstSwitch01"
         },
         {
           "DefaultValue": false,
@@ -46881,13 +46928,15 @@
           "DefaultValue": false,
           "Hash": 2145395232,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room15_CandleFire"
         },
         {
           "DefaultValue": false,
           "Hash": 1293245691,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room16_TBoxAppeared"
         },
         {
           "DefaultValue": false,
@@ -46900,19 +46949,22 @@
           "DefaultValue": false,
           "Hash": 1134343053,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room17_LongHookGet"
         },
         {
           "DefaultValue": false,
           "Hash": 1510807511,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room18_HookAppeared"
         },
         {
           "DefaultValue": false,
           "Hash": 2800258230,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "HavePlayedEvent.WaterTemple_MQ_Room20_FirstSwitch01"
         },
         {
           "DefaultValue": false,
@@ -70221,7 +70273,8 @@
           "DefaultValue": false,
           "Hash": 3634057318,
           "ResetTypeValue": 8,
-          "SaveFileIndex": 0
+          "SaveFileIndex": 0,
+          "HashText": "Morpha_ChageEnvPallet"
         },
         {
           "DefaultValue": false,
@@ -178740,8 +178793,8 @@
             {
               "Hash": 3218826997,
               "Value": 1226587637,
-              "HashHex": "BFDB66F5",
-              "ValueHex": "491C3DF5"
+              "HashText": "IsAfterResetGameDataAll",
+              "ValueText": "DebugParam.IsAfterResetGameDataAll"
             },
             {
               "Hash": 126809376,
@@ -178764,8 +178817,8 @@
             {
               "Hash": 1009873381,
               "Value": 296840808,
-              "HashHex": "3C3171E5",
-              "ValueHex": "11B16E68"
+              "HashText": "IsEnterMQScene",
+              "ValueText": "DebugParam.IsEnterMQScene"
             },
             {
               "Hash": 4026767988,
@@ -178800,8 +178853,8 @@
             {
               "Hash": 236280081,
               "Value": 2618871827,
-              "HashHex": "0E155911",
-              "ValueHex": "9C18D013"
+              "HashText": "IsPauseAutoSaveRequest",
+              "ValueText": "DebugParam.IsPauseAutoSaveRequest"
             },
             {
               "Hash": 1369822954,
@@ -208145,20 +208198,20 @@
             {
               "Hash": 519385009,
               "Value": 2768201342,
-              "HashHex": "1EF52FB1",
-              "ValueHex": "A4FF667E"
+              "HashText": "Animal_Cow_MQ_InsideJabuJabuBelly_Switch_D_T",
+              "ValueText": "HavePlayedEvent.Animal_Cow_MQ_InsideJabuJabuBelly_Switch_D_T"
             },
             {
               "Hash": 1454159222,
               "Value": 1917128132,
-              "HashHex": "56ACB576",
-              "ValueHex": "72450DC4"
+              "HashText": "Animal_Cow_MQ_InsideJabuJabuBelly_Switch_GiveMilk",
+              "ValueText": "HavePlayedEvent.Animal_Cow_MQ_InsideJabuJabuBelly_Switch_GiveMilk"
             },
             {
               "Hash": 1691138665,
               "Value": 4099676178,
-              "HashHex": "64CCBA69",
-              "ValueHex": "F45C1812"
+              "HashText": "Animal_Cow_MQ_InsideJabuJabuBelly_Switch_PushToBottleMilk",
+              "ValueText": "HavePlayedEvent.Animal_Cow_MQ_InsideJabuJabuBelly_Switch_PushToBottleMilk"
             },
             {
               "Hash": 1365891840,
@@ -212567,8 +212620,8 @@
             {
               "Hash": 1053812206,
               "Value": 3902376136,
-              "HashHex": "3ECFE5EE",
-              "ValueHex": "E89988C8"
+              "HashText": "EscapeFromCrumblingGanonCastle_1F_ZeldaStopEnemy",
+              "ValueText": "HavePlayedEvent.EscapeFromCrumblingGanonCastle_1F_ZeldaStopEnemy"
             },
             {
               "Hash": 3533925169,
@@ -212597,8 +212650,8 @@
             {
               "Hash": 1564127244,
               "Value": 1099256516,
-              "HashHex": "5D3AB00C",
-              "ValueHex": "418552C4"
+              "HashText": "EscapeFromCrumblingGanonCastle_OpenDoor_5F_Entrance",
+              "ValueText": "HavePlayedEvent.EscapeFromCrumblingGanonCastle_OpenDoor_5F_Entrance"
             },
             {
               "Hash": 1378263866,
@@ -212615,14 +212668,14 @@
             {
               "Hash": 4068571379,
               "Value": 2054268839,
-              "HashHex": "F28178F3",
-              "ValueHex": "7A71A7A7"
+              "HashText": "EventAddTest_D026",
+              "ValueText": "HavePlayedEvent.EventAddTest_D026"
             },
             {
               "Hash": 2392953326,
               "Value": 3055530691,
-              "HashHex": "8EA191EE",
-              "ValueHex": "B61FB2C3"
+              "HashText": "EventAddTest_M476",
+              "ValueText": "HavePlayedEvent.EventAddTest_M476"
             },
             {
               "Hash": 3265258429,
@@ -214103,8 +214156,8 @@
             {
               "Hash": 2834868869,
               "Value": 376174009,
-              "HashHex": "A8F8AA85",
-              "ValueHex": "166BF5B9"
+              "HashText": "Gimmick_Open_Close_FireTemple",
+              "ValueText": "HavePlayedEvent.Gimmick_Open_Close_FireTemple"
             },
             {
               "Hash": 1382349603,
@@ -214601,8 +214654,8 @@
             {
               "Hash": 352679230,
               "Value": 3870700067,
-              "HashHex": "1505753E",
-              "ValueHex": "E6B63223"
+              "HashText": "HyruleCastle_DoorOfTime_MeetImpa",
+              "ValueText": "HavePlayedEvent.HyruleCastle_DoorOfTime_MeetImpa"
             },
             {
               "Hash": 3029969896,
@@ -214925,8 +214978,8 @@
             {
               "Hash": 3397880052,
               "Value": 3422543433,
-              "HashHex": "CA8788F4",
-              "ValueHex": "CBFFDE49"
+              "HashText": "InsideGanonCastle_Dungeon_ToHall",
+              "ValueText": "HavePlayedEvent.InsideGanonCastle_Dungeon_ToHall"
             },
             {
               "Hash": 3964598662,
@@ -215333,8 +215386,8 @@
             {
               "Hash": 1630709103,
               "Value": 1211396611,
-              "HashHex": "6132A56F",
-              "ValueHex": "48347203"
+              "HashText": "InsideTheDekuTree_MQ_Gimmick_CandleAndSpiderWeb_01",
+              "ValueText": "HavePlayedEvent.InsideTheDekuTree_MQ_Gimmick_CandleAndSpiderWeb_01"
             },
             {
               "Hash": 3708311417,
@@ -215369,8 +215422,8 @@
             {
               "Hash": 3863968456,
               "Value": 2264224509,
-              "HashHex": "E64F7AC8",
-              "ValueHex": "86F552FD"
+              "HashText": "InsideTheDekuTree_MQ_RoomD_TreasureBoxAppeared",
+              "ValueText": "HavePlayedEvent.InsideTheDekuTree_MQ_RoomD_TreasureBoxAppeared"
             },
             {
               "Hash": 2861921840,
@@ -215381,8 +215434,8 @@
             {
               "Hash": 1004457375,
               "Value": 2440504609,
-              "HashHex": "3BDECD9F",
-              "ValueHex": "91772521"
+              "HashText": "InsideTheDekuTree_MQ_RoomG_CandleFire",
+              "ValueText": "HavePlayedEvent.InsideTheDekuTree_MQ_RoomG_CandleFire"
             },
             {
               "Hash": 415894003,
@@ -215453,8 +215506,8 @@
             {
               "Hash": 1295531130,
               "Value": 4260436599,
-              "HashHex": "4D383C7A",
-              "ValueHex": "FDF11A77"
+              "HashText": "KakarikoVillage_Hylia_009_AfterPlayStormSong_Adult",
+              "ValueText": "HavePlayedEvent.KakarikoVillage_Hylia_009_AfterPlayStormSong_Adult"
             },
             {
               "Hash": 1544100926,
@@ -216197,8 +216250,8 @@
             {
               "Hash": 3951381207,
               "Value": 442593559,
-              "HashHex": "EB854AD7",
-              "ValueHex": "1A617117"
+              "HashText": "MiniGame_HorsebackArchery_EnterPlayArea",
+              "ValueText": "HavePlayedEvent.MiniGame_HorsebackArchery_EnterPlayArea"
             },
             {
               "Hash": 1275369234,
@@ -216521,8 +216574,8 @@
             {
               "Hash": 709520502,
               "Value": 1386206001,
-              "HashHex": "2A4A6C76",
-              "ValueHex": "529FD331"
+              "HashText": "NaviHint_Obj_KokiriForest_Crawl",
+              "ValueText": "HavePlayedEvent.NaviHint_Obj_KokiriForest_Crawl"
             },
             {
               "Hash": 2366325866,
@@ -222179,38 +222232,38 @@
             {
               "Hash": 746555062,
               "Value": 778958270,
-              "HashHex": "2C7F86B6",
-              "ValueHex": "2E6DF5BE"
+              "HashText": "Npc_RoutineTest_EquippedMask_D_T",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_EquippedMask_D_T"
             },
             {
               "Hash": 2583981146,
               "Value": 1225300638,
-              "HashHex": "9A046C5A",
-              "ValueHex": "49089A9E"
+              "HashText": "Npc_RoutineTest_EventAction_D_N",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_EventAction_D_N"
             },
             {
               "Hash": 2190302122,
               "Value": 530910047,
-              "HashHex": "828D5BAA",
-              "ValueHex": "1FA50B5F"
+              "HashText": "Npc_RoutineTest_EventAction_D_T",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_EventAction_D_T"
             },
             {
               "Hash": 2746758908,
               "Value": 2733351881,
-              "HashHex": "A3B836FC",
-              "ValueHex": "A2EBA3C9"
+              "HashText": "Npc_RoutineTest_EventAction_TalkFromAttentionActor",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_EventAction_TalkFromAttentionActor"
             },
             {
               "Hash": 864681077,
               "Value": 3569850019,
-              "HashHex": "3389FC75",
-              "ValueHex": "D4C796A3"
+              "HashText": "Npc_RoutineTest_FollowMove_D_CN",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_FollowMove_D_CN"
             },
             {
               "Hash": 4190165223,
               "Value": 175067855,
-              "HashHex": "F9C0D8E7",
-              "ValueHex": "0A6F52CF"
+              "HashText": "Npc_RoutineTest_FollowMove_D_CT",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_FollowMove_D_CT"
             },
             {
               "Hash": 3447591345,
@@ -222251,8 +222304,8 @@
             {
               "Hash": 2183235163,
               "Value": 719179224,
-              "HashHex": "8221865B",
-              "ValueHex": "2ADDCDD8"
+              "HashText": "Npc_RoutineTest_GoBackHome_D_T",
+              "ValueText": "HavePlayedEvent.Npc_RoutineTest_GoBackHome_D_T"
             },
             {
               "Hash": 2510758895,
@@ -223055,8 +223108,8 @@
             {
               "Hash": 2903746310,
               "Value": 1481754197,
-              "HashHex": "AD13A706",
-              "ValueHex": "5851C655"
+              "HashText": "RoyalFamilyTomb_CheckStone_To_MelodyGet_Sun",
+              "ValueText": "HavePlayedEvent.RoyalFamilyTomb_CheckStone_To_MelodyGet_Sun"
             },
             {
               "Hash": 270460692,
@@ -224717,14 +224770,14 @@
             {
               "Hash": 772554997,
               "Value": 1740508226,
-              "HashHex": "2E0C40F5",
-              "ValueHex": "67BE0C42"
+              "HashText": "Test_EscapeFromGanonCastle_OpenDoor_1F_HoldEnemy",
+              "ValueText": "HavePlayedEvent.Test_EscapeFromGanonCastle_OpenDoor_1F_HoldEnemy"
             },
             {
               "Hash": 1676888280,
               "Value": 3080218415,
-              "HashHex": "63F348D8",
-              "ValueHex": "B798672F"
+              "HashText": "Test_EscapeFromGanonCastle_OpenDoor_5F_Entrance",
+              "ValueText": "HavePlayedEvent.Test_EscapeFromGanonCastle_OpenDoor_5F_Entrance"
             },
             {
               "Hash": 3393822323,
@@ -224753,8 +224806,8 @@
             {
               "Hash": 1541987529,
               "Value": 1321622825,
-              "HashHex": "5BE8DCC9",
-              "ValueHex": "4EC65D29"
+              "HashText": "Test_Flowchart_AllHideEvent",
+              "ValueText": "HavePlayedEvent.Test_Flowchart_AllHideEvent"
             },
             {
               "Hash": 2137556523,
@@ -224765,20 +224818,20 @@
             {
               "Hash": 3118359207,
               "Value": 2924910849,
-              "HashHex": "B9DE62A7",
-              "ValueHex": "AE569901"
+              "HashText": "Test_Flowchart_Camera_Keep",
+              "ValueText": "HavePlayedEvent.Test_Flowchart_Camera_Keep"
             },
             {
               "Hash": 2052082019,
               "Value": 2825050429,
-              "HashHex": "7A504963",
-              "ValueHex": "A862D93D"
+              "HashText": "Test_Flowchart_Camera_KeepAndReset",
+              "ValueText": "HavePlayedEvent.Test_Flowchart_Camera_KeepAndReset"
             },
             {
               "Hash": 3623344045,
               "Value": 3925116635,
-              "HashHex": "D7F7D7AD",
-              "ValueHex": "E9F486DB"
+              "HashText": "Test_Flowchart_Camera_Reset",
+              "ValueText": "HavePlayedEvent.Test_Flowchart_Camera_Reset"
             },
             {
               "Hash": 2329159251,
@@ -224789,8 +224842,8 @@
             {
               "Hash": 3427005277,
               "Value": 3498702089,
-              "HashHex": "CC43F35D",
-              "ValueHex": "D089F509"
+              "HashText": "Test_Flowchart_Camera_Warp_AnchorPos",
+              "ValueText": "HavePlayedEvent.Test_Flowchart_Camera_Warp_AnchorPos"
             },
             {
               "Hash": 3613504597,
@@ -226457,14 +226510,14 @@
             {
               "Hash": 2175677169,
               "Value": 2427596018,
-              "HashHex": "81AE32F1",
-              "ValueHex": "90B22CF2"
+              "HashText": "Test_Npc_Zora_KingZora_ZU_KingZora_002_D_N",
+              "ValueText": "HavePlayedEvent.Test_Npc_Zora_KingZora_ZU_KingZora_002_D_N"
             },
             {
               "Hash": 961824738,
               "Value": 855818502,
-              "HashHex": "395447E2",
-              "ValueHex": "3302C106"
+              "HashText": "Test_Npc_Zora_KingZora_ZU_KingZora_002_D_T",
+              "ValueText": "HavePlayedEvent.Test_Npc_Zora_KingZora_ZU_KingZora_002_D_T"
             },
             {
               "Hash": 963467070,
@@ -227033,20 +227086,20 @@
             {
               "Hash": 2094877117,
               "Value": 2681803107,
-              "HashHex": "7CDD49BD",
-              "ValueHex": "9FD91163"
+              "HashText": "WaterTemple_MQ_Gimmick_OpenShutter_Room00",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Gimmick_OpenShutter_Room00"
             },
             {
               "Hash": 4207734336,
               "Value": 1946763353,
-              "HashHex": "FACCEE40",
-              "ValueHex": "74094059"
+              "HashText": "WaterTemple_MQ_Room00_FirstSwitch01",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room00_FirstSwitch01"
             },
             {
               "Hash": 2163698681,
               "Value": 868842715,
-              "HashHex": "80F76BF9",
-              "ValueHex": "33C97CDB"
+              "HashText": "WaterTemple_MQ_Room01_AllCandleFire",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room01_AllCandleFire"
             },
             {
               "Hash": 1823324229,
@@ -227057,26 +227110,26 @@
             {
               "Hash": 2981310478,
               "Value": 3181042888,
-              "HashHex": "B1B3300E",
-              "ValueHex": "BD9ADCC8"
+              "HashText": "WaterTemple_MQ_Room03_CandleFire",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room03_CandleFire"
             },
             {
               "Hash": 540047056,
               "Value": 20706821,
-              "HashHex": "203076D0",
-              "ValueHex": "013BF605"
+              "HashText": "WaterTemple_MQ_Room04_FirstSwitch01",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room04_FirstSwitch01"
             },
             {
               "Hash": 839709277,
               "Value": 1008135419,
-              "HashHex": "320CF25D",
-              "ValueHex": "3C16ECFB"
+              "HashText": "WaterTemple_MQ_Room05_HookAppeared_01",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room05_HookAppeared_01"
             },
             {
               "Hash": 3425006728,
               "Value": 2981600692,
-              "HashHex": "CC257488",
-              "ValueHex": "B1B79DB4"
+              "HashText": "WaterTemple_MQ_Room05_HookAppeared_02",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room05_HookAppeared_02"
             },
             {
               "Hash": 1911628938,
@@ -227087,20 +227140,20 @@
             {
               "Hash": 886031221,
               "Value": 3126757551,
-              "HashHex": "34CFC375",
-              "ValueHex": "BA5E88AF"
+              "HashText": "WaterTemple_MQ_Room08_CandleFire",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room08_CandleFire"
             },
             {
               "Hash": 4032026425,
               "Value": 938157167,
-              "HashHex": "F053D739",
-              "ValueHex": "37EB246F"
+              "HashText": "WaterTemple_MQ_Room08_FirstSwitch01",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room08_FirstSwitch01"
             },
             {
               "Hash": 1568552292,
               "Value": 4095934010,
-              "HashHex": "5D7E3564",
-              "ValueHex": "F422FE3A"
+              "HashText": "WaterTemple_MQ_Room10_FirstSwitch01",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room10_FirstSwitch01"
             },
             {
               "Hash": 3143983228,
@@ -227123,14 +227176,14 @@
             {
               "Hash": 1978250430,
               "Value": 2145395232,
-              "HashHex": "75E9B4BE",
-              "ValueHex": "7FE02220"
+              "HashText": "WaterTemple_MQ_Room15_CandleFire",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room15_CandleFire"
             },
             {
               "Hash": 66358144,
               "Value": 1293245691,
-              "HashHex": "03F48B80",
-              "ValueHex": "4D155CFB"
+              "HashText": "WaterTemple_MQ_Room16_TBoxAppeared",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room16_TBoxAppeared"
             },
             {
               "Hash": 2157449200,
@@ -227141,20 +227194,20 @@
             {
               "Hash": 220688145,
               "Value": 1134343053,
-              "HashHex": "0D276F11",
-              "ValueHex": "439CB38D"
+              "HashText": "WaterTemple_MQ_Room17_LongHookGet",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room17_LongHookGet"
             },
             {
               "Hash": 3410867101,
               "Value": 1510807511,
-              "HashHex": "CB4DB39D",
-              "ValueHex": "5A0D17D7"
+              "HashText": "WaterTemple_MQ_Room18_HookAppeared",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room18_HookAppeared"
             },
             {
               "Hash": 1271356192,
               "Value": 2800258230,
-              "HashHex": "4BC75B20",
-              "ValueHex": "A6E88CB6"
+              "HashText": "WaterTemple_MQ_Room20_FirstSwitch01",
+              "ValueText": "HavePlayedEvent.WaterTemple_MQ_Room20_FirstSwitch01"
             },
             {
               "Hash": 3667079012,
